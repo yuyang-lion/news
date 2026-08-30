@@ -1,0 +1,44 @@
+[
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "site": "https://openai.com/news",
+    "feed": "https://openai.com/news/rss.xml",
+    "default_category": "products"
+  },
+  {
+    "id": "google-ai",
+    "name": "Google AI",
+    "site": "https://blog.google/technology/ai/",
+    "feed": "https://blog.google/technology/ai/rss/",
+    "default_category": "products"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch AI",
+    "site": "https://techcrunch.com/category/artificial-intelligence/",
+    "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "default_category": "industry"
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge AI",
+    "site": "https://www.theverge.com/ai-artificial-intelligence",
+    "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "default_category": "industry"
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Tech Review",
+    "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "default_category": "research"
+  },
+  {
+    "id": "venturebeat",
+    "name": "VentureBeat AI",
+    "site": "https://venturebeat.com/category/ai/",
+    "feed": "https://venturebeat.com/category/ai/feed/",
+    "default_category": "industry"
+  }
+]

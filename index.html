@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>每日 AI 新闻</title>
+  <meta name="description" content="每天自动收集全球 AI 新闻、研究与产品动态。">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/news.js" defer></script>
+  <script src="vendor/lucide.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#news-grid" data-i18n="skip">跳到新闻列表</a>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">AI</span>
+        <span class="brand-text">
+          <strong data-i18n="siteName">每日 AI 新闻</strong>
+          <small data-i18n="siteTag">Daily AI Newsroom</small>
+        </span>
+      </a>
+      <div class="masthead-meta">
+        <span id="date-label" class="date-label"></span>
+        <button id="lang-toggle" class="lang-toggle" aria-label="切换语言" data-i18n-aria="toggleLang">
+          <span class="lang-option" data-lang-option="zh">中</span>
+          <span class="lang-sep">/</span>
+          <span class="lang-option" data-lang-option="en">EN</span>
+        </button>
+        <button id="theme-toggle" class="icon-btn masthead-btn" aria-label="切换主题" data-i18n-aria="toggleTheme">
+          <i data-lucide="moon"></i>
+        </button>
+      </div>
+    </div>
+    <div class="ticker" aria-label="头条速览">
+      <span class="ticker-label">头条</span>
+      <div id="ticker-track" class="ticker-track"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="stats-strip" aria-label="数据概览">
+      <div class="stat">
+        <span id="stat-today">0</span>
+        <small data-i18n="todayNews">今日新闻</small>
+      </div>
+      <div class="stat">
+        <span id="stat-sources">0</span>
+        <small data-i18n="sources">信息源</small>
+      </div>
+      <div class="stat">
+        <span id="stat-24h">0</span>
+        <small data-i18n="last24h">近 24 小时</small>
+      </div>
+      <div class="stat">
+        <span id="stat-updated">--</span>
+        <small data-i18n="lastUpdated">最后更新</small>
+      </div>
+    </section>
+
+    <section class="toolbar" aria-label="筛选新闻">
+      <div class="toolbar-inner">
+        <div class="toolbar-row">
+          <label class="search-box">
+            <i data-lucide="search"></i>
+            <input id="search-input" type="search" placeholder="搜索标题、摘要或来源" autocomplete="off" data-i18n-placeholder="searchPlaceholder">
+          </label>
+          <div class="range-control" role="group" aria-label="时间范围">
+            <button class="range-btn active" data-range="today" data-i18n="today">今天</button>
+            <button class="range-btn" data-range="3" data-i18n="last3">近 3 天</button>
+            <button class="range-btn" data-range="7" data-i18n="last7">近 7 天</button>
+            <button class="range-btn" data-range="all" data-i18n="all">全部</button>
+          </div>
+          <div class="view-control" role="group" aria-label="视图">
+            <button class="view-btn active" data-view="grid" aria-label="网格视图" data-i18n-aria="gridView">
+              <i data-lucide="layout-grid"></i>
+            </button>
+            <button class="view-btn" data-view="list" aria-label="列表视图" data-i18n-aria="listView">
+              <i data-lucide="list"></i>
+            </button>
+          </div>
+          <span id="result-count" class="result-count"></span>
+        </div>
+
+        <div class="toolbar-row toolbar-row-second">
+          <div class="category-tabs" role="group" aria-label="分类">
+            <button class="chip active" data-category="all" data-i18n="categoryAll">全部</button>
+            <button class="chip" data-category="products" data-i18n="catProducts">产品</button>
+            <button class="chip" data-category="research" data-i18n="catResearch">研究</button>
+            <button class="chip" data-category="policy" data-i18n="catPolicy">政策</button>
+            <button class="chip" data-category="industry" data-i18n="catIndustry">行业</button>
+            <button class="chip" data-category="tools" data-i18n="catTools">工具</button>
+          </div>
+          <div class="select-row">
+            <select id="source-select" aria-label="来源">
+              <option value="all" data-i18n="allSources">全部来源</option>
+            </select>
+            <select id="sort-select" aria-label="排序">
+              <option value="newest" data-i18n="sortNewest">最新在前</option>
+              <option value="oldest" data-i18n="sortOldest">最早在前</option>
+            </select>
+            <button id="saved-toggle" class="toggle-btn" aria-pressed="false">
+              <i data-lucide="bookmark"></i>
+              <span data-i18n="saved">已收藏</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="news-grid" class="news-grid view-grid" aria-live="polite"></section>
+    <section id="empty-state" class="empty-state" hidden>
+      <i data-lucide="search-x"></i>
+      <p id="empty-text">没有找到匹配的新闻</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-title" data-i18n="footerTitle">每日 AI 新闻</p>
+        <p id="footer-updated" class="footer-meta"></p>
+      </div>
+      <nav id="source-links" class="source-links" aria-label="新闻来源"></nav>
+    </div>
+  </footer>
+</body>
+</html>
