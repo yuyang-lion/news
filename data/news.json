@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T04:51:03.246837+00:00",
-  "updated_label": "2026-09-05 04:51 UTC",
+  "generated_at": "2026-09-06T04:58:33.734295+00:00",
+  "updated_label": "2026-09-06 04:58 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,66 @@
     }
   ],
   "items": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "image": "",
+      "published": "2026-09-05T22:49:55+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "fe36f53d2ce872",
+      "title_zh": "《西雅图时报》和《新闻日报》是起诉OpenAI和微软的最新出版物",
+      "summary_zh": "另外两家新闻机构正在起诉OpenAI和微软，指控他们涉嫌利用新闻培训人工智能。",
+      "translated": true
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "image": "",
+      "published": "2026-09-05T19:35:24+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "50860ae5901e1a",
+      "title_zh": "徒步旅行者在使用Google Gemini进行规划后获救",
+      "summary_zh": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。”",
+      "translated": true
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "image": "",
+      "published": "2026-09-05T18:05:27+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "d5b50d321639ec",
+      "title_zh": "OpenAI确认“维基事件” ，称其正在“开发一个框架”以进行更多披露",
+      "summary_zh": "OpenAI承认自己在最近报道的人工智能特工接管德国维基论坛的事件中所扮演的角色。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" Op",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-05T07:28:05-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "4f590384ff714d",
+      "title_zh": "OpenAI承认德国维基“事件”",
+      "summary_zh": "OpenAI表示，它需要彻底改革AI模型攻击真实世界目标的方式和时间。 确认是在公司管理",
+      "translated": true
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -395,21 +455,6 @@
       "translated": true
     },
     {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-03T13:28:18-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "99fb0b270b1faa",
-      "title_zh": "英伟达推出免费工具，将闲置的计算机连接到个人人工智能数据中心",
-      "summary_zh": "英伟达宣布推出新的个人人工智能路由器（ PAIR ） ，这是一款免费工具，可同步您的家用电脑，使用Olla等工具处理本地人工智能推断任务",
-      "translated": true
-    },
-    {
       "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
       "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
       "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
@@ -470,21 +515,6 @@
       "translated": true
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "image": "",
-      "published": "2026-09-03T12:42:45+00:00",
-      "category": "tools",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "6c17c2fb9f8a80",
-      "title_zh": "英伟达确认将以129亿美元收购Hugging Face",
-      "summary_zh": "英伟达表示， Hugging Face拥有超过300万个型号，并被超过1800万开发人员使用。",
-      "translated": true
-    },
-    {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -542,36 +572,6 @@
       "id": "1ea2aa93ef0550",
       "title_zh": "安全概述： GPT-6 Astra",
       "summary_zh": "GPT-6 ASTRA是我们最有能力的广泛部署模型，也是我们在备灾框架下首次达到关键级别的网络安全能力。",
-      "translated": true
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "image": "",
-      "published": "2026-09-02T23:01:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "981d8d10ac0f56",
-      "title_zh": "Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略",
-      "summary_zh": "Builders Stage将重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就",
-      "translated": true
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "image": "",
-      "published": "2026-09-02T22:44:56+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "088e1da0bae1a3",
-      "title_zh": "消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$",
-      "summary_zh": "行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。",
       "translated": true
     },
     {
