@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T04:58:33.734295+00:00",
-  "updated_label": "2026-09-06 04:58 UTC",
+  "generated_at": "2026-09-07T05:05:22.330399+00:00",
+  "updated_label": "2026-09-07 05:05 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,81 @@
     }
   ],
   "items": [
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-06T19:43:53-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "3a57ce3956d500",
+      "title_zh": "《西雅图时报》和《新闻日报》起诉OpenAI和微软侵权",
+      "summary_zh": "《西雅图时报》和《新闻日报》只是将OpenAI告上法庭的最新原告，指控其侵犯版权。 这两家媒体称，该公司使用了",
+      "translated": true
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "image": "",
+      "published": "2026-09-06T20:47:37+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "a8f73ee02b7a9d",
+      "title_zh": "由于发布商和代理商对Anthropic结算提出索赔，作者表示反对",
+      "summary_zh": "作者表示，发布商似乎声称支付了超过其公平份额的结算付款。",
+      "translated": true
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "image": "",
+      "published": "2026-09-06T16:45:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "5c8ec5040f7259",
+      "title_zh": "Travis Kalanick的Atoms可能会涉足机器人出租车业务",
+      "summary_zh": "这位优步创始人表示， Atoms将允许他完成“未完成的业务”。",
+      "translated": true
+    },
+    {
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "image": "",
+      "published": "2026-09-06T09:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "61d58d6fa57235",
+      "title_zh": "外星人思维",
+      "summary_zh": "Jakub Pachocki反思了日益强大的人工智能以及保持其一致性的挑战。 他呼吁加强保障措施和国际协调。",
+      "translated": true
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "image": "",
+      "published": "2026-09-06T08:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "81bf80dc495b9f",
+      "title_zh": "研究加速： OpenAI内部视图",
+      "summary_zh": "在OpenAI内部，编码代理正在重塑人工智能研究。 探索有关代理使用、实验速度、任务复杂性和研究加速的早期数据。",
+      "translated": true
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -305,21 +380,6 @@
       "translated": true
     },
     {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshol",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-04T07:16:10-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "62957675e2587e",
-      "title_zh": "OpenAI的下一个大型AI模型已经“进入AGI时代”",
-      "summary_zh": "OpenAI的下一个大型模型在这里： GPT-6 Astra。 该公司称其为网络安全、专业工作、软件等领域的“一代人的能力飞跃”",
-      "translated": true
-    },
-    {
       "title": "This NAS company wants to run your local smart home",
       "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
       "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]",
@@ -455,36 +515,6 @@
       "translated": true
     },
     {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "image": "",
-      "published": "2026-09-03T16:09:01+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "1f970b40d4379f",
-      "title_zh": "Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛",
-      "summary_zh": "以家庭为中心的人工智能助手希望访问您日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人共享。",
-      "translated": true
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "image": "",
-      "published": "2026-09-03T15:00:00+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "80b9e8bc040680",
-      "title_zh": "谷歌最新的人工智能天气模型让您没有借口忘记带雨伞",
-      "summary_zh": "WeatherNext 3是深度学习技术带来的最新一波气象变化。 谷歌表示将开始向天气信息提供信息",
-      "translated": true
-    },
-    {
       "title": "Why AI food looks like that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
       "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerad",
@@ -515,21 +545,6 @@
       "translated": true
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "image": "",
-      "published": "2026-09-03T12:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "a781916f796df0",
-      "title_zh": "Playco CUT使用GPT-6 Astra手动修复50%的原型游戏",
-      "summary_zh": "使用GPT-6 Astra ， Playco从一个灰色盒子基础构建了三个主题游戏原型，并报告比以前的模型减少了50 ％的手动修复。",
-      "translated": true
-    },
-    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
@@ -542,6 +557,21 @@
       "id": "fc4a3e1d114e87",
       "title_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件",
       "summary_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件，发现了所有四个错误，并在此财务审阅工作流程中将绩效提高了近40%",
+      "translated": true
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "image": "",
+      "published": "2026-09-03T12:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "a781916f796df0",
+      "title_zh": "Playco CUT使用GPT-6 Astra手动修复50%的原型游戏",
+      "summary_zh": "使用GPT-6 Astra ， Playco从一个灰色盒子基础构建了三个主题游戏原型，并报告比以前的模型减少了50 ％的手动修复。",
       "translated": true
     },
     {
@@ -860,21 +890,6 @@
       "translated": true
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "image": "",
-      "published": "2026-08-26T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "45a9495884b1ac",
-      "title_zh": "学习永不止步：人工智能如何让学习持续下去",
-      "summary_zh": "OpenAI的新报告探讨了学生和教育工作者如何使用ChatGPT使学习更具持续性，并提供超出课堂的支持。",
-      "translated": true
-    },
-    {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
@@ -887,6 +902,21 @@
       "id": "92d3a8f8fed67b",
       "title_zh": "将ChatGPT带到更多的美国学区",
       "summary_zh": "ChatGPT for Teachers正在扩展到55个美国学校系统，为超过10万名教育工作者和员工提供安全的人工智能工具、培训和支持。",
+      "translated": true
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "image": "",
+      "published": "2026-08-26T10:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "45a9495884b1ac",
+      "title_zh": "学习永不止步：人工智能如何让学习持续下去",
+      "summary_zh": "OpenAI的新报告探讨了学生和教育工作者如何使用ChatGPT使学习更具持续性，并提供超出课堂的支持。",
       "translated": true
     },
     {
@@ -1095,9 +1125,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "63362fb09efdc6",
-      "title_zh": "智能时代简介",
-      "summary_zh": "介绍智能时代，这是一个新的OpenAI博客，探讨变革性人工智能如何重塑权力、治理、经济和个人自由。",
-      "translated": true
+      "title_zh": "Introducing Intelligence Age",
+      "summary_zh": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "translated": false
     },
     {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
@@ -1110,9 +1140,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "8b506369f6be7c",
-      "title_zh": "Stampli使用ChatGPT Work将发布时间缩短了68%",
-      "summary_zh": "由于固定的截止日期和其他地方投入的设计资源， Stampli使用Codex和ChatGPT Work将数周的发布生产压缩为数天。",
-      "translated": true
+      "title_zh": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary_zh": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "translated": false
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -1430,21 +1460,6 @@
       "translated": false
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "image": "",
-      "published": "2026-08-11T10:00:00+00:00",
-      "category": "policy",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "59d818b4a9a762",
-      "title_zh": "Testing ads in ChatGPT",
-      "summary_zh": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "translated": false
-    },
-    {
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
@@ -1457,6 +1472,21 @@
       "id": "a00d1690fda301",
       "title_zh": "Daybreak models are now available on AWS",
       "summary_zh": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "translated": false
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "image": "",
+      "published": "2026-08-11T10:00:00+00:00",
+      "category": "policy",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "59d818b4a9a762",
+      "title_zh": "Testing ads in ChatGPT",
+      "summary_zh": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "translated": false
     },
     {
@@ -2012,36 +2042,6 @@
       "id": "318043376d61d5",
       "title_zh": "Launching Health in ChatGPT",
       "summary_zh": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their h",
-      "translated": false
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "image": "",
-      "published": "2026-07-22T13:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "2c381dd1b911be",
-      "title_zh": "Building AI infrastructure with the Effingham County community",
-      "summary_zh": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "translated": false
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "image": "",
-      "published": "2026-07-22T13:00:00+00:00",
-      "category": "tools",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "3d7dbf2b044f03",
-      "title_zh": "How news organizations are using AI to advance their vital missions",
-      "summary_zh": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publisher",
       "translated": false
     },
     {
