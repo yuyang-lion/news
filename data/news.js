@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-09-08T05:02:30.730566+00:00",
-  "updated_label": "2026-09-08 05:02 UTC",
+  "generated_at": "2026-09-09T05:02:15.766344+00:00",
+  "updated_label": "2026-09-09 05:02 UTC",
   "sources": [
     {
       "id": "openai",
@@ -35,6 +35,336 @@ window.AI_NEWS = {
   ],
   "items": [
     {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has ",
+      "image": "",
+      "published": "2026-09-09T03:10:08+00:00",
+      "category": "research",
+      "source_id": "mit-tech-review",
+      "source": "MIT Tech Review",
+      "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "id": "75c0b3d07a2121",
+      "title_zh": "OpenAI关于数学未来的最新争议告诉我们什么",
+      "summary_zh": "OpenAI最新的数学里程碑很快陷入了争议之中。 今天，该公司宣布其代理商已经解决了Millennium P",
+      "translated": true
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "image": "",
+      "published": "2026-09-08T21:10:27+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "816de3796d2fe5",
+      "title_zh": "黑客正在从订阅者那里窃取Claude令牌",
+      "summary_zh": "上个月，一位Claude用户注意到他的帐户正在使用代币，即使他没有工作。 此后， Anthropic向用户发出了有关黑客的警告。",
+      "translated": true
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "image": "",
+      "published": "2026-09-08T21:04:06+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "99ea2ef6e09f0e",
+      "title_zh": "Cognition的估值达到480亿美元，表明投资者认为人工智能编码远未成为赢家通吃的市场",
+      "summary_zh": "Cognition的估值倍数高于Cursor在出售给SpaceX之前的估值倍数。",
+      "translated": true
+    },
+    {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T16:53:52-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "2333870bfb8ce5",
+      "title_zh": "戏剧围绕OpenAI的传奇数学里程碑旋转",
+      "summary_zh": "OpenAI表示，正如《纽约时报》和《连线》早些时候报道的那样，它找到了一个主要数学问题的解决方案，这个问题已经有大约90年没有解决了。",
+      "translated": true
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T16:16:09-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "25791a04f377e8",
+      "title_zh": "ChatGPT Sketch将不良图纸转化为详细的人工智能图像",
+      "summary_zh": "OpenAI于周二发布了ChatGPT Images 2.5 ，并添加了一种新的方式来告诉ChatGPT您希望它通过绘制涂鸦来制作图像。 有了新的fea",
+      "translated": true
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T16:06:40-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "a55127895a5092",
+      "title_zh": "元押注AI特工Muse在人工智能竞赛中迎头赶上",
+      "summary_zh": "Meta正在通过Muse再次推动将人工智能带给大众， Muse是一名个人助理，据说可以将人工智能置于几乎任何人的手中。",
+      "translated": true
+    },
+    {
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T15:32:39-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "77a92dc973e335",
+      "title_zh": "人工智能超级用户声称Anthropic通过订阅欺骗了他们，他们正在将其告上法庭",
+      "summary_zh": "Anthropic表示，高级用户是其业务的关键-即使这意味着切断其他流行的应用程序（如OpenClaw ） ，它也会优先考虑他们。但",
+      "translated": true
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "image": "",
+      "published": "2026-09-08T19:00:00+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "a5708bf9de7794",
+      "title_zh": "Meta首次推出其Muse AI代理。 消费者会信任它吗？",
+      "summary_zh": "Meta新的个人人工智能代理Muse希望访问用户的电子邮件、日历、付款、医疗服务等，这使该公司成为最大的消费者人工智能",
+      "translated": true
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "image": "",
+      "published": "2026-09-08T17:32:15+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "fe8291a3665caa",
+      "title_zh": "纽约大学数学家说， OpenAI在职业生涯中的数学问题上进行了肮脏的斗争",
+      "summary_zh": "第一个为Navier-Stokes的存在和平滑性问题提供解决方案的人将获得100万$的奖金。",
+      "translated": true
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "image": "",
+      "published": "2026-09-08T17:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "6e4d5a66eecde3",
+      "title_zh": "GPT-5.6 Sol如何帮助运行量子计算实验",
+      "summary_zh": "了解麻省理工学院的研究人员如何使用GPT-5.6 Sol和Codex自主运行量子计算实验、分析结果和校准量子位。",
+      "translated": true
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "image": "",
+      "published": "2026-09-08T16:20:31+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "dce7accbd2f4a1",
+      "title_zh": "谷歌云与埃森哲达成协议，争相追赶人工智能部署大战",
+      "summary_zh": "谷歌云通过埃森哲扩展其企业人工智能，押注于前沿部署的工程师，以推动采用并克服部署瓶颈。",
+      "translated": true
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "image": "",
+      "published": "2026-09-08T15:04:09+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "c1df7280929a65",
+      "title_zh": "随着人工智能改变安全格局， Chrome浏览器现在每两周发布一次更新",
+      "summary_zh": "谷歌正在加快Chrome浏览器的发布时间表，以更快地发布安全补丁和新功能。",
+      "translated": true
+    },
+    {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T10:19:23-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "7ea46a145e63ad",
+      "title_zh": "谷歌的人类基因组图谱可以为新的治疗方法铺平道路",
+      "summary_zh": "谷歌DeepMind推出了一款人工智能工具，其科学家声称该工具可以帮助揭开人类基因组的奥秘，并改变我们对生物学的理解",
+      "translated": true
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "image": "",
+      "published": "2026-09-08T14:17:48+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "1bea211ba1390a",
+      "title_zh": "随着主权人工智能成为大企业， Mistral筹集了30亿美元€",
+      "summary_zh": "这家法国人工智能实验室在由三星、Scaleup Europe和PSG Equity牵头的D轮融资中以210亿欧元的估值筹集了30亿欧元。",
+      "translated": true
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "image": "",
+      "published": "2026-09-08T13:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "6e12755afdb5bf",
+      "title_zh": "现在触手可及的工作",
+      "summary_zh": "探索更强大、更实惠的人工智能如何扩展人们和企业可以完成的工作，并使增长更经济。",
+      "translated": true
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "image": "",
+      "published": "2026-09-08T11:30:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "26eb503fc26bd6",
+      "title_zh": "ChatGPT Images 2.5简介",
+      "summary_zh": "ChatGPT Images 2.5有助于将您的想法、草图和参考照片转化为更个性化、更精美的图像，从而更好地反映您的想法。",
+      "translated": true
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+      "image": "",
+      "published": "2026-09-08T10:34:00+00:00",
+      "category": "research",
+      "source_id": "mit-tech-review",
+      "source": "MIT Tech Review",
+      "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "id": "44336ae4ee6f81",
+      "title_zh": "这位人工智能企业家正在开发可以提前计划意外情况的代理商",
+      "summary_zh": "旧金山SoMa区的Danijar Hafner的办公室几乎空无一人。 他的全新创业公司仍处于隐身模式，甚至没有在",
+      "translated": true
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "image": "",
+      "published": "2026-09-08T10:00:00+00:00",
+      "category": "policy",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "fb7398fafc5811",
+      "title_zh": "关于Navier–Stokes千年奖问题",
+      "summary_zh": "我们正在分享一个由人工智能生成的解决方案，以解决Navier–Stokes千年奖问题，包括写作和精益形式的正式证明。",
+      "translated": true
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-08T05:07:57-04:00",
+      "category": "tools",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "d37b9ddd0116e4",
+      "title_zh": "Adobe正试图在Premiere中使其AI生成器防白痴",
+      "summary_zh": "Adobe正在彻底改变编辑人员在其Premiere专业视频编辑软件中与人工智能交互的方式。 其新的生成媒体工具可以更轻松地生成",
+      "translated": true
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "image": "",
+      "published": "2026-09-08T09:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "b16c0706a11e62",
+      "title_zh": "为人工智能和青少年发展的新研究提供资助",
+      "summary_zh": "立即申请OpenAI的500万$资助计划，以支持关于生成式人工智能如何影响青少年发展、福祉和安全的独立研究。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "image": "",
+      "published": "2026-09-08T00:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "c78762c34a9cd6",
+      "title_zh": "OpenAI将支持新闻业的举措从教室扩展到新闻编辑室",
+      "summary_zh": "OpenAI正在扩大对新闻业的支持，为学生、教育工作者、记者和新闻机构提供工具、培训和合作伙伴关系。",
+      "translated": true
+    },
+    {
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "image": "",
+      "published": "2026-09-08T00:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "60476d3e7d337d",
+      "title_zh": "1Password通过Codex提高工程生产力21%",
+      "summary_zh": "1Password的工程师使用Codex快速构建新功能和内部工具，实现生产就绪，同时保持严格的安全策略。",
+      "translated": true
+    },
+    {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -46,7 +376,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "21ecbe9d6adae7",
       "title_zh": "不透明的复发，以及您可能应该知道的其他人工智能术语",
-      "summary_zh": "人工智能的兴起带来了大量的新术语和俚语。 这是一个术语表，其中包含您可能会遇到的一些最重要的单词和短语的定义",
+      "summary_zh": "人工智能的崛起带来了大量的新术语和俚语。 这是一个术语表，其中包含您可能会遇到的一些最重要的单词和短语的定义",
       "translated": true
     },
     {
@@ -120,9 +450,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "61d58d6fa57235",
-      "title_zh": "An Alien Mind",
-      "summary_zh": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "translated": false
+      "title_zh": "外星人思维",
+      "summary_zh": "Jakub Pachocki反思了日益强大的人工智能以及保持其一致性的挑战。 他呼吁加强保障措施和国际协调。",
+      "translated": true
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -135,9 +465,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "81bf80dc495b9f",
-      "title_zh": "Research acceleration: The view inside OpenAI",
-      "summary_zh": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "translated": false
+      "title_zh": "研究加速： OpenAI内部视图",
+      "summary_zh": "在OpenAI内部，编码代理正在重塑人工智能研究。 探索有关代理使用、实验速度、任务复杂性和研究加速的早期数据。",
+      "translated": true
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -150,9 +480,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "fe36f53d2ce872",
-      "title_zh": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary_zh": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "translated": false
+      "title_zh": "《西雅图时报》和《新闻日报》是起诉OpenAI和微软的最新出版物",
+      "summary_zh": "另外两家新闻机构正在起诉OpenAI和微软，指控他们涉嫌利用新闻培训人工智能。",
+      "translated": true
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -166,7 +496,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "50860ae5901e1a",
       "title_zh": "徒步旅行者在使用Google Gemini进行规划后获救",
-      "summary_zh": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。",
+      "summary_zh": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。”",
       "translated": true
     },
     {
@@ -180,9 +510,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "d5b50d321639ec",
-      "title_zh": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary_zh": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "translated": false
+      "title_zh": "OpenAI确认“维基事件” ，称其正在“开发一个框架”以进行更多披露",
+      "summary_zh": "OpenAI承认自己在最近报道的人工智能特工接管德国维基论坛的事件中所扮演的角色。",
+      "translated": true
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -226,7 +556,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "154a0d4cd82156",
       "title_zh": "OpenAI的流氓特工不断逃跑，没有正式的调查程序",
-      "summary_zh": "OpenAI最新的特工群体事件增加了要求独立调查的紧迫性，因为研究人员和立法者",
+      "summary_zh": "OpenAI最新的特工群体事件增加了要求独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制",
       "translated": true
     },
     {
@@ -240,9 +570,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "0db888c5710d7e",
-      "title_zh": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary_zh": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "translated": false
+      "title_zh": "人工智能计算提供商Nscale正在寻找35亿美元的IPO前融资",
+      "summary_zh": "Nscale最近与Anthropic达成了450亿美元的交易，目前正在谈判为即将到来的IPO筹集额外资金。",
+      "translated": true
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -271,7 +601,7 @@ window.AI_NEWS = {
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "a8ff5812655964",
       "title_zh": "Roland正在与Melody Flip一起进入生成式人工智能音乐",
-      "summary_zh": "这并不是Suno的“按下按钮;获取歌曲” ，但Roland的新Melody Flip工具标志着该公司进军生成式人工智能音乐。 可作为插件使用",
+      "summary_zh": "这不是Suno的“按键;获取歌曲” ，但Roland的新Melody Flip工具标志着该公司进军生成式人工智能音乐。 可作为插件使用",
       "translated": true
     },
     {
@@ -286,7 +616,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "c5eee32ba7904c",
       "title_zh": "苹果的John Ternus时代会是什么样子？",
-      "summary_zh": "这正是苹果公司的Ternus时代。 蒂姆·库克（ Tim Cook ）本周辞去首席执行官职务，将公司交给前硬件公司",
+      "summary_zh": "这正是苹果公司的Ternus时代。 蒂姆·库克(Tim Cook)本周辞去首席执行官一职，将公司交给了前硬件主管约翰·特纳斯(John Ternus) ，后者的第一个备",
       "translated": true
     },
     {
@@ -300,9 +630,9 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "b62f9e403f7ac5",
-      "title_zh": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary_zh": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the",
-      "translated": false
+      "title_zh": "微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章",
+      "summary_zh": "微软的Copilot很少复制新闻文章和书籍中的完整句子，更不用说可以代替原文的实质性句子了。",
+      "translated": true
     },
     {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -331,98 +661,8 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "108a6f975df81d",
       "title_zh": "随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了",
-      "summary_zh": "这正是苹果公司的Ternus时代。 蒂姆·库克(Tim Cook)本周卸任首席执行官，将公司交给了前硬件主管约翰·特纳斯(John Ternus) ，后者的第一个备忘录",
+      "summary_zh": "这正是苹果公司的Ternus时代。 蒂姆·库克(Tim Cook)本周辞去首席执行官一职，将公司交给了前硬件主管约翰·特纳斯(John Ternus) ，后者的第一个备",
       "translated": true
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "image": "",
-      "published": "2026-09-04T14:47:11+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "1d66393e96c7b2",
-      "title_zh": "Google的Gemini Spark现在可以管理您的Google相册库",
-      "summary_zh": "Gemini Spark可以编辑和策划相册，创建共享集合，将照片转换为日历事件，并处理",
-      "translated": true
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at fronti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-04T10:46:39-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "8c4e47624ae0d3",
-      "title_zh": "流氓OpenAI特工似乎使用德国wiki组织了另一次攻击",
-      "summary_zh": "据报道，一群来自OpenAI的流氓AI特工占领了一个德国网站，并将其转变为其他特工的消息板，官员们留下来",
-      "translated": true
-    },
-    {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "image": "",
-      "published": "2026-09-04T14:00:00+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "1f2ab90014ed05",
-      "title_zh": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary_zh": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the applicatio",
-      "translated": false
-    },
-    {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-04T07:33:40-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "ac28b0d7068450",
-      "title_zh": "山姆·奥尔特曼（ Sam Altman ）为“混乱”的GPT-6 Astra推出而道歉，该推出已被锁定在付费用",
-      "summary_zh": "在OpenAI推出GPT-6 Astra几个小时后，首席执行官萨姆·奥尔特曼（ Sam Altman ）在付费用户期望获得",
-      "translated": true
-    },
-    {
-      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-04T07:22:12-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "c0d76f772358c8",
-      "title_zh": "微软的Project Zenith为开发者提供“无干扰的Windows体验”",
-      "summary_zh": "微软正在为其开发人员优化的Windows体验命名为Project Zenith。 虽然软件制造商最初宣布了类似的开发人员优化",
-      "translated": true
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-04T06:38:39-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "32931b44ac3f36",
-      "title_zh": "This NAS company wants to run your local smart home",
-      "summary_zh": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the ",
-      "translated": false
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -435,128 +675,8 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "e5374fd8740426",
-      "title_zh": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary_zh": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that w",
-      "translated": false
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "image": "",
-      "published": "2026-09-04T04:21:03+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "832325129713b5",
-      "title_zh": "这些令人讨厌的人工智能生成的菜单背后的相同性问题",
-      "summary_zh": "虽然餐厅老板可能会将生成式人工智能作为美化菜单的捷径，但顾客可以直观地感觉到foo有些不对劲",
-      "translated": true
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "image": "",
-      "published": "2026-09-04T00:48:42+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "983c311a0192bd",
-      "title_zh": "据报道， Crusoe以300亿美元的估值筹集了30亿美元",
-      "summary_zh": "据报道，这轮融资是在这家数据中心开发商与Jane Street签订了130亿美元的合同之后进行的。",
-      "translated": true
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "image": "",
-      "published": "2026-09-03T19:36:29+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "911c3fa4d34793",
-      "title_zh": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary_zh": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "translated": false
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "image": "",
-      "published": "2026-09-03T18:37:57+00:00",
-      "category": "tools",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "95117c75f39c88",
-      "title_zh": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary_zh": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately im",
-      "translated": false
-    },
-    {
-      "title": "Instagram’s AI detection is a mess (again)",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-03T14:37:50-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "afba7103e9e379",
-      "title_zh": "Instagram的人工智能检测（再次）一团糟",
-      "summary_zh": "Instagram的可见AI标签应该可以帮助人们一目了然地快速发现合成生成的内容。",
-      "translated": true
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "image": "",
-      "published": "2026-09-03T18:19:56+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "35312449324d5d",
-      "title_zh": "Meta正在付费查看您如何使用他们最新的人工智能模型",
-      "summary_zh": "对于其用于操作编码和其他代理的新Muse Spark模型， Meta提供明确的折扣平均值",
-      "translated": true
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "image": "",
-      "published": "2026-09-03T18:01:45+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "0f324474808bf7",
-      "title_zh": "OpenAI推出其强大（且备受争议）的新型号Astra",
-      "summary_zh": "OpenAI声称Astra代表了“计算机和浏览器使用的新领域” ，并且它处理不匹配的任务",
-      "translated": true
-    },
-    {
-      "title": "Why AI food looks like that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerad",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-03T10:08:47-04:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "636a60adfa91b4",
-      "title_zh": "为什么人工智能食品看起来像这样",
-      "summary_zh": "餐馆、咖啡馆和品牌越来越多地转向人工智能，",
+      "title_zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场",
+      "summary_zh": "乌克兰的战场上到处都是无人驾驶飞机的残骸，这些无人驾驶飞机现在已成为现代战争的关键武器。 但在这一切的背后",
       "translated": true
     },
     {
@@ -575,21 +695,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "image": "",
-      "published": "2026-09-03T12:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "fc4a3e1d114e87",
-      "title_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件",
-      "summary_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件，发现了所有四个错误，并在此财务审阅工作流程中将绩效提高了近40%",
-      "translated": true
-    },
-    {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -602,6 +707,21 @@ window.AI_NEWS = {
       "id": "a781916f796df0",
       "title_zh": "Playco CUT使用GPT-6 Astra手动修复50%的原型游戏",
       "summary_zh": "使用GPT-6 Astra ， Playco从一个灰色盒子基础构建了三个主题游戏原型，并报告比以前的模型减少了50 ％的手动修复。",
+      "translated": true
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "image": "",
+      "published": "2026-09-03T12:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "fc4a3e1d114e87",
+      "title_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件",
+      "summary_zh": "Legora使用GPT-6 Astra在几分钟内审阅了41份文件，发现了所有四个错误，并在此财务审阅工作流程中将绩效提高了近40%",
       "translated": true
     },
     {
@@ -630,9 +750,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "1ea2aa93ef0550",
-      "title_zh": "Safety overview: GPT-6 Astra",
-      "summary_zh": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "translated": false
+      "title_zh": "安全概述： GPT-6 Astra",
+      "summary_zh": "GPT-6 ASTRA是我们最有能力的广泛部署模型，也是我们在备灾框架下首次达到关键级别的网络安全能力。",
+      "translated": true
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -645,9 +765,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "a132c27b1bfb32",
-      "title_zh": "Proactive cyber defense for governments and enterprises",
-      "summary_zh": "Introducing Fairwind Program",
-      "translated": false
+      "title_zh": "为政府和企业提供主动网络防御",
+      "summary_zh": "隆重推出Fairwind计划",
+      "translated": true
     },
     {
       "title": "Facilitating AI integration with simplicity at scale",
@@ -660,9 +780,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "a6a33d068aeda8",
-      "title_zh": "Facilitating AI integration with simplicity at scale",
-      "summary_zh": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tool",
-      "translated": false
+      "title_zh": "大规模简化人工智能集成",
+      "summary_zh": "随着公司规模的扩大，支持运营的技术可以成为一种负债，就像它成为一种资产一样快。 断开的系统，现场专用工具",
+      "translated": true
     },
     {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
@@ -676,7 +796,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "4a8edbc1dfec88",
       "title_zh": "借助ChatGPT ，全地形车大空中之旅将3天的工作时间缩短为3小时",
-      "summary_zh": "ATV Big Air Tour使用ChatGPT Work来加快营销、营销等。 它甚至把商品照片变成了",
+      "summary_zh": "ATV Big Air Tour使用ChatGPT Work来加快营销、营销等。 它甚至在15分钟内将商品照片转换为库存网站。",
       "translated": true
     },
     {
@@ -691,7 +811,7 @@ window.AI_NEWS = {
       "site": "https://blog.google/technology/ai/",
       "id": "ce013a5fe9d50f",
       "title_zh": "我们在2026年8月宣布的最新人工智能新闻",
-      "summary_zh": "过渡卡： 1.双子座徽标图标旁边的文字“Gemini 3.7 Flash” ； 2.像素手机的照片； 3. Google Gem",
+      "summary_zh": "过渡卡： 1.双子座徽标图标旁边的文字“Gemini 3.7 Flash” ； 2.像素手机的照片； 3. 文字上方的Google Gemini徽标“Claim your stud",
       "translated": true
     },
     {
@@ -706,7 +826,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "c235a8fe8dc883",
       "title_zh": "人工智能原生公司如何将工作流程转化为运营能力",
-      "summary_zh": "Basis、Clay和Exa Labs使用AI代理来改进入职、帐户管理和开发人员集成。查看",
+      "summary_zh": "Basis、Clay和Exa Labs使用AI代理来改进入职、帐户管理和开发人员集成。 查看企业领导者可以申请的内容。",
       "translated": true
     },
     {
@@ -736,7 +856,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "8c1a84928bf153",
       "title_zh": "通往Astra之路：关键能力和前沿保障措施",
-      "summary_zh": "Astra是第一个符合备灾框架下关键网络安全能力阈值的OpenAI模型，具有更强的发布保障措施。",
+      "summary_zh": "ASTRA是第一个符合备灾框架下关键网络安全能力阈值的OpenAI模型，具有更强的发布保障措施。",
       "translated": true
     },
     {
@@ -781,7 +901,7 @@ window.AI_NEWS = {
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "81ec1ea8ee79c0",
       "title_zh": "Hugging Face黑客攻击可能表明OpenAI存在文化问题",
-      "summary_zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。 要在收件箱FIR中获取此类故事",
+      "summary_zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。 要先在收件箱中获取此类故事，请在此处注册。 到目前为止，您可能已经",
       "translated": true
     },
     {
@@ -796,7 +916,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "79e60e5e7956bb",
       "title_zh": "OpenAI支持加州推进青少年人工智能安全的法案",
-      "summary_zh": "OpenAI支持加州SB 1119 ，为青少年提供强大、适合年龄的人工智能保障，同时保留机会",
+      "summary_zh": "OpenAI支持加州SB 1119 ，为青少年提供强大、适合年龄的人工智能保障，同时保留学习、创造和探索的机会。",
       "translated": true
     },
     {
@@ -810,9 +930,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "16c47e6743a663",
-      "title_zh": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary_zh": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "translated": false
+      "title_zh": "Polimill打造日本下一代公共人工智能基础设施",
+      "summary_zh": "Polimill使用OpenAI GPT模型和Codex来帮助市政当局搜索和使用行政知识，同时加速发展。",
+      "translated": true
     },
     {
       "title": "A milestone in expanding access to AI",
@@ -825,9 +945,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "c7eb6ab458c373",
-      "title_zh": "A milestone in expanding access to AI",
-      "summary_zh": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "translated": false
+      "title_zh": "扩大人工智能访问权限的里程碑",
+      "summary_zh": "ChatGPT Ads的年化收入运行率达到10亿美元，并在全球范围内扩张，通过免费且经济实惠的选项支持更广泛的人工智能访问。",
+      "translated": true
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -855,9 +975,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "e8bbcaba4a2450",
-      "title_zh": "Supporting Thailand’s next generation of AI startups",
-      "summary_zh": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "translated": false
+      "title_zh": "支持泰国的下一代人工智能初创公司",
+      "summary_zh": "OpenAI和泰国的MHESI推出了为期八周的加速器，帮助10家健康、保健和教育初创公司将人工智能原型转化为可信赖的产品。",
+      "translated": true
     },
     {
       "title": "3 new ways to plan and book travel in Search",
@@ -870,9 +990,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "69c4c10d5f89d7",
-      "title_zh": "3 new ways to plan and book travel in Search",
-      "summary_zh": "Graphic depicting new travel features for AI Mode in Search",
-      "translated": false
+      "title_zh": "在搜索中规划和预订行程的3种新方法",
+      "summary_zh": "图形显示了搜索中AI模式的新旅行功能",
+      "translated": true
     },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -885,9 +1005,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "7302f3573737ac",
-      "title_zh": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary_zh": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "translated": false
+      "title_zh": "更好的答案，更广泛的思考：学生从ChatGPT和批判性思维培训中获得什么",
+      "summary_zh": "一项针对1000多名学生的随机研究考察了ChatGPT、批判性思维、原创性和学生在现实世界大学作业中的表现。",
+      "translated": true
     },
     {
       "title": "Expanding OpenAI’s presence in Brazil",
@@ -901,7 +1021,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "3923562d3ea67d",
       "title_zh": "扩大OpenAI在巴西的业务",
-      "summary_zh": "OpenAI正在扩大其在巴西的业务，深化与开发商、企业和社区的互动，以支持",
+      "summary_zh": "OpenAI正在扩大其在巴西的业务，深化与开发人员、企业和社区的互动，以支持AI在全国范围内的采用。",
       "translated": true
     },
     {
@@ -915,24 +1035,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "40133b6e46c4fa",
-      "title_zh": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary_zh": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an O",
-      "translated": false
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "image": "",
-      "published": "2026-08-26T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "45a9495884b1ac",
-      "title_zh": "Learning never stops: How AI makes learning continuous",
-      "summary_zh": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "translated": false
+      "title_zh": "OpenAI特工入侵Hugging Face的内幕故事",
+      "summary_zh": "负责上个月Hugging Face特工黑客攻击的模特无意中接受了欺骗和相互沟通的训练。",
+      "translated": true
     },
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -946,7 +1051,22 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "92d3a8f8fed67b",
       "title_zh": "将ChatGPT带到更多的美国学区",
-      "summary_zh": "ChatGPT for Teachers正在扩展到55个美国学校系统，为100多个学校提供安全的人工智能工具、培训和支持",
+      "summary_zh": "ChatGPT for Teachers正在扩展到55个美国学校系统，为超过10万名教育工作者和员工提供安全的人工智能工具、培训和支持。",
+      "translated": true
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "image": "",
+      "published": "2026-08-26T10:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "45a9495884b1ac",
+      "title_zh": "学习永不止步：人工智能如何让学习持续下去",
+      "summary_zh": "OpenAI的新报告探讨了学生和教育工作者如何使用ChatGPT使学习更具持续性，并提供超出课堂的支持。",
       "translated": true
     },
     {
@@ -960,9 +1080,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "d5d04d321ea44d",
-      "title_zh": "Raised on AI",
-      "summary_zh": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her ph",
-      "translated": false
+      "title_zh": "在人工智能上提出",
+      "summary_zh": "当我最大的孩子出生时，我立即以她的名义设置了Gmail和Twitter帐户。 我广泛地在网上宣布了她的出生，并继续贴上她的博士学位",
+      "translated": true
     },
     {
       "title": "AI models flub these intelligence tests. Can you fare any better?",
@@ -976,7 +1096,7 @@ window.AI_NEWS = {
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "3c23ba87dada51",
       "title_zh": "人工智能模型会使这些智力测试失败。 您能做得更好吗？",
-      "summary_zh": "从一开始，拼图和游戏就一直是人工智能发展的核心。 就像我们人类喜欢测试我们的智慧",
+      "summary_zh": "从一开始，拼图和游戏就一直是人工智能发展的核心。 就像我们人类喜欢用填字游戏或逻辑谜题来测试我们的智慧一样，",
       "translated": true
     },
     {
@@ -990,9 +1110,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "17347f109fc98b",
-      "title_zh": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary_zh": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky ",
-      "translated": false
+      "title_zh": "比尔·盖茨说，我们已经超过了人工智能的危险门槛。现在该怎么办？",
+      "summary_zh": "华盛顿柯克兰（ Kirkland ）是华盛顿湖东岸的一个富裕的西雅图郊区，这是一个辉煌的日子。 气温在80年代中期，天空",
+      "translated": true
     },
     {
       "title": "The Hugging Face incident and the road ahead",
@@ -1006,7 +1126,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "1e227b5c872958",
       "title_zh": "拥抱面孔事件和前方的道路",
-      "summary_zh": "OpenAI分享了Hugging Face安全事件的调查结果以及我们为加强AI模型安全所采取的步骤",
+      "summary_zh": "OpenAI分享了Hugging Face安全事件的调查结果，以及我们为加强AI模型的安全性、监控和一致性而采取的步骤。",
       "translated": true
     },
     {
@@ -1040,21 +1160,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearl",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
-      "published": "2026-08-25T09:00:00+00:00",
-      "category": "research",
-      "source_id": "mit-tech-review",
-      "source": "MIT Tech Review",
-      "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "id": "bf45f37b889b07",
-      "title_zh": "我在上海的一个机器人“狂欢节”上度过了一天。 这就是我所看到的。",
-      "summary_zh": "人形机器人正在中国度过一个时刻。 流行的机器是该国带来艺术的战略的一部分",
-      "translated": true
-    },
-    {
       "title": "The full stack behind abundant intelligence",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
@@ -1065,9 +1170,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a62776955593ae",
-      "title_zh": "丰富智慧背后的全栈",
-      "summary_zh": "OpenAI首席财务官Sarah Friar解释了芯片、计算、模型和产品的进步如何复合以提供更有用的",
-      "translated": true
+      "title_zh": "The full stack behind abundant intelligence",
+      "summary_zh": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower",
+      "translated": false
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -1080,9 +1185,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "fca984036b09b9",
-      "title_zh": "Jalapeño的首批结果显示了业界领先的人工智能推理速度和效率",
-      "summary_zh": "Jalapeño是OpenAI的定制推理芯片，可提供更快、更省电的人工智能推理，",
-      "translated": true
+      "title_zh": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary_zh": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern mod",
+      "translated": false
     },
     {
       "title": "Disrupting a new covert influence campaign from Russia",
@@ -1115,21 +1220,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
-      "image": "",
-      "published": "2026-08-24T14:20:19+00:00",
-      "category": "products",
-      "source_id": "mit-tech-review",
-      "source": "MIT Tech Review",
-      "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "id": "715fccf13f4144",
-      "title_zh": "How to encourage smarter AI use in the classroom",
-      "summary_zh": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, ",
-      "translated": false
-    },
-    {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
@@ -1155,9 +1245,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "63362fb09efdc6",
-      "title_zh": "智能时代简介",
-      "summary_zh": "介绍智能时代，这是一个新的OpenAI博客，探讨变革性人工智能如何重塑权力、治理、经济和个人自由。",
-      "translated": true
+      "title_zh": "Introducing Intelligence Age",
+      "summary_zh": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "translated": false
     },
     {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
@@ -1170,9 +1260,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "8b506369f6be7c",
-      "title_zh": "Stampli使用ChatGPT Work将发布时间缩短了68%",
-      "summary_zh": "由于固定的截止日期和其他地方投入的设计资源， Stampli使用Codex和ChatGPT Work将数周的发布生产压缩为数天。",
-      "translated": true
+      "title_zh": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary_zh": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "translated": false
     },
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -1200,9 +1290,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "ba3020b6788d83",
-      "title_zh": "借助搜索提升学习水平的5种新方法",
-      "summary_zh": "带有图标和短语（如“添加笔记本”和“询问谷歌” ）的插图图像",
-      "translated": true
+      "title_zh": "5 new ways to level up your learning with Search",
+      "summary_zh": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "translated": false
     },
     {
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
@@ -1215,9 +1305,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "2cc917e6317205",
-      "title_zh": "Replit通过GPT-5.6 Luna扩展了对软件创建的访问",
-      "summary_zh": "Replit引入了基于GPT-5.6 Luna的自由模式，因此任何人都可以将创意转化为工作软件，而无需担心",
-      "translated": true
+      "title_zh": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary_zh": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "translated": false
     },
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -1230,9 +1320,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "8a1dfcb9446278",
-      "title_zh": "ChatGPT Ads在欧洲扩张",
-      "summary_zh": "ChatGPT Ads正在扩展到31个欧洲市场。 了解广告客户如何在浏览、比较选项时吸引用户",
-      "translated": true
+      "title_zh": "ChatGPT Ads expands across Europe",
+      "summary_zh": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "translated": false
     },
     {
       "title": "Strengthening democratic oversight in national security",
@@ -1245,9 +1335,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4f80d83eb70b2c",
-      "title_zh": "加强国家安全民主监督",
-      "summary_zh": "OpenAI发起了一项倡议，以加强对国家安全中人工智能的民主监督，通过工具、培训和专家支持政府机构",
-      "translated": true
+      "title_zh": "Strengthening democratic oversight in national security",
+      "summary_zh": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expert",
+      "translated": false
     },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -1260,9 +1350,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "2caa526240dffa",
-      "title_zh": "与CodeAI合作，准备第一代人工智能",
-      "summary_zh": "OpenAI和CodeAI正在合作，帮助学生建立人工智能素养，批判性地思考人工智能，并培养负责任地使用和塑造人工智能的技能。",
-      "translated": true
+      "title_zh": "Partnering with CodeAI to prepare the first AI generation",
+      "summary_zh": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "translated": false
     },
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
@@ -1275,9 +1365,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "dc40f0ff0ed6f5",
-      "title_zh": "网络关键能力时代的起搏模型开发",
-      "summary_zh": "OpenAI正在加强对前沿AI模型的监控、调整和安全性。 了解新的保障措施如何引导",
-      "translated": true
+      "title_zh": "Pacing model development in an era of cyber-critical capabilities",
+      "summary_zh": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "translated": false
     },
     {
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -1365,9 +1455,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "108e8dbb56bf98",
-      "title_zh": "OpenAI加入PORTS-Pike项目",
-      "summary_zh": "OpenAI加入PORTS-Pike项目，扩大社区投资并支持俄亥俄州南部数千个工作岗位",
-      "translated": true
+      "title_zh": "OpenAI joins PORTS-Pike project",
+      "summary_zh": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "translated": false
     },
     {
       "title": "New policy ideas for the Intelligence Age",
@@ -1380,9 +1470,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a7ee28e091c987",
-      "title_zh": "智能时代的新政策理念",
-      "summary_zh": "OpenAI资助了14个独立项目，探索新的人工智能政策理念，以扩大经济机会并加强智能时代的社会复原力。",
-      "translated": true
+      "title_zh": "New policy ideas for the Intelligence Age",
+      "summary_zh": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "translated": false
     },
     {
       "title": "Bring your spreadsheet data to life with Sheets canvas",
@@ -1395,9 +1485,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "2319d61b4bdf7d",
-      "title_zh": "使用Sheets画布，让您的电子表格数据栩栩如生",
-      "summary_zh": "视频显示了Sheets画布的动作。",
-      "translated": true
+      "title_zh": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary_zh": "The video shows Sheets canvas in action.",
+      "translated": false
     },
     {
       "title": "The builder’s guide to GPT‑5.6",
@@ -1410,9 +1500,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "e5438f9c9d4672",
-      "title_zh": "GPT ‑ 5.6的建设者指南",
-      "summary_zh": "了解初创公司如何使用GPT-5.6构建更快、更具成本效益的AI代理，以及更智能的模型选择和新的Responses API功能。",
-      "translated": true
+      "title_zh": "The builder’s guide to GPT‑5.6",
+      "summary_zh": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "translated": false
     },
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -1425,9 +1515,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "556c07d93c5ea6",
-      "title_zh": "预览超快模式： GPT-5.6 SOL ，速度高达14倍",
-      "summary_zh": "预览Ultrafast ，一个新的OpenAI API服务层，运行GPT-5.6 SOL的速度高达14倍。 由Cerebras提供支持，每秒最多可提供750个输出令牌。",
-      "translated": true
+      "title_zh": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary_zh": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "translated": false
     },
     {
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -1440,9 +1530,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "94a9d1607fea7a",
-      "title_zh": "OpenAI任命Dali Rajic为首席营收官",
-      "summary_zh": "OpenAI任命Dali Rajic为首席收入官，领导其全球收入组织，帮助企业实现人工智能的全部价值。",
-      "translated": true
+      "title_zh": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary_zh": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "translated": false
     },
     {
       "title": "From assistance to execution: How enterprises put AI to work",
@@ -1455,9 +1545,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "c35ba8753d25e4",
-      "title_zh": "从协助到执行：企业如何让人工智能发挥作用",
-      "summary_zh": "OpenAI研究揭示了企业如何使用ChatGPT和Codex采用代理人工智能，以及前沿公司如何在人工智能采用方面领先。",
-      "translated": true
+      "title_zh": "From assistance to execution: How enterprises put AI to work",
+      "summary_zh": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "translated": false
     },
     {
       "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -1500,9 +1590,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a00d1690fda301",
-      "title_zh": "破晓型号现已在AWS上提供",
-      "summary_zh": "OpenAI和AWS正在通过Amazon Bedrock提供Daybreak网络安全功能，以支持企业安全工作流程。",
-      "translated": true
+      "title_zh": "Daybreak models are now available on AWS",
+      "summary_zh": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "translated": false
     },
     {
       "title": "Testing ads in ChatGPT",
@@ -1515,9 +1605,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "59d818b4a9a762",
-      "title_zh": "在ChatGPT中测试广告",
-      "summary_zh": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，具有清晰的标签、答案独立性、强大的隐私保护和用户控制。",
-      "translated": true
+      "title_zh": "Testing ads in ChatGPT",
+      "summary_zh": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "translated": false
     },
     {
       "title": "What building an AI-native finance function taught me",
@@ -1545,9 +1635,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "96bbc62bc0afcd",
-      "title_zh": "使用新的人工智能工具来发展您的营销",
-      "summary_zh": "Google Ads和Google Analytics （分析）中的Advisor UI",
-      "translated": true
+      "title_zh": "Evolve your marketing with new AI tools",
+      "summary_zh": "Advisor UI in Google Ads and Google Analytics",
+      "translated": false
     },
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -1580,21 +1670,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "image": "",
-      "published": "2026-08-10T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "149bb186b9d88a",
-      "title_zh": "将前沿网络模型交到更值得信赖的人手中",
-      "summary_zh": "获批的Daybreak合作伙伴可以使用OpenAI的前沿网络模型为客户提供授权、受管控的网络安全服务。",
-      "translated": true
-    },
-    {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
@@ -1605,23 +1680,23 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "33e6997fede226",
-      "title_zh": "随着网络防御窗口的缩小，黎明不断扩大",
-      "summary_zh": "满足GPT-5.6-Cyber ， OpenAI通过Daybreak Red提供的网络安全特定模型，用于授权漏洞研究、漏洞利用验证和安全性",
-      "translated": true
+      "title_zh": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary_zh": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security",
+      "translated": false
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "image": "",
-      "published": "2026-08-10T00:00:00+00:00",
+      "published": "2026-08-10T10:00:00+00:00",
       "category": "products",
       "source_id": "openai",
       "source": "OpenAI",
       "site": "https://openai.com/news",
-      "id": "ddf32981b5403c",
-      "title_zh": "Premium seats are coming to ChatGPT Business",
-      "summary_zh": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+      "id": "149bb186b9d88a",
+      "title_zh": "Putting frontier cyber models in more trusted hands",
+      "summary_zh": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "translated": false
     },
     {
@@ -1637,6 +1712,21 @@ window.AI_NEWS = {
       "id": "bbc51ab0342cfc",
       "title_zh": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "summary_zh": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "translated": false
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+      "image": "",
+      "published": "2026-08-10T00:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "ddf32981b5403c",
+      "title_zh": "Premium seats are coming to ChatGPT Business",
+      "summary_zh": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
       "translated": false
     },
     {
@@ -1910,96 +2000,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "image": "",
-      "published": "2026-07-30T10:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "71e59363c656d8",
-      "title_zh": "Advancing the price-performance frontier with GPT-5.6",
-      "summary_zh": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "translated": false
-    },
-    {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "image": "",
-      "published": "2026-07-30T00:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "64957e2727666b",
-      "title_zh": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary_zh": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey respon",
-      "translated": false
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "image": "",
-      "published": "2026-07-29T15:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "43ce5bb2fb532d",
-      "title_zh": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary_zh": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "translated": false
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "image": "",
-      "published": "2026-07-29T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "40f609c02bfbea",
-      "title_zh": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary_zh": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "translated": false
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "image": "",
-      "published": "2026-07-29T00:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "d85c27de060d6a",
-      "title_zh": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary_zh": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "translated": false
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "image": "",
-      "published": "2026-07-28T17:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "d2f3aa47c65515",
-      "title_zh": "Scientific computing in the age of agentic AI",
-      "summary_zh": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and ",
-      "translated": false
-    },
-    {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
@@ -2042,21 +2042,6 @@ window.AI_NEWS = {
       "id": "fa6a7d0cc17156",
       "title_zh": "5 ways AI Mode in Search helps you enjoy the real world",
       "summary_zh": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "translated": false
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "image": "",
-      "published": "2026-07-27T03:30:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "54a85153ec5569",
-      "title_zh": "How AI is expanding what people do at work",
-      "summary_zh": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "translated": false
     },
     {
