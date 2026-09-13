@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-09-12T04:53:24.780763+00:00",
-  "updated_label": "2026-09-12 04:53 UTC",
+  "generated_at": "2026-09-13T05:13:57.416652+00:00",
+  "updated_label": "2026-09-13 05:13 UTC",
   "sources": [
     {
       "id": "openai",
@@ -50,6 +50,96 @@ window.AI_NEWS = {
       "translated": true
     },
     {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-12T17:41:36-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "46910f07090456",
+      "title_zh": "OpenAI的流氓AI在5月份试图入侵另一家公司",
+      "summary_zh": "5月，数百个恶意和垃圾邮件包被上传到RubyGems ，给房东造成了严重中断。 现在，独立研究人员表示，",
+      "translated": true
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-12T17:16:28-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "9a46576f375ed7",
+      "title_zh": "Sam Altman表示， 2026年OpenAI上市将是“不明智的”",
+      "summary_zh": "OpenAI首席执行官Sam Altman在接受《财富》杂志采访时证实， 2026年不会有OpenAI的IPO。 在45分钟的时间里， Altman讨论了",
+      "translated": true
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "image": "",
+      "published": "2026-09-12T20:19:16+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "1dd43b0267a649",
+      "title_zh": "OpenAI的Sam Altman表示，在2026年上市将是“不明智的”",
+      "summary_zh": "首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，虽然OpenAI已秘密申请IPO ，但该公司今年不会上市。",
+      "translated": true
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "image": "",
+      "published": "2026-09-12T19:34:44+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "fcee902d8084bc",
+      "title_zh": "Anthropic首席执行官概述了减缓人工智能发展的计划",
+      "summary_zh": "Anthropic的Dario Amodei和OpenAI的Sam Altman似乎都认为是时候“加快前沿步伐”了。 这实际上会是什么样子？",
+      "translated": true
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-12T12:23:40-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "b24b6f0c7e6071",
+      "title_zh": "Anthropic首席执行官表示，是时候对人工智能进行刹车了",
+      "summary_zh": "Anthropic首席执行官Dario Amodei表示，现在是减缓人工智能开发的时候了，并将允许METR等第三方评估人员访问其模型，以帮助确保",
+      "translated": true
+    },
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-12T10:41:27-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "83d7dd27387587",
+      "title_zh": "特朗普正在向数据中心提供污染通行证",
+      "summary_zh": "唐纳德特朗普总统正在以加快人工智能数据中心建设的名义削弱环境法规，增加了美国人的健康风险",
+      "translated": true
+    },
+    {
       "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
       "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
       "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [",
@@ -62,6 +152,21 @@ window.AI_NEWS = {
       "id": "fe04ccfe8abc70",
       "title_zh": "Meta表示，在提出侵入性的个人问题后，它正在改变AI建议",
       "summary_zh": "Meta表示，它正在修改其AI聊天机器人提示的提示，此前一段病毒视频显示，它正在挖掘一名女性年轻女性的个人信息。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-11T19:35:48-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "2f0d77d2e89aeb",
+      "title_zh": "OpenAI只想赢",
+      "summary_zh": "OpenAI在过去几年中一直在日益困难的数学领域种植旗帜。 本周，它获得了迄今为止最大的奖项之一",
       "translated": true
     },
     {
@@ -155,7 +260,7 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI ext",
       "image": "",
@@ -164,8 +269,8 @@ window.AI_NEWS = {
       "source_id": "mit-tech-review",
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "id": "b1c9948d072c1d",
-      "title_zh": "圆桌会议：人工智能的末日危机",
+      "id": "a7dc5194346990",
+      "title_zh": "圆桌会议：人工智能真的会杀死我们所有人吗？",
       "summary_zh": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能摧毁人类。 他们说得对吗？还是这更像是scaremon",
       "translated": true
     },
@@ -227,21 +332,6 @@ window.AI_NEWS = {
       "id": "0426bb21c8f1ee",
       "title_zh": "Nscale在潜在的IPO之前将前OpenAI高管Fidji Simo加入其董事会",
       "summary_zh": "OpenAI排名第二的高管也在2023年带领Instacart完成了首次公开募股。",
-      "translated": true
-    },
-    {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-11T12:08:47-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "3ffe2a0af0e9bc",
-      "title_zh": "Meta的Muse AI让我毛骨悚然",
-      "summary_zh": "Meta推出了新的Muse助手，标志着该公司首次真正涉足人工智能驱动的生产力工具。 该公司表示，其人工智能代理可以“采取",
       "translated": true
     },
     {
@@ -410,21 +500,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company tha",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-10T12:06:36-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "030d1ffa04e409",
-      "title_zh": "环球音乐与ElevenLabs合作推出人工智能音乐平台",
-      "summary_zh": "环球音乐集团正在推出一个新的人工智能平台，允许用户从其许可音乐目录中抽取歌曲混音，混搭，",
-      "translated": true
-    },
-    {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
@@ -500,36 +575,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Why the current tech backlash feels different",
-      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-10T09:49:45-04:00",
-      "category": "tools",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "46417733195438",
-      "title_zh": "为什么当前的技术反弹感觉不同",
-      "summary_zh": "本次访谈经过了轻微的编辑，以保证长度和清晰度。 Nick Statt ：您好，欢迎来到Decoder ， Nilay关于大创意和其他问题的节目。",
-      "translated": true
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lac",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-10T07:19:44-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "912b6e7fd665f1",
-      "title_zh": "数学家想要证明OpenAI没有使用他们的工作",
-      "summary_zh": "另一位研究人员正在挑战OpenAI ，关于推动其日益令人印象深刻的数学发现的数据。 就在苦涩的争吵几天后",
-      "translated": true
-    },
-    {
       "title": "Powering AI is an architecture problem",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
@@ -575,21 +620,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "image": "",
-      "published": "2026-09-10T00:00:37+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "40a56c445d7889",
-      "title_zh": "人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金",
-      "summary_zh": "消息人士称， Listen Labs放弃了Menlo Ventures签署的C系列条款表。",
-      "translated": true
-    },
-    {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -617,36 +647,6 @@ window.AI_NEWS = {
       "id": "dc20d3533a78e8",
       "title_zh": "Agent API简介",
       "summary_zh": "使用Agents API构建和启动云代理，这是一项由Codex支持的托管服务，用于编排、长期运行的会话和工具使用。",
-      "translated": true
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "image": "",
-      "published": "2026-09-09T22:25:22+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "eacf987b910627",
-      "title_zh": "OpenAI为其董事会增加了一个突出的人工智能末日",
-      "summary_zh": "保罗·克里斯蒂安诺（ Paul Christiano ）是一位专注于调整的有影响力的人工智能研究人员，他将加入OpenAI基金会，成为其董事会成员。",
-      "translated": true
-    },
-    {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-09T17:47:02-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "24ba2ece7e67e9",
-      "title_zh": "Suno发布首个在唱片行业帮助下制作的人工智能音乐模型",
-      "summary_zh": "Suno的新v6人工智能音乐模型首次在唱片行业的支持下制作。 Suno的Jack Brody告诉The Verge ， v6 “从头开始训练，",
       "translated": true
     },
     {
