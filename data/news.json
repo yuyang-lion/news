@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T05:13:57.416652+00:00",
-  "updated_label": "2026-09-13 05:13 UTC",
+  "generated_at": "2026-09-14T05:19:16.596398+00:00",
+  "updated_label": "2026-09-14 05:19 UTC",
   "sources": [
     {
       "id": "openai",
@@ -54,7 +54,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-12T17:41:36-04:00",
+      "published": "2026-09-13T16:54:00-04:00",
       "category": "research",
       "source_id": "the-verge",
       "source": "The Verge AI",
@@ -62,6 +62,51 @@
       "id": "46910f07090456",
       "title_zh": "OpenAI的流氓AI在5月份试图入侵另一家公司",
       "summary_zh": "5月，数百个恶意和垃圾邮件包被上传到RubyGems ，给房东造成了严重中断。 现在，独立研究人员表示，",
+      "translated": true
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mik",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-13T15:41:48-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "2ccd3ee2211117",
+      "title_zh": "特朗普和迈克·约翰逊认为人工智能行业反应过度",
+      "summary_zh": "昨天， Anthropic首席执行官Dario Amodei发表了一封冗长的公开信，称是时候“加快前沿步伐”并减缓人工智能的发展。 OpenAI的Sam Altma",
+      "translated": true
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "image": "",
+      "published": "2026-09-13T19:40:15+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "5ea5ec4a9b87ff",
+      "title_zh": "人工智能行业最新的厄运警告背后是什么？",
+      "summary_zh": "关于Equity ，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论。",
+      "translated": true
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "image": "",
+      "published": "2026-09-13T16:30:00+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "cbcc8ba8086ab2",
+      "title_zh": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”",
+      "summary_zh": "奥巴马最近表示，民主党人需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决围绕人工智能的担忧。",
       "translated": true
     },
     {
@@ -455,21 +500,6 @@
       "translated": true
     },
     {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-10T15:49:38-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "f2d713272b3f96",
-      "title_zh": "学校正在关注大型科技公司的剧本",
-      "summary_zh": "这是科技领域的热门新事物，也是所有工作的地方。 没有学会使用它的学生落后了。 为了帮助他们及时赶上，其创作者",
-      "translated": true
-    },
-    {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
@@ -542,36 +572,6 @@
       "id": "79e0ece3150f45",
       "title_zh": "现在，每个人都可以使用数据",
       "summary_zh": "在ChatGPT Work中与数据代理见面。 使用自然语言将公司数据连接起来，发现见解，并使用人工智能构建交互式仪表板。",
-      "translated": true
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "image": "",
-      "published": "2026-09-10T14:53:50+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "c6662bf1263408",
-      "title_zh": "人工智能代理正在用新的请求淹没公共服务",
-      "summary_zh": "这位研究人员告诉TechCrunch ： “我们发现的绝大多数案例都是有权要求某样东西的人，要求那样东西。”",
-      "translated": true
-    },
-    {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "image": "",
-      "published": "2026-09-10T14:17:37+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "02b356ca389a0d",
-      "title_zh": "Maven Robotics想要窃取您的机器人部署交易",
-      "summary_zh": "Maven Robotics今天从隐形中脱颖而出，获得了1亿美元的A轮融资和积极的部署。",
       "translated": true
     },
     {
