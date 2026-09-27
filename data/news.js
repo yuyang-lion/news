@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-09-26T05:19:05.528004+00:00",
-  "updated_label": "2026-09-26 05:19 UTC",
+  "generated_at": "2026-09-27T05:36:12.958214+00:00",
+  "updated_label": "2026-09-27 05:36 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,66 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "image": "",
+      "published": "2026-09-27T01:30:00+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "23c5edffc8e667",
+      "title_zh": "谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下的Flipkart购物",
+      "summary_zh": "有限的测试涵盖部分产品和用户，并计划于10月下旬进行更广泛的推广。",
+      "translated": true
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "image": "",
+      "published": "2026-09-26T21:02:06+00:00",
+      "category": "tools",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "19eee564181a37",
+      "title_zh": "保险公司声称人工智能已经在增加医疗保健成本",
+      "summary_zh": "Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-26T12:34:59-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "906bdabef37a98",
+      "title_zh": "OpenAI暂停对其“最有能力模型”的培训",
+      "summary_zh": "由于有关OpenAI模型破坏遏制、黑客攻击网站以及普遍失控的报道堆积如山，该公司决定暂停TRAI",
+      "translated": true
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "image": "",
+      "published": "2026-09-26T14:00:00+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "e25fbf8d87be55",
+      "title_zh": "我创建了一个自己的交互式数字头像—您可以与之交谈",
+      "summary_zh": "在获得了一个交互式头像并训练它来讨论风险欺诈之后，我对自己制作人工智能克隆的感觉很复杂。",
+      "translated": true
+    },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -77,6 +137,21 @@ window.AI_NEWS = {
       "id": "ec82ae934b3942",
       "title_zh": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
       "summary_zh": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。",
+      "translated": true
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-25T18:13:20-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "c6e73f6fbae2ba",
+      "title_zh": "Cloudflare首席执行官Matthew Prince能否从人工智能中拯救网络？",
+      "summary_zh": "今天，我与Cloudflare首席执行官马修·普林斯（ Matthew Prince ）交谈。 本集是关于商业未来的两部分系列的一部分。 Matthew上次加入我们是",
       "translated": true
     },
     {
@@ -335,21 +410,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268774_The_hottest_AI_agent_platforms_are_just_OpenClaw_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-25T10:42:05-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "516dbc286ad56b",
-      "title_zh": "Muse看起来很像OpenClaw",
-      "summary_zh": "我们似乎正在进入人工智能特工的复兴。 Meta新的面向消费者的AI代理商Muse在发布后不久就登上了App Store排行榜的榜首，拥有600,0",
-      "translated": true
-    },
-    {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -410,36 +470,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "image": "",
-      "published": "2026-09-25T05:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "ee19debe53f850",
-      "title_zh": "Lightspeed的目标是2.5亿美元的新印度基金，专注于早期人工智能",
-      "summary_zh": "这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。",
-      "translated": true
-    },
-    {
-      "title": "Muse will apparently let you download its entire filesystem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders po",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-24T18:06:44-04:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "7c83be79d61cfb",
-      "title_zh": "Muse显然会让您下载其整个文件系统",
-      "summary_zh": "一对开发人员表示，在很少提示的情况下， Meta的Muse将与您共享其整个文件系统。 彼得·詹姆斯（ Peter James ）和乔尼·桑德斯（ Jonny L.",
-      "translated": true
-    },
-    {
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can trans",
@@ -452,36 +482,6 @@ window.AI_NEWS = {
       "id": "03a4cbfbb87136",
       "title_zh": "Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸",
       "summary_zh": "谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。 “Live Avatar” w",
-      "translated": true
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "image": "",
-      "published": "2026-09-24T19:15:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "05c51a71e65da1",
-      "title_zh": "携带您的联合创始人、合作伙伴或同事，获得第二张TechCrunch Disrupt 2026通行证五折优惠",
-      "summary_zh": "购买TechCrunch Disrupt 2026的一张通行证，即可享受相同门票类型的一秒半价优惠。 请在太平洋时间10月13日上午8点开始活动前登记。",
-      "translated": true
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "image": "",
-      "published": "2026-09-24T19:00:42+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "e2762b85201fe0",
-      "title_zh": "PrismML将其微小的LLM带入高通驱动的智能眼镜",
-      "summary_zh": "Prism更大的目标是在设备上运行的开放式人工智能，并更好地利用他们已经拥有的计算能力。",
       "translated": true
     },
     {
@@ -855,9 +855,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "53644e7f2b7d79",
-      "title_zh": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary_zh": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of techn",
-      "translated": false
+      "title_zh": "美国在边境监控上花费了数十亿美元。 为什么它在死前抓不住人？",
+      "summary_zh": "当何塞·莫拉莱斯·贝纳尔（ José Morales Bernal ）在2024年4月8日，也就是他32岁生日的前一天越过边境进入美国时，它本应该引发一连串的技术",
+      "translated": true
     },
     {
       "title": "She died at the San Diego border. A surveillance camera was in plain sight",
@@ -870,9 +870,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "02246244f968a5",
-      "title_zh": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary_zh": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed",
-      "translated": false
+      "title_zh": "她死在圣地亚哥边境。 监控摄像头清晰可见",
+      "summary_zh": "她只走了几个小时，已经迷路了。 2025年9月14日下午， 30岁的Graciela Gómez Hernández",
+      "translated": true
     },
     {
       "title": "Building standards for the next phase of AI",
@@ -885,9 +885,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "18f638e273bc1b",
-      "title_zh": "Building standards for the next phase of AI",
-      "summary_zh": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "translated": false
+      "title_zh": "为下一阶段的人工智能构建标准",
+      "summary_zh": "OpenAI概述了通往共享全球人工智能标准的道路，呼吁协调评估、报告和治理，以提高安全性。",
+      "translated": true
     },
     {
       "title": "Expanding OpenAI Academy with new learning paths",
@@ -900,9 +900,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "ad4be8da68ddbf",
-      "title_zh": "Expanding OpenAI Academy with new learning paths",
-      "summary_zh": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "translated": false
+      "title_zh": "用新的学习路径扩展OpenAI学院",
+      "summary_zh": "为员工、开发人员、领导者、教育工作者和学生探索新的OpenAI学院学习路径，以构建和展示实用的人工智能技能。",
+      "translated": true
     },
     {
       "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
@@ -915,9 +915,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "b791b75330b7f8",
-      "title_zh": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "summary_zh": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "translated": false
+      "title_zh": "V7通过GPT-5.6 Luna降低了78%的成本，同时提高了准确性",
+      "summary_zh": "使用GPT-5.6 ， V7将分散的公司文件转换为上下文代理可用于完成复杂的源链接工作。",
+      "translated": true
     },
     {
       "title": "New experts join Google’s AI & Economy team",
@@ -930,9 +930,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "146dd3ee7a99f7",
-      "title_zh": "New experts join Google’s AI & Economy team",
-      "summary_zh": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "translated": false
+      "title_zh": "新专家加入谷歌的人工智能和经济团队",
+      "summary_zh": "文本“AI & Economy Research Program”遍布绿色网格背景，右下角为Google G徽标",
+      "translated": true
     },
     {
       "title": "Co-creating the future of fashion with Google",
@@ -945,9 +945,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "608aa0fe0fa1e9",
-      "title_zh": "Co-creating the future of fashion with Google",
-      "summary_zh": "Jane Wade and Sergio Hudson",
-      "translated": false
+      "title_zh": "与Google共同创造时尚的未来",
+      "summary_zh": "Jane Wade和Sergio Hudson",
+      "translated": true
     },
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -960,9 +960,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "5cddcaff8d91b0",
-      "title_zh": "Introducing the Australian Youth Safety Blueprint",
-      "summary_zh": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "translated": false
+      "title_zh": "澳大利亚青少年安全蓝图简介",
+      "summary_zh": "OpenAI推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。",
+      "translated": true
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -975,9 +975,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "a2f35948f94713",
-      "title_zh": "Could AI really kill us all? Your questions, answered.",
-      "summary_zh": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us",
-      "translated": false
+      "title_zh": "人工智能真的能杀死我们所有人吗？为您解答疑问。",
+      "summary_zh": "周三，《麻省理工科技评论》(MIT Technology Review)为订阅者举办了一场现场圆桌会议活动，询问大家现在都在问的问题：人工智能真的能杀死我们吗？",
+      "translated": true
     },
     {
       "title": "Making global data easier to explore",
@@ -990,9 +990,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "3b314746c7da74",
-      "title_zh": "Making global data easier to explore",
-      "summary_zh": "UN System Data Commons Data webpage",
-      "translated": false
+      "title_zh": "让全球数据更易于探索",
+      "summary_zh": "联合国系统数据共享数据网页",
+      "translated": true
     },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -1005,9 +1005,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9a0d76aaf7bc8f",
-      "title_zh": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary_zh": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters mo",
-      "translated": false
+      "title_zh": "Cooley如何利用ChatGPT加速IPO工作",
+      "summary_zh": "Cooley通过ChatGPT Work构建了GO Public ，为IPO流程带来情报，帮助律师更早地发现问题，并在重要的地方集中判断。",
+      "translated": true
     },
     {
       "title": "Introducing Astra for Law",
@@ -1020,9 +1020,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "13fb6b55021c3a",
-      "title_zh": "Introducing Astra for Law",
-      "summary_zh": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "translated": false
+      "title_zh": "Astra for Law简介",
+      "summary_zh": "OpenAI for Law为法律、定制公司工作流程、连接的法律数据源以及机密客户工作的法律级控制带来了前沿情报。",
+      "translated": true
     },
     {
       "title": "Our framework for reporting model misalignment",
@@ -1035,9 +1035,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "f2ea773216c186",
-      "title_zh": "Our framework for reporting model misalignment",
-      "summary_zh": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "translated": false
+      "title_zh": "我们的模型错位报告框架",
+      "summary_zh": "OpenAI共享一个用于跟踪、调查和披露模型错位的框架，以及六份关于意外或相关模型行为的报告。",
+      "translated": true
     },
     {
       "title": "Helping older adults use AI in everyday life",
@@ -1050,9 +1050,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "81bdb7d89b0571",
-      "title_zh": "Helping older adults use AI in everyday life",
-      "summary_zh": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "translated": false
+      "title_zh": "帮助老年人在日常生活中使用人工智能",
+      "summary_zh": "OpenAI和AARP正在为美国10个城市的1000名老年人提供免费的实践ChatGPT研讨会，以安全地培养实用的人工智能技能。",
+      "translated": true
     },
     {
       "title": "Reimagining advertising with AI",
@@ -1065,9 +1065,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "dde479888e2f8d",
-      "title_zh": "Reimagining advertising with AI",
-      "summary_zh": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "translated": false
+      "title_zh": "用人工智能重新构想广告",
+      "summary_zh": "探索OpenAI新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与HubSpot和Shopify的集成。",
+      "translated": true
     },
     {
       "title": "Building the materials foundation for AI",
@@ -1080,9 +1080,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "2b6de998df8011",
-      "title_zh": "Building the materials foundation for AI",
-      "summary_zh": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial ",
-      "translated": false
+      "title_zh": "为人工智能奠定材料基础",
+      "summary_zh": "人工智能热潮正在成为一项材料挑战。 随着人工智能将计算推向新的领域，基础设施背后的材料也变得同样重要",
+      "translated": true
     },
     {
       "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
@@ -1095,9 +1095,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4bc072726f16df",
-      "title_zh": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "summary_zh": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "translated": false
+      "title_zh": "Hex使用GPT ‑ 6 Astra将复杂分析转化为可视化报告",
+      "summary_zh": "GPT-6 Astra帮助Hex的数据代理将答案转化为员工自豪地分享的交互式可视化。",
+      "translated": true
     },
     {
       "title": "How to connect AI usage to business value",
@@ -1110,9 +1110,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "e61208b3f73eab",
-      "title_zh": "How to connect AI usage to business value",
-      "summary_zh": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "translated": false
+      "title_zh": "如何将人工智能使用与业务价值联系起来",
+      "summary_zh": "了解ChatGPT Work和Codex分析如何帮助团队了解人工智能的使用和支出，确定培训需求，并将采用与业务成果联系起来。",
+      "translated": true
     },
     {
       "title": "How workers are unlocking new ways of working",
@@ -1125,9 +1125,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "96909933ef58df",
-      "title_zh": "How workers are unlocking new ways of working",
-      "summary_zh": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "translated": false
+      "title_zh": "员工如何开启新的工作方式",
+      "summary_zh": "新的OpenAI经济研究显示了员工如何在传统角色之外使用人工智能，以及哪些新活动成为他们工作的重复部分。",
+      "translated": true
     },
     {
       "title": "AI for Societal Impact",
@@ -1140,9 +1140,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "8f76cbdfe0f555",
-      "title_zh": "AI for Societal Impact",
-      "summary_zh": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "translated": false
+      "title_zh": "人工智能助力社会影响力",
+      "summary_zh": "浏览此系列，了解专家和当地领导者如何利用人工智能的突破，确保每个人都能分享人工智能的机会。",
+      "translated": true
     },
     {
       "title": "Building AI to accelerate science and improve lives",
