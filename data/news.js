@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-09-27T05:36:12.958214+00:00",
-  "updated_label": "2026-09-27 05:36 UTC",
+  "generated_at": "2026-09-28T05:44:04.674827+00:00",
+  "updated_label": "2026-09-28 05:44 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,81 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds r",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-27T16:46:36-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "42cc75e8ba1705",
+      "title_zh": "Engram是一个将破碎的人工智能幻觉转化为音乐的采样器",
+      "summary_zh": "音乐创业公司Thoughtful Things刚刚推出了其首款乐器Engram的Kickstarter活动。 这是一个采样器和凹槽盒，使用人工智能来破坏",
+      "translated": true
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "image": "",
+      "published": "2026-09-27T20:34:28+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "5588a8aa9e9003",
+      "title_zh": "Anthropic首席执行官即将与特朗普总统共进晚餐",
+      "summary_zh": "这将是Dario Amodei和唐纳德·特朗普之间的首次一对一会面",
+      "translated": true
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "image": "",
+      "published": "2026-09-27T19:57:30+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "33f0bab01792de",
+      "title_zh": "Muse能否克服Meta的信任问题？",
+      "summary_zh": "关于Equity ，我们讨论了Meta的人工智能公告如何设法从OpenAI和Anthropic抢走聚光灯。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning exampl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-09-27T13:21:07-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "483db0f71b58a1",
+      "title_zh": "OpenAI特工试图“蛮力”联合国网站",
+      "summary_zh": "安全研究员Rowan Howard-Jones表示， OpenAI特工扫描了联合国贸易和发展会议（ UNCTAD ）的统计网站超过16,000次b",
+      "translated": true
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "image": "",
+      "published": "2026-09-27T16:30:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "64c25a6284e1fd",
+      "title_zh": "Anthropic的Dario Amodei接受SNL治疗",
+      "summary_zh": "“人工智能是魔鬼，我是创造者。”",
+      "translated": true
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -395,51 +470,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-      "image": "",
-      "published": "2026-09-25T15:00:00+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "77e1376c760cf3",
-      "title_zh": "TechCrunch Disrupt 2026 ： Ricursive Intelligence的安娜·戈尔迪（ Anna Goldie ）和阿扎莉娅·米尔霍塞尼（ Azalia Mirhoseini ）在人工智能开始设计自己的硬件",
-      "summary_zh": "在TechCrunch Disrupt 2026上， Ricursive Intelligence联合创始人Anna Goldie和Azalia Mirhoseini将登上Disrupt舞台，讨论如何缩小",
-      "translated": true
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "image": "",
-      "published": "2026-09-25T14:15:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "301976a0b3c17c",
-      "title_zh": "受裁员影响？不要错过TechCrunch Disrupt 2026 Expo + Pass的$ 75优惠",
-      "summary_zh": "您的下一个机会可能是一次对话。 只需$ 75 ，即可获得博览会+通行证。 仅限前100名符合条件的人士。",
-      "translated": true
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "image": "",
-      "published": "2026-09-25T14:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "f99a5eed118f4f",
-      "title_zh": "过去24小时内， TechCrunch Disrupt 2026最高可节省200 $。 参加的原因5 （共5个） ：动力",
-      "summary_zh": "最后24小时， TechCrunch Disrupt 2026通行证最高可节省$ 200。 让事件比你开始的地方更进一步地留在你的创业轨迹中。 千万不要错过",
-      "translated": true
-    },
-    {
       "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
       "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
       "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Auto",
@@ -482,36 +512,6 @@ window.AI_NEWS = {
       "id": "03a4cbfbb87136",
       "title_zh": "Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸",
       "summary_zh": "谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。 “Live Avatar” w",
-      "translated": true
-    },
-    {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-24T14:04:44-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "44d77eef38c5fc",
-      "title_zh": "Jensen Huang像超级恶棍一样谈论人工智能和气候变化",
-      "summary_zh": "正如Jensen Huang所说，人工智能可以帮助应对气候变化--但前提是它首先造成“巨大的痛苦和苦难”。 英伟达首席执行官讨论了",
-      "translated": true
-    },
-    {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-09-24T13:52:29-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "d4f8d00433686a",
-      "title_zh": "Meta将允许您在手机上使用AI构建游戏",
-      "summary_zh": "Meta制定了一项新计划，让人们为其Horizon社交平台制作游戏。 该公司今天宣布推出两款新的开发工具，可让您",
       "translated": true
     },
     {
@@ -645,9 +645,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "a8cf965c2627a6",
-      "title_zh": "AI炒作指数： AI喜欢作弊",
-      "summary_zh": "做好准备：事实证明，人工智能正在针对作弊进行优化。 OpenAI的代理人入侵了Hugging Face ，以获得网络安全测试的答案。接下来，他们",
-      "translated": true
+      "title_zh": "The AI Hype Index: AI loves cheating",
+      "summary_zh": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they",
+      "translated": false
     },
     {
       "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
@@ -660,9 +660,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "1177755c1d7a15",
-      "title_zh": "ChatGPT Ads扩展到东南亚和台湾",
-      "summary_zh": "ChatGPT Ads正在扩展到东南亚和台湾，为符合条件的企业提供覆盖60多个国家/地区的新方式。",
-      "translated": true
+      "title_zh": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary_zh": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "translated": false
     },
     {
       "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
@@ -675,9 +675,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "7d01d126c4cf23",
-      "title_zh": "爱彼迎扩大GPT-6 Astra和OpenAI前沿模型的使用范围",
-      "summary_zh": "了解爱彼迎如何扩大GPT-6 Astra和OpenAI前沿模型的使用范围，帮助工程团队更快地解决漏洞、设计系统和发货。",
-      "translated": true
+      "title_zh": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "summary_zh": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "translated": false
     },
     {
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
@@ -690,9 +690,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "833bb0bb9da75e",
-      "title_zh": "Grab和OpenAI为东南亚带来实用的人工智能技能",
-      "summary_zh": "OpenAI和Grab推出了GO Forward with AI ，这是一项区域计划，帮助3万个合作伙伴在东南亚建立实用的人工智能技能。",
-      "translated": true
+      "title_zh": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary_zh": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "translated": false
     },
     {
       "title": "Better prompt caching for GPT-6",
@@ -705,9 +705,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "c017808d5346b2",
-      "title_zh": "GPT-6的更好提示缓存",
-      "summary_zh": "了解GPT-6如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。",
-      "translated": true
+      "title_zh": "Better prompt caching for GPT-6",
+      "summary_zh": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "translated": false
     },
     {
       "title": "Introducing GPT-6 Sol and Luna",
@@ -720,9 +720,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3557f01ef04c40",
-      "title_zh": "隆重推出GPT-6 Sol和Luna",
-      "summary_zh": "认识GPT-6 Sol和Luna ，这是两款将前沿智能带入日常工作的模型，具有不同的能力和成本平衡。",
-      "translated": true
+      "title_zh": "Introducing GPT-6 Sol and Luna",
+      "summary_zh": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "translated": false
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -735,9 +735,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "3dd985b2ee5449",
-      "title_zh": "圆桌会议：虚拟边界墙的致命失败",
-      "summary_zh": "在过去的25年里，美国花费了数十亿美元在其南部边境修建了一堵监控塔的“虚拟墙” ，承诺它们将帮助检测和",
-      "translated": true
+      "title_zh": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary_zh": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and",
+      "translated": false
     },
     {
       "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
@@ -750,9 +750,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "72f8068fa80502",
-      "title_zh": "使用GPT ‑ 6 Astra将研究时间和成本并行削减一半",
-      "summary_zh": "GPT ‑ 6 Astra使Parallel的代理商能够以一半的时间和一半的成本研究并合成劳动力市场数据。",
-      "translated": true
+      "title_zh": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary_zh": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "translated": false
     },
     {
       "title": "Don’t be fooled by this summer of AI hype",
@@ -765,9 +765,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "8deb23bbb6e922",
-      "title_zh": "不要被这个夏天的人工智能炒作所愚弄",
-      "summary_zh": "人工智能炒作已经忙碌了几个月。 4月底， Anthropic声称其模型Claude Mythos更擅长发现软件漏洞，而不是",
-      "translated": true
+      "title_zh": "Don’t be fooled by this summer of AI hype",
+      "summary_zh": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than ",
+      "translated": false
     },
     {
       "title": "Priorities and principles for effective third party assessments",
@@ -780,9 +780,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "b5c66eb68a4bac",
-      "title_zh": "有效第三方评估的优先事项和原则",
-      "summary_zh": "OpenAI概述了对前沿模型和保障措施进行严格、安全和独立的第三方人工智能安全评估的优先事项和原则。",
-      "translated": true
+      "title_zh": "Priorities and principles for effective third party assessments",
+      "summary_zh": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "translated": false
     },
     {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -795,9 +795,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a4ff97c92403b5",
-      "title_zh": "希格斯菲尔德人工智能通过GPT-6 Astra在一天内推出新的视频功能",
-      "summary_zh": "借助GPT-6 Astra ， Higgsfield AI使小型企业的视频广告创作更轻松，并将新的创意工具更快地推向市场。",
-      "translated": true
+      "title_zh": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary_zh": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "translated": false
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -810,9 +810,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9d8125ecc2e6f5",
-      "title_zh": "数学和人工智能咨询小组",
-      "summary_zh": "OpenAI正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通。",
-      "translated": true
+      "title_zh": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_zh": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "translated": false
     },
     {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
@@ -825,9 +825,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "a601a0d75a3064",
-      "title_zh": "我们如何绘制美国边境“虚拟隔离墙”沿线的第一张综合死亡地图",
-      "summary_zh": "我们对美墨边境死亡和监控的15个月调查始于一个简单的问题：为什么这么多人在政府调查附近死亡",
-      "translated": true
+      "title_zh": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary_zh": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surve",
+      "translated": false
     },
     {
       "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
@@ -840,9 +840,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "efbed0de1ac532",
-      "title_zh": "解决我们在美国边境“虚拟墙”上发现的故障的4种方法",
-      "summary_zh": "《麻省理工科技评论》今天公布了我们对美国政府监控塔“虚拟墙”附近有多少人死亡的调查",
-      "translated": true
+      "title_zh": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary_zh": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has",
+      "translated": false
     },
     {
       "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
@@ -855,9 +855,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "53644e7f2b7d79",
-      "title_zh": "美国在边境监控上花费了数十亿美元。 为什么它在死前抓不住人？",
-      "summary_zh": "当何塞·莫拉莱斯·贝纳尔（ José Morales Bernal ）在2024年4月8日，也就是他32岁生日的前一天越过边境进入美国时，它本应该引发一连串的技术",
-      "translated": true
+      "title_zh": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary_zh": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of techn",
+      "translated": false
     },
     {
       "title": "She died at the San Diego border. A surveillance camera was in plain sight",
@@ -870,9 +870,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "02246244f968a5",
-      "title_zh": "她死在圣地亚哥边境。 监控摄像头清晰可见",
-      "summary_zh": "她只走了几个小时，已经迷路了。 2025年9月14日下午， 30岁的Graciela Gómez Hernández",
-      "translated": true
+      "title_zh": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary_zh": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed",
+      "translated": false
     },
     {
       "title": "Building standards for the next phase of AI",
@@ -885,9 +885,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "18f638e273bc1b",
-      "title_zh": "为下一阶段的人工智能构建标准",
-      "summary_zh": "OpenAI概述了通往共享全球人工智能标准的道路，呼吁协调评估、报告和治理，以提高安全性。",
-      "translated": true
+      "title_zh": "Building standards for the next phase of AI",
+      "summary_zh": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "translated": false
     },
     {
       "title": "Expanding OpenAI Academy with new learning paths",
@@ -900,9 +900,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "ad4be8da68ddbf",
-      "title_zh": "用新的学习路径扩展OpenAI学院",
-      "summary_zh": "为员工、开发人员、领导者、教育工作者和学生探索新的OpenAI学院学习路径，以构建和展示实用的人工智能技能。",
-      "translated": true
+      "title_zh": "Expanding OpenAI Academy with new learning paths",
+      "summary_zh": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "translated": false
     },
     {
       "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
@@ -915,9 +915,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "b791b75330b7f8",
-      "title_zh": "V7通过GPT-5.6 Luna降低了78%的成本，同时提高了准确性",
-      "summary_zh": "使用GPT-5.6 ， V7将分散的公司文件转换为上下文代理可用于完成复杂的源链接工作。",
-      "translated": true
+      "title_zh": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+      "summary_zh": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "translated": false
     },
     {
       "title": "New experts join Google’s AI & Economy team",
@@ -930,9 +930,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "146dd3ee7a99f7",
-      "title_zh": "新专家加入谷歌的人工智能和经济团队",
-      "summary_zh": "文本“AI & Economy Research Program”遍布绿色网格背景，右下角为Google G徽标",
-      "translated": true
+      "title_zh": "New experts join Google’s AI & Economy team",
+      "summary_zh": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "translated": false
     },
     {
       "title": "Co-creating the future of fashion with Google",
@@ -945,9 +945,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "608aa0fe0fa1e9",
-      "title_zh": "与Google共同创造时尚的未来",
-      "summary_zh": "Jane Wade和Sergio Hudson",
-      "translated": true
+      "title_zh": "Co-creating the future of fashion with Google",
+      "summary_zh": "Jane Wade and Sergio Hudson",
+      "translated": false
     },
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -960,9 +960,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "5cddcaff8d91b0",
-      "title_zh": "澳大利亚青少年安全蓝图简介",
-      "summary_zh": "OpenAI推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。",
-      "translated": true
+      "title_zh": "Introducing the Australian Youth Safety Blueprint",
+      "summary_zh": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "translated": false
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -975,9 +975,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "a2f35948f94713",
-      "title_zh": "人工智能真的能杀死我们所有人吗？为您解答疑问。",
-      "summary_zh": "周三，《麻省理工科技评论》(MIT Technology Review)为订阅者举办了一场现场圆桌会议活动，询问大家现在都在问的问题：人工智能真的能杀死我们吗？",
-      "translated": true
+      "title_zh": "Could AI really kill us all? Your questions, answered.",
+      "summary_zh": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us",
+      "translated": false
     },
     {
       "title": "Making global data easier to explore",
@@ -990,9 +990,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "3b314746c7da74",
-      "title_zh": "让全球数据更易于探索",
-      "summary_zh": "联合国系统数据共享数据网页",
-      "translated": true
+      "title_zh": "Making global data easier to explore",
+      "summary_zh": "UN System Data Commons Data webpage",
+      "translated": false
     },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -1005,9 +1005,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9a0d76aaf7bc8f",
-      "title_zh": "Cooley如何利用ChatGPT加速IPO工作",
-      "summary_zh": "Cooley通过ChatGPT Work构建了GO Public ，为IPO流程带来情报，帮助律师更早地发现问题，并在重要的地方集中判断。",
-      "translated": true
+      "title_zh": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary_zh": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters mo",
+      "translated": false
     },
     {
       "title": "Introducing Astra for Law",
@@ -1020,9 +1020,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "13fb6b55021c3a",
-      "title_zh": "Astra for Law简介",
-      "summary_zh": "OpenAI for Law为法律、定制公司工作流程、连接的法律数据源以及机密客户工作的法律级控制带来了前沿情报。",
-      "translated": true
+      "title_zh": "Introducing Astra for Law",
+      "summary_zh": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "translated": false
     },
     {
       "title": "Our framework for reporting model misalignment",
@@ -1035,9 +1035,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "f2ea773216c186",
-      "title_zh": "我们的模型错位报告框架",
-      "summary_zh": "OpenAI共享一个用于跟踪、调查和披露模型错位的框架，以及六份关于意外或相关模型行为的报告。",
-      "translated": true
+      "title_zh": "Our framework for reporting model misalignment",
+      "summary_zh": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "translated": false
     },
     {
       "title": "Helping older adults use AI in everyday life",
@@ -1050,9 +1050,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "81bdb7d89b0571",
-      "title_zh": "帮助老年人在日常生活中使用人工智能",
-      "summary_zh": "OpenAI和AARP正在为美国10个城市的1000名老年人提供免费的实践ChatGPT研讨会，以安全地培养实用的人工智能技能。",
-      "translated": true
+      "title_zh": "Helping older adults use AI in everyday life",
+      "summary_zh": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "translated": false
     },
     {
       "title": "Reimagining advertising with AI",
@@ -1065,9 +1065,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "dde479888e2f8d",
-      "title_zh": "用人工智能重新构想广告",
-      "summary_zh": "探索OpenAI新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与HubSpot和Shopify的集成。",
-      "translated": true
+      "title_zh": "Reimagining advertising with AI",
+      "summary_zh": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "translated": false
     },
     {
       "title": "Building the materials foundation for AI",
@@ -1080,9 +1080,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "2b6de998df8011",
-      "title_zh": "为人工智能奠定材料基础",
-      "summary_zh": "人工智能热潮正在成为一项材料挑战。 随着人工智能将计算推向新的领域，基础设施背后的材料也变得同样重要",
-      "translated": true
+      "title_zh": "Building the materials foundation for AI",
+      "summary_zh": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial ",
+      "translated": false
     },
     {
       "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
@@ -1095,9 +1095,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4bc072726f16df",
-      "title_zh": "Hex使用GPT ‑ 6 Astra将复杂分析转化为可视化报告",
-      "summary_zh": "GPT-6 Astra帮助Hex的数据代理将答案转化为员工自豪地分享的交互式可视化。",
-      "translated": true
+      "title_zh": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary_zh": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "translated": false
     },
     {
       "title": "How to connect AI usage to business value",
@@ -1110,9 +1110,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "e61208b3f73eab",
-      "title_zh": "如何将人工智能使用与业务价值联系起来",
-      "summary_zh": "了解ChatGPT Work和Codex分析如何帮助团队了解人工智能的使用和支出，确定培训需求，并将采用与业务成果联系起来。",
-      "translated": true
+      "title_zh": "How to connect AI usage to business value",
+      "summary_zh": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "translated": false
     },
     {
       "title": "How workers are unlocking new ways of working",
@@ -1125,9 +1125,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "96909933ef58df",
-      "title_zh": "员工如何开启新的工作方式",
-      "summary_zh": "新的OpenAI经济研究显示了员工如何在传统角色之外使用人工智能，以及哪些新活动成为他们工作的重复部分。",
-      "translated": true
+      "title_zh": "How workers are unlocking new ways of working",
+      "summary_zh": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "translated": false
     },
     {
       "title": "AI for Societal Impact",
@@ -1140,9 +1140,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "8f76cbdfe0f555",
-      "title_zh": "人工智能助力社会影响力",
-      "summary_zh": "浏览此系列，了解专家和当地领导者如何利用人工智能的突破，确保每个人都能分享人工智能的机会。",
-      "translated": true
+      "title_zh": "AI for Societal Impact",
+      "summary_zh": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "translated": false
     },
     {
       "title": "Building AI to accelerate science and improve lives",
