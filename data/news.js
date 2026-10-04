@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-10-03T05:36:34.736431+00:00",
-  "updated_label": "2026-10-03 05:36 UTC",
+  "generated_at": "2026-10-04T06:12:21.278144+00:00",
+  "updated_label": "2026-10-04 06:12 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,81 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "image": "",
+      "published": "2026-10-03T18:43:57+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "e587fe9f6a14c3",
+      "title_zh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议",
+      "summary_zh": "亚马逊网络服务（ Amazon Web Services ）的首席执行官试图抵制对数据中心的广泛怀疑。",
+      "translated": true
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-03T12:49:10-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "035005e06f7686",
+      "title_zh": "Capcom正在为“我们与人工智能一起创造游戏的未来”做准备",
+      "summary_zh": "Capcom的Pragmata可能完全是关于人工智能的恐怖，但在实践中，工作室似乎并不那么低调。 CAPCOM公开会议期间RE: 2026",
+      "translated": true
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "image": "",
+      "published": "2026-10-03T16:30:01+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "ffbea52d5407bd",
+      "title_zh": "OpenAI安全员工辞职，声称公司的“文化被打破”",
+      "summary_zh": "大卫·罗宾逊（ David Robinson ）自己承认，他“有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告。",
+      "translated": true
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-03T10:31:56-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "8ad670e6919633",
+      "title_zh": "OpenAI安全员工已辞职并正在敲响警钟",
+      "summary_zh": "大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告。 本周，他辞去了职务，现在",
+      "translated": true
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "",
+      "published": "2026-10-03T14:00:00+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "8f0bbc3fa0c457",
+      "title_zh": "所有可以存在于您的短信中的人工智能代理",
+      "summary_zh": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "translated": true
+    },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -200,6 +275,21 @@ window.AI_NEWS = {
       "translated": true
     },
     {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-02T13:19:41-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "9a07faf6bf173a",
+      "title_zh": "Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话",
+      "summary_zh": "卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环。 从服务中提取的样品有毛病",
+      "translated": true
+    },
+    {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
@@ -335,21 +425,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-02T05:42:19-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "35178133af783e",
-      "title_zh": "人工智能音乐制造商Suno现在生成口语",
-      "summary_zh": "Suno正在从人工智能音乐的世界中脱颖而出，推出一项新功能，根据脚本或提示的描述生成语音。语音现在是",
-      "translated": true
-    },
-    {
       "title": "Don’t be fooled—LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
@@ -392,21 +467,6 @@ window.AI_NEWS = {
       "id": "b7b0db4b538e2f",
       "title_zh": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统",
       "summary_zh": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。",
-      "translated": true
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects ar",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-01T15:47:51-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "6b13cf8603757c",
-      "title_zh": "谷歌的新引导视觉功能可以帮助您阅读",
-      "summary_zh": "Guided Vision今天在兼容的Android设备上推出Gemini Live ，使用人工智能为您指向手机的任何内容提供实时音频描述",
       "translated": true
     },
     {
@@ -470,21 +530,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that P",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-01T13:17:36-04:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "c90d8ae2ed89be",
-      "title_zh": "法官驳回谷歌人工智能概览的反垄断诉讼",
-      "summary_zh": "一名联邦法官驳回了Chegg和Rolling Stone母公司Penske Media Corporation提起的两起反垄断诉讼，指控谷歌",
-      "translated": true
-    },
-    {
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -515,21 +560,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "image": "",
-      "published": "2026-10-01T16:44:35+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "373056856d8aaa",
-      "title_zh": "Shopify推出Canvas ，这是一种通过与AI聊天来构建在线商店的方式",
-      "summary_zh": "Shopify的新Canvas网站构建器允许商家通过与其AI代理Sidekick聊天来创建和自定义在线商店，同时观看变化",
-      "translated": true
-    },
-    {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -542,36 +572,6 @@ window.AI_NEWS = {
       "id": "35e3d2da780e48",
       "title_zh": "Albertsons Companies如何从内到外重新构想零售业",
       "summary_zh": "Albertsons Cos.正在使用ChatGPT Enterprise和OpenAI API来帮助团队更快地工作，让数百万客户更轻松地购物。",
-      "translated": true
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "image": "",
-      "published": "2026-10-01T15:12:00+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "76e289856c05a6",
-      "title_zh": "Brian Chesky访谈：人工智能代理需要自己的操作系统",
-      "summary_zh": "布莱恩·切斯基（ Brian Chesky ）谈论如何打造对爱彼迎用户友好的社区支持代表、消费者人工智能的现状，以及为什么世界需要人工智能原生操作系统。",
-      "translated": true
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "image": "",
-      "published": "2026-10-01T14:00:00+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "5997613cc950ec",
-      "title_zh": "Photon为移动应用举行了葬礼。 现在，它有$ 450万来帮助他们更换代理。",
-      "summary_zh": "这家初创公司帮助开发人员构建在iMessage、SMS/RCS、电子邮件和其他消息传递平台上工作的人工智能代理。 我敢打赌，消费者将越来越多地",
       "translated": true
     },
     {
