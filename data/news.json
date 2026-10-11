@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T06:14:37.830704+00:00",
-  "updated_label": "2026-10-10 06:14 UTC",
+  "generated_at": "2026-10-11T06:13:56.147437+00:00",
+  "updated_label": "2026-10-11 06:13 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,111 @@
     }
   ],
   "items": [
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-10T18:10:17-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "ba93db1e90d772",
+      "title_zh": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
+      "summary_zh": "在X的一篇长文中，微软首席执行官阐述了他对高度先进的人工智能模型带来的危险以及如何应对这些风险的看法。 纳德拉说我们可以",
+      "translated": true
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "image": "",
+      "published": "2026-10-10T21:47:51+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "70022cf6727c4f",
+      "title_zh": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "summary_zh": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "translated": true
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-10T17:23:38-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "3bd9ed4de85993",
+      "title_zh": "DistroKid一直在悄悄地删除歌曲，以回应UMG的诉讼",
+      "summary_zh": "艺术家们正在社交媒体上抱怨DistroKid在没有通知的情况下毫不客气地删除了他们的作品。 现在DistroKid已经向The Verge确认",
+      "translated": true
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "image": "",
+      "published": "2026-10-10T19:50:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "a73e784759e340",
+      "title_zh": "苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易",
+      "summary_zh": "苹果是否希望进入人工智能生成的播客业务？",
+      "translated": true
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "image": "",
+      "published": "2026-10-10T15:00:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "38fb5b4fd6a433",
+      "title_zh": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "summary_zh": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行。 超过300家初创公司将向10,000名技术领导者展示他们已经建立了什么。 此外， 250多个扬声器a",
+      "translated": true
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-10T10:41:16-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "f22ee94b1b6966",
+      "title_zh": "Anthropic正在从互联网上切断其内部评估",
+      "summary_zh": "在最近一连串备受瞩目的事件中，人工智能特工逃脱了遏制， Anthropic正在切断所有内部评估的互联网接入。",
+      "translated": true
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "",
+      "published": "2026-10-10T14:00:00+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "83eb92df44d1c1",
+      "title_zh": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary_zh": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "translated": true
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -77,6 +182,21 @@
       "id": "b440deb8c56b70",
       "title_zh": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
       "summary_zh": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
+      "translated": true
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-09T17:26:33-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "9bf87437b6c926",
+      "title_zh": "人工智能代理制造商承诺提供隐私—他们能否提供？",
+      "summary_zh": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为PRI设定一个新的标准",
       "translated": true
     },
     {
@@ -305,21 +425,6 @@
       "translated": true
     },
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-08T17:54:31-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "93eb209e4ebb04",
-      "title_zh": "Anthropic为开源项目推出免费的人工智能安全扫描",
-      "summary_zh": "Anthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。 它说开源项目",
-      "translated": true
-    },
-    {
       "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
       "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
       "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to",
@@ -347,21 +452,6 @@
       "id": "f0ccca134e4106",
       "title_zh": "假装你坐在伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的办公桌前，在这个奇怪的详细网站上",
       "summary_zh": "Extend工程师Bo Lau使用来自美国诉伊丽莎白·霍姆斯案审判的一千多封电子邮件、幻灯片、文本和文件，创建了一个模拟",
-      "translated": true
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-08T16:22:54-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "c88c61055e9150",
-      "title_zh": "加利福尼亚州正试图关闭机器人与人类笼子匹配",
-      "summary_zh": "据报道，加利福尼亚州体育委员会向一家上个月举办人类和机器人比赛的初创公司发出了一封停止信",
       "translated": true
     },
     {
@@ -455,51 +545,6 @@
       "translated": true
     },
     {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "image": "",
-      "published": "2026-10-08T18:10:55+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "daaf72cd02b59e",
-      "title_zh": "OpenAI的数学解决方案尚未达到该领域的标准",
-      "summary_zh": "OpenAI的大量证明偏离了前沿实验室咨询的一组数学研究人员制定的指导方针。",
-      "translated": true
-    },
-    {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-08T13:58:33-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "1b577015b8e2fd",
-      "title_zh": "《今日美国》成为起诉OpenAI的最新出版商",
-      "summary_zh": "今日美国公司及其拥有的几家当地报纸正在起诉OpenAI ，声称该公司抄袭了“数十万”篇文章进行培训",
-      "translated": true
-    },
-    {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Ha",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-08T13:57:01-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "2683bb3b703bd4",
-      "title_zh": "SpaceXAI以150万美元的计算支持备受争议的Linux发行版Omarchy",
-      "summary_zh": "如果Elon Musk和SpaceXAI打算支持任何Linux发行版，那么很明显他们会支持Omarchy。 今天宣布SpaceXAI将加入O",
-      "translated": true
-    },
-    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -512,51 +557,6 @@
       "id": "ddb4f75b2b67b0",
       "title_zh": "Oracle如何通过ChatGPT和Codex将工作日变为几分钟",
       "summary_zh": "在招聘、工程和运营方面， Oracle通过ChatGPT Work和Codex将专业知识转化为快速、可重复的工作流程。",
-      "translated": true
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "image": "",
-      "published": "2026-10-08T16:00:00+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "56bf4c43075d5d",
-      "title_zh": "Natura的$ 99智能戒指将AI代理放在您的手指上",
-      "summary_zh": "Natura的$ 99 Interface智能戒指可让您轻松召唤AI代理完成任务、捕捉思想和控制设备—同时加倍",
-      "translated": true
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "image": "",
-      "published": "2026-10-08T16:00:00+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "68f23553442a4f",
-      "title_zh": "Goodfire表示，其新的“由内而外”监控器只需花费一小部分成本就能捕捉到流氓AI代理",
-      "summary_zh": "Goodfire刚刚推出了一种更便宜的方式来控制人工智能代理：它的监视器不是花第二个人工智能来读取代理所做的一切，而是",
-      "translated": true
-    },
-    {
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "image": "",
-      "published": "2026-10-08T15:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "b40e6b041756a2",
-      "title_zh": "聆听Ambrosia Energy和Bloom Energy高管讲述人工智能基础设施热潮在TechCrunch Disrupt 2026上创造的机遇",
-      "summary_zh": "Ambrosia Energy首席执行官Ben Longmier和Bloom Energy高级副总裁Bill Thayer加入TechCrunch Disrupt的智能系统舞台。 立即注册，最多可节省$ 100。立即订购",
       "translated": true
     },
     {
@@ -960,9 +960,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "0f10400d8994eb",
-      "title_zh": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary_zh": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "translated": false
+      "title_zh": "借助ChatGPT Work ， DEN每周可腾出10-15个小时进行成长",
+      "summary_zh": "随着新地点的开放，社交俱乐部将在2小时（而不是3天）内准备赠款申请，并在3小时（而不是4天）内准备酒牌材料。",
+      "translated": true
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -975,9 +975,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "85e5f3088e706d",
-      "title_zh": "Disrupting a coordinated model-distillation campaign",
-      "summary_zh": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "translated": false
+      "title_zh": "扰乱协调的模型蒸馏活动",
+      "summary_zh": "了解OpenAI如何破坏提取受保护模型推理的活动，并加强对对抗性蒸馏的防御。",
+      "translated": true
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -990,9 +990,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "69c7cdff4a93d8",
-      "title_zh": "Helping small businesses put AI to work",
-      "summary_zh": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are us",
-      "translated": false
+      "title_zh": "帮助小型企业将人工智能付诸实践",
+      "summary_zh": "OpenAI正在与美国的SBDC合作，扩大对小型企业的人工智能培训和本地支持，同时发布一份关于我们团队规模的新报告",
+      "translated": true
     },
     {
       "title": "DevDay 2026 Recap",
@@ -1005,9 +1005,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4c288fab1a4073",
-      "title_zh": "DevDay 2026 Recap",
-      "summary_zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "translated": false
+      "title_zh": "2026年开发日回顾",
+      "summary_zh": "探索2026年OpenAI DevDay的20多项公告，包括GPT-6 Astra、ChatGPT、Codex、API、安全和面向构建者的新工具。",
+      "translated": true
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -1020,9 +1020,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3914cacde78a7b",
-      "title_zh": "Introducing GPT-6.1 Sol",
-      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "translated": false
+      "title_zh": "GPT-6.1 Sol简介",
+      "summary_zh": "满足GPT-6.1 SOL ：用于编码、计算机使用和专业工作的近Astra智能，占Astra标准API输入和输出代币价格的五分之一。",
+      "translated": true
     },
     {
       "title": "Introducing dots",
@@ -1035,9 +1035,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "341a28d211f387",
-      "title_zh": "Introducing dots",
-      "summary_zh": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mov",
-      "translated": false
+      "title_zh": "全新推出DOT",
+      "summary_zh": "Dots by OpenAI是积极主动的助手，可以跨越复杂的项目和日常任务继续工作。 了解圆点如何帮助您在工作中保持控制",
+      "translated": true
     },
     {
       "title": "How we will do better for Australia",
@@ -1050,9 +1050,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "2ab1a4c4abfa58",
-      "title_zh": "How we will do better for Australia",
-      "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "translated": false
+      "title_zh": "我们将如何为澳大利亚做得更好",
+      "summary_zh": "OpenAI对涉及澳大利亚政府网站的事件表示道歉，并概述了加强澳大利亚网络防御的更强有力的保障措施和支持。",
+      "translated": true
     },
     {
       "title": "Towards safety cases for frontier AI training",
@@ -1065,9 +1065,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "1943219e5d610a",
-      "title_zh": "Towards safety cases for frontier AI training",
-      "summary_zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "translated": false
+      "title_zh": "面向前沿人工智能培训的安全案例",
+      "summary_zh": "我们针对前沿人工智能培训中的安全案例的早期指南涵盖了技术保障措施、运营实践和调查错位事件",
+      "translated": true
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -1080,9 +1080,9 @@
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "0194c37ea5ed33",
-      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "translated": false
+      "title_zh": "观看Future Vision XPRIZE的获奖预告片《The Gifted》。",
+      "summary_zh": "观看Future Vision XPRIZE的获奖预告片《The Gifted》。",
+      "translated": true
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -1095,9 +1095,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "ee24db5ff7af8f",
-      "title_zh": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary_zh": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering supp",
-      "translated": false
+      "title_zh": "Lenfest研究所通过扩大OpenAI支持来发展具有里程碑意义的计划",
+      "summary_zh": "OpenAI正在扩大Lenfest AI协作和奖学金计划，提供$ 500万的资金和高达$ 500万的软件学分和工程支持",
+      "translated": true
     },
     {
       "title": "Are you a Codex Original?",
