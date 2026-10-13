@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-10-12T06:21:40.833042+00:00",
-  "updated_label": "2026-10-12 06:21 UTC",
+  "generated_at": "2026-10-13T07:00:13.253622+00:00",
+  "updated_label": "2026-10-13 07:00 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,141 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "image": "",
+      "published": "2026-10-12T17:56:56+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "381e5ad73538d0",
+      "title_zh": "Meta发布其首款前沿车型Muse Wonder",
+      "summary_zh": "Muse Spark的目标是成为一种可以在低延迟下执行的轻量级型号，而Wonder型号更大，据说更强大，具有更高的基准",
+      "translated": true
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "image": "",
+      "published": "2026-10-12T17:19:14+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "06053b03509aaf",
+      "title_zh": "WindBorne因其气球数据赢得了美国空军的巨额合同",
+      "summary_zh": "一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同。",
+      "translated": true
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "image": "",
+      "published": "2026-10-12T15:45:00+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "a21da18d1b2c11",
+      "title_zh": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+      "summary_zh": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。 但人工智能真的能让事情变得更好吗？",
+      "translated": true
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "image": "",
+      "published": "2026-10-12T15:31:19+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "41a7b1eca14f0b",
+      "title_zh": "微软总裁表示，英国最适合推动人工智能监管",
+      "summary_zh": "微软总裁布拉德·史密斯（ Brad Smith ）呼吁对人工智能进行紧急监管，称牛奶和洗衣机比人工智能公司拥有更多的监",
+      "translated": true
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "image": "",
+      "published": "2026-10-12T15:27:59+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "4823eb1599bc68",
+      "title_zh": "这家AI初创公司表示，它可以在几分钟内生成许可证就绪的蓝图",
+      "summary_zh": "Blueprints AI是一家总部位于圣莫尼卡的初创公司，它开发的软件可以从照片、PDF或草图中生成符合代码的施工蓝图",
+      "translated": true
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "image": "",
+      "published": "2026-10-12T14:00:00+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "1db76aa937b996",
+      "title_zh": "TechCrunch Disrupt 2026将于明天开始：您获得高达100 $门票优惠的最后机会",
+      "summary_zh": "明天太平洋时间上午8点，一切都将开始- 10,000多名创始人，投资者和科技运营商将聚集在旧金山的Moscone West参加TechCrunch Disrupt 2026",
+      "translated": true
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 30",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-12T09:33:06-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "4180230f21a222",
+      "title_zh": "微软的新AI芯片减少了对英伟达GPU的依赖",
+      "summary_zh": "微软今天宣布其第三代MAIA内部AI芯片，旨在成为微软产品和服务的“主要AI推理系统”",
+      "translated": true
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+      "image": "",
+      "published": "2026-10-12T12:47:59+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "d7a1ce43a7e6a3",
+      "title_zh": "前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$",
+      "summary_zh": "人工智能的核心承诺之一是，它对一个人的了解越多，就越能更好地帮助他们完成任务并提出适当的建议，",
+      "translated": true
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-12T07:13:10-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "0df7e0e65eda64",
+      "title_zh": "Meta有一些Wonder全新的AI模型",
+      "summary_zh": "Meta正在弥补AI竞赛中失去的时间。 在推出Muse Spark之后，其经过改造的Superintelligence Labs部门和BUZZY AI AGEN的第一个模型",
+      "translated": true
+    },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
@@ -97,7 +232,7 @@ window.AI_NEWS = {
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "image": "",
       "published": "2026-10-11T14:00:00+00:00",
       "category": "policy",
@@ -106,7 +241,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "6373a9f9de143e",
       "title_zh": "这些高管认为语音AI尚未达到ChatGPT时刻",
-      "summary_zh": "语音人工智能经常错过上下文层的重要点，并导致整个管道中断",
+      "summary_zh": "语音人工智能经常会错过上下文层的重要点，并导致整个管道中断。",
       "translated": true
     },
     {
@@ -195,9 +330,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "38fb5b4fd6a433",
-      "title_zh": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary_zh": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers a",
-      "translated": false
+      "title_zh": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "summary_zh": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行。 超过300家初创公司将向10,000名技术领导者展示他们已经建立了什么。 此外， 250多个扬声器a",
+      "translated": true
     },
     {
       "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -210,9 +345,9 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "f22ee94b1b6966",
-      "title_zh": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary_zh": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In",
-      "translated": false
+      "title_zh": "Anthropic正在从互联网上切断其内部评估",
+      "summary_zh": "在最近一连串备受瞩目的事件中，人工智能特工逃脱了遏制， Anthropic正在切断所有内部评估的互联网接入。",
+      "translated": true
     },
     {
       "title": "Here are the top AI agents that can live in your text messages",
@@ -225,14 +360,14 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "83eb92df44d1c1",
-      "title_zh": "Here are the top AI agents that can live in your text messages",
-      "summary_zh": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "translated": false
+      "title_zh": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary_zh": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "translated": true
     },
     {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Philadelphia police.",
       "image": "",
       "published": "2026-10-10T00:18:32+00:00",
       "category": "research",
@@ -240,9 +375,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "7e0ed3964e7ca8",
-      "title_zh": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary_zh": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "translated": false
+      "title_zh": "Anthropic无法可靠地控制其人工智能代理—它正在切断来自实时互联网的内部淘汰",
+      "summary_zh": "这些事件涉及到负责解决在互联网上寻找资源问题的人工智能代理。 在这个过程中，他们利用软件缺陷，访问数据库",
+      "translated": true
     },
     {
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
@@ -255,9 +390,9 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "7b2959b7b05e6f",
-      "title_zh": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary_zh": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. ",
-      "translated": false
+      "title_zh": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
+      "summary_zh": "根据6abc的一份报告， Anthropic AI模型向费城警察局（ PPD ）的一个小组提供了有关未解决的凶杀案的虚假信息。",
+      "translated": true
     },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -270,9 +405,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "b440deb8c56b70",
-      "title_zh": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary_zh": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "translated": false
+      "title_zh": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
+      "summary_zh": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
+      "translated": true
     },
     {
       "title": "AI agent makers are promising privacy — will they deliver?",
@@ -285,9 +420,9 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "9bf87437b6c926",
-      "title_zh": "AI agent makers are promising privacy — will they deliver?",
-      "summary_zh": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for pri",
-      "translated": false
+      "title_zh": "人工智能代理制造商承诺提供隐私—他们能否提供？",
+      "summary_zh": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为PRI设定一个新的标准",
+      "translated": true
     },
     {
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -300,9 +435,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "b85853da858da4",
-      "title_zh": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary_zh": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "translated": false
+      "title_zh": "Anthropic AI模型向费城警方发送了虚假的凶杀案提示",
+      "summary_zh": "Anthropic直到其AI提交虚假提示两个多月后才发现这种行为。",
+      "translated": true
     },
     {
       "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
@@ -315,39 +450,9 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "58d48c9ebbf882",
-      "title_zh": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "summary_zh": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in",
-      "translated": false
-    },
-    {
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-09T14:06:57-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "ccf01884c88571",
-      "title_zh": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary_zh": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" B",
-      "translated": false
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-09T13:23:28-04:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "b66834fdf7410f",
-      "title_zh": "Trump’s attempt to rename AI is looking awfully artificial",
-      "summary_zh": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"C",
-      "translated": false
+      "title_zh": "“纯粹的疯狂” ：数学家需要数年时间才能理解OpenAI的最新下降",
+      "summary_zh": "“蹒跚。” “压倒一切。” “前所未有的。” “超现实。” “纯粹的疯狂。”这些是三十多位数学家在",
+      "translated": true
     },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -360,9 +465,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "9e428fd84cd796",
-      "title_zh": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary_zh": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrec",
-      "translated": false
+      "title_zh": "亚马逊和其他公司已将数据中心交易保密。 这足以建立信任吗？",
+      "summary_zh": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。Secrec",
+      "translated": true
     },
     {
       "title": "Amazon drops data center NDAs, and AI agents want your credit card",
@@ -375,69 +480,9 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "bc8af369bba485",
-      "title_zh": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary_zh": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrec",
-      "translated": false
-    },
-    {
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "image": "",
-      "published": "2026-10-09T16:45:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "b55e9181357eb9",
-      "title_zh": "Danu Robotics’ fight to build a better recycling robot",
-      "summary_zh": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "translated": false
-    },
-    {
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "image": "",
-      "published": "2026-10-09T16:40:14+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "9cf0fff9fcfc39",
-      "title_zh": "We can’t help treating AI like it’s human. But should we?",
-      "summary_zh": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired t",
-      "translated": false
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "image": "",
-      "published": "2026-10-09T15:43:33+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "98ae39585efee7",
-      "title_zh": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary_zh": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "translated": false
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "image": "",
-      "published": "2026-10-09T14:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "f87c9a92d4be3e",
-      "title_zh": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "summary_zh": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save ",
-      "translated": false
+      "title_zh": "亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡",
+      "summary_zh": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。Secrec",
+      "translated": true
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -450,9 +495,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "e69fc0e04d32ba",
-      "title_zh": "We’re putting too much faith in AI’s ability to say no",
-      "summary_zh": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, b",
-      "translated": false
+      "title_zh": "我们对人工智能说“不”的能力太有信心了",
+      "summary_zh": "自从人们第一次认真考虑给机器一个以我们自己为模型的智能以来，从来没有任何问题，他们会像我们一样，",
+      "translated": true
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -465,9 +510,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "6fff02faecfac1",
-      "title_zh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary_zh": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "translated": false
+      "title_zh": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%",
+      "summary_zh": "了解Sophos如何利用OpenAI的Daybreak将网络威胁调查时间缩短96% ，并自动化52%的MDR案例，同时保持人为监督。",
+      "translated": true
     },
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -480,9 +525,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "5dad683c6992bd",
-      "title_zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary_zh": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "translated": false
+      "title_zh": "Asana使用GPT-6.1 Sol将浏览器测试中的模型成本降低了76倍",
+      "summary_zh": "Asana在Codex中使用GPT-6 Astra ，使其浏览器代理的测试成本降低了76倍，测试速度提高了5倍，从而为客户提供更强大的模型。",
+      "translated": true
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -495,54 +540,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "bd3ab8c84c8ed5",
-      "title_zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary_zh": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a gen",
-      "translated": false
-    },
-    {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "image": "",
-      "published": "2026-10-08T21:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "f0ccca134e4106",
-      "title_zh": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary_zh": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simula",
-      "translated": false
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "image": "",
-      "published": "2026-10-08T20:04:26+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "496ce22046278b",
-      "title_zh": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary_zh": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a c",
-      "translated": false
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "image": "",
-      "published": "2026-10-08T18:20:32+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "4ec6471fc01228",
-      "title_zh": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary_zh": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to",
-      "translated": false
+      "title_zh": "圆桌会议：与人工智能设计病毒的创造者对话",
+      "summary_zh": "2026年10月16日（星期五）人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用",
+      "translated": true
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -555,9 +555,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "ddb4f75b2b67b0",
-      "title_zh": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary_zh": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "translated": false
+      "title_zh": "Oracle如何通过ChatGPT和Codex将工作日变为几分钟",
+      "summary_zh": "在招聘、工程和运营方面， Oracle通过ChatGPT Work和Codex将专业知识转化为快速、可重复的工作流程。",
+      "translated": true
     },
     {
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
@@ -570,9 +570,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4c258d522bd664",
-      "title_zh": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary_zh": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "translated": false
+      "title_zh": "Pollo AI借助OpenAI将创意转化为活动",
+      "summary_zh": "借助GPT-5.6、GPT-6 Astra和GPT ‑ Image ‑ 2.5 ， Pollo AI可帮助创作者将大胆的创意转化为详细的图像和电影视频广告。",
+      "translated": true
     },
     {
       "title": "LegalOn halves Codex costs while maintaining development speed",
@@ -585,9 +585,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "6a752e12fc8352",
-      "title_zh": "LegalOn halves Codex costs while maintaining development speed",
-      "summary_zh": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "translated": false
+      "title_zh": "LegalOn在保持开发速度的同时将Codex成本减半",
+      "summary_zh": "LegalOn在保持开发速度的同时，将估计的每日法典成本降低了65%。 它将Astra、Sol和Luna与任务相匹配，并战略性地管理预算。",
+      "translated": true
     },
     {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
@@ -600,9 +600,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "ce23ede813a15c",
-      "title_zh": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary_zh": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology",
-      "translated": false
+      "title_zh": "机器人领域的人工智能突破不会很快改变你的生活",
+      "summary_zh": "这个故事是麻省理工学院技术评论和Aventine之间的合作， Aventine是一个非营利性研究基金会，致力于创建和支持有关技术如何",
+      "translated": true
     },
     {
       "title": "Building a safer path to autonomous industrial AI",
@@ -615,9 +615,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "4e89bfaa011c1a",
-      "title_zh": "Building a safer path to autonomous industrial AI",
-      "summary_zh": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and",
-      "translated": false
+      "title_zh": "构建一条更安全的自主工业人工智能之路",
+      "summary_zh": "工业人工智能正在进入一个新阶段。 经过数十年的预测分析和其他专业应用，基础模型、物理AI和",
+      "translated": true
     },
     {
       "title": "Disrupting AI-enabled “false front” operations",
@@ -630,9 +630,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "356e323038b87d",
-      "title_zh": "Disrupting AI-enabled “false front” operations",
-      "summary_zh": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "translated": false
+      "title_zh": "颠覆人工智能的“虚假前沿”运营",
+      "summary_zh": "OpenAI破坏了两项支持人工智能的影响力行动，这两项行动利用虚假新闻记者和智囊团传播地缘政治信息。",
+      "translated": true
     },
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -645,9 +645,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "caec082b2293c1",
-      "title_zh": "Helping teens learn, plan, and shape the future of AI",
-      "summary_zh": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "translated": false
+      "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
+      "summary_zh": "College Planner即将加入ChatGPT for Teens ，帮助学生管理大学申请，以及新的抽认卡、测验和青少年人工智能委员会。",
+      "translated": true
     },
     {
       "title": "Introducing Playground: Create and play custom games",
@@ -660,9 +660,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "6dafe8bc888296",
-      "title_zh": "Introducing Playground: Create and play custom games",
-      "summary_zh": "Overview of Playground",
-      "translated": false
+      "title_zh": "Playground简介：创建和玩自定义游戏",
+      "summary_zh": "游乐场概览",
+      "translated": true
     },
     {
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
@@ -675,9 +675,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "283f6bde106510",
-      "title_zh": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary_zh": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips",
-      "translated": false
+      "title_zh": "丽笙酒店集团将酒店探索引入ChatGPT",
+      "summary_zh": "Radisson与埃森哲合作，使用OpenAI技术构建ChatGPT插件，帮助旅行者在规划行程时查找、比较和预订酒店",
+      "translated": true
     },
     {
       "title": "GPT-6 and Intelligent UI for everyone",
@@ -720,9 +720,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "d44d7c82394e5f",
-      "title_zh": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary_zh": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "translated": false
+      "title_zh": "Jump Trading如何使用ChatGPT扩展量化研究",
+      "summary_zh": "JUMP Trading使用OpenAI来扩展定量研究。 了解长期运行的人工智能工作流程如何将多个数据源与人工审核相结合。",
+      "translated": true
     },
     {
       "title": "Sharing AI progress in mathematics",
@@ -735,9 +735,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9d8fcc993f39b7",
-      "title_zh": "Sharing AI progress in mathematics",
-      "summary_zh": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub",
-      "translated": false
+      "title_zh": "分享人工智能在数学方面的进展",
+      "summary_zh": "OpenAI从内部前沿模型发布关于数学开放问题的新结果，并在GitHub上分享精益证明形式化和研究细节",
+      "translated": true
     },
     {
       "title": "Advancing computer use with Ironclad",
@@ -750,9 +750,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "12cbbdc700b09e",
-      "title_zh": "Advancing computer use with Ironclad",
-      "summary_zh": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "translated": false
+      "title_zh": "使用Ironclad推进计算机使用",
+      "summary_zh": "了解OpenAI和Ironclad如何在复杂的合同工作流程中培训和评估AI代理，以推进计算机用于专业工作。",
+      "translated": true
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -765,9 +765,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "4584843cd5611c",
-      "title_zh": "Connecting AI agents to enterprise knowledge",
-      "summary_zh": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than dat",
-      "translated": false
+      "title_zh": "将人工智能代理与企业知识联系起来",
+      "summary_zh": "对于人工智能系统不断积累和分析的所有数据，企业人工智能代理经常面临一个奇怪的缺点：缺乏知识。",
+      "translated": true
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -780,9 +780,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "665c66f9477d5c",
-      "title_zh": "Our approach to EU text provenance rules",
-      "summary_zh": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "translated": false
+      "title_zh": "我们对欧盟文本来源规则的方法",
+      "summary_zh": "OpenAI如何根据欧盟规则处理文本水印。 了解水印的应用范围、检测工作原理以及访问权限从研究人员开始的原因。",
+      "translated": true
     },
     {
       "title": "Bringing predictive analytics to the agentic AI era",
@@ -795,9 +795,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "46134f456fc76f",
-      "title_zh": "Bringing predictive analytics to the agentic AI era",
-      "summary_zh": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question n",
-      "translated": false
+      "title_zh": "将预测分析引入代理人工智能时代",
+      "summary_zh": "到2026年，企业人工智能的问题不再是预测模型是否能超过统计预测--这一论点已经得到解决。 大问题n",
+      "translated": true
     },
     {
       "title": "Building advertising for the way people use AI",
@@ -810,9 +810,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "0d0e49e5bd0c4a",
-      "title_zh": "Building advertising for the way people use AI",
-      "summary_zh": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "translated": false
+      "title_zh": "为人们使用人工智能的方式构建广告",
+      "summary_zh": "OpenAI在ChatGPT中引入了一种新的视觉广告格式，并扩展了衡量工具、归因合作伙伴关系和广告客户的品牌适用性。",
+      "translated": true
     },
     {
       "title": "People really hate AI, so why can’t they get enough?",
@@ -825,9 +825,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "333b8f0544b51b",
-      "title_zh": "People really hate AI, so why can’t they get enough?",
-      "summary_zh": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream ",
-      "translated": false
+      "title_zh": "人们真的很讨厌人工智能，为什么他们得不到足够的呢？",
+      "summary_zh": "在整个夏天，我与Springboards的首席执行官进行了交谈， Springboards是一家建立LLM的初创公司，旨在提出比其主流更广泛的响应",
+      "translated": true
     },
     {
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -840,9 +840,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "8c080fa45fdc33",
-      "title_zh": "EmTech Future 2026: When AI Meets Everything",
-      "summary_zh": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its",
-      "translated": false
+      "title_zh": "EmTech Future 2026 ：当人工智能遇到一切",
+      "summary_zh": "Google研究副总裁兼负责人Yossi Matias探讨了人工智能如何开始重塑生物学、基础设施、制造业和科学，以及为什么",
+      "translated": true
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -855,9 +855,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "58ff3863e6fbe7",
-      "title_zh": "A model guide for the GPT-6 family",
-      "summary_zh": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "translated": false
+      "title_zh": "GPT-6系列的模型指南",
+      "summary_zh": "了解初创公司如何选择GPT-6模型、调整推理工作、改进提示和技能、协调工具以及准备生产工作流程。",
+      "translated": true
     },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -870,9 +870,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "e9ef8168de2b20",
-      "title_zh": "Redefining enterprise intelligence with autonomous AI",
-      "summary_zh": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, whil",
-      "translated": false
+      "title_zh": "借助自主人工智能重新定义企业智能",
+      "summary_zh": "企业人工智能不再是未来的雄心壮志。 它处于全面运行飞行状态。 模型能力的进步速度比大多数组织所能吸收的要快，而",
+      "translated": true
     },
     {
       "title": "The latest AI news we announced in September 2026",
@@ -885,9 +885,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "289456d4a12a2d",
-      "title_zh": "The latest AI news we announced in September 2026",
-      "summary_zh": "A video showing the September AI updates",
-      "translated": false
+      "title_zh": "我们在2026年9月宣布的最新人工智能新闻",
+      "summary_zh": "一段显示9月份人工智能更新的视频",
+      "translated": true
     },
     {
       "title": "Don’t be fooled—LLMs don’t reason",
@@ -900,9 +900,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "cdcaf7b16c0d68",
-      "title_zh": "Don’t be fooled—LLMs don’t reason",
-      "summary_zh": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human o",
-      "translated": false
+      "title_zh": "不要被愚弄- LLM不要讲道理",
+      "summary_zh": "2016年3月，在首尔的一个下午，我看了一个我帮助建造的项目，在围棋板的第五排放了一块石头，看起来像是给人类的礼物。",
+      "translated": true
     },
     {
       "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -915,9 +915,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "95a45ca8451d8d",
-      "title_zh": "Chatham scales its capital markets expertise with OpenAI",
-      "summary_zh": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "translated": false
+      "title_zh": "Chatham通过OpenAI扩展其资本市场专业知识",
+      "summary_zh": "Chatham Financial使用Codex和GPT-5.6来构建技术和重新设计工作流程，将交易验证从30分钟缩短到4分钟以下。",
+      "translated": true
     },
     {
       "title": "The eternal complement",
@@ -930,9 +930,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9ae20accacb7af",
-      "title_zh": "The eternal complement",
-      "summary_zh": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "translated": false
+      "title_zh": "永恒的补充",
+      "summary_zh": "高级人工智能对于突破性创意背后的日常工作可能最为重要。 探索为什么执行可以塑造下一个经济和进步的步伐。",
+      "translated": true
     },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -945,9 +945,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "35e3d2da780e48",
-      "title_zh": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary_zh": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "translated": false
+      "title_zh": "Albertsons Companies如何从内到外重新构想零售业",
+      "summary_zh": "Albertsons Cos.正在使用ChatGPT Enterprise和OpenAI API来帮助团队更快地工作，让数百万客户更轻松地购物。",
+      "translated": true
     },
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -960,9 +960,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "0f10400d8994eb",
-      "title_zh": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary_zh": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "translated": false
+      "title_zh": "借助ChatGPT Work ， DEN每周可腾出10-15个小时进行成长",
+      "summary_zh": "随着新地点的开放，社交俱乐部将在2小时（而不是3天）内准备赠款申请，并在3小时（而不是4天）内准备酒牌材料。",
+      "translated": true
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -975,9 +975,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "85e5f3088e706d",
-      "title_zh": "Disrupting a coordinated model-distillation campaign",
-      "summary_zh": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "translated": false
+      "title_zh": "扰乱协调的模型蒸馏活动",
+      "summary_zh": "了解OpenAI如何破坏提取受保护模型推理的活动，并加强对对抗性蒸馏的防御。",
+      "translated": true
     },
     {
       "title": "Helping small businesses put AI to work",
@@ -990,9 +990,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "69c7cdff4a93d8",
-      "title_zh": "Helping small businesses put AI to work",
-      "summary_zh": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are us",
-      "translated": false
+      "title_zh": "帮助小型企业将人工智能付诸实践",
+      "summary_zh": "OpenAI正在与美国的SBDC合作，扩大对小型企业的人工智能培训和本地支持，同时发布一份关于我们团队规模的新报告",
+      "translated": true
     },
     {
       "title": "DevDay 2026 Recap",
@@ -1005,9 +1005,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "4c288fab1a4073",
-      "title_zh": "DevDay 2026 Recap",
-      "summary_zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "translated": false
+      "title_zh": "2026年开发日回顾",
+      "summary_zh": "探索2026年OpenAI DevDay的20多项公告，包括GPT-6 Astra、ChatGPT、Codex、API、安全和面向构建者的新工具。",
+      "translated": true
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -1020,9 +1020,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3914cacde78a7b",
-      "title_zh": "Introducing GPT-6.1 Sol",
-      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "translated": false
+      "title_zh": "GPT-6.1 Sol简介",
+      "summary_zh": "满足GPT-6.1 SOL ：用于编码、计算机使用和专业工作的近Astra智能，占Astra标准API输入和输出代币价格的五分之一。",
+      "translated": true
     },
     {
       "title": "Introducing dots",
@@ -1035,9 +1035,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "341a28d211f387",
-      "title_zh": "Introducing dots",
-      "summary_zh": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mov",
-      "translated": false
+      "title_zh": "全新推出DOT",
+      "summary_zh": "Dots by OpenAI是积极主动的助手，可以跨越复杂的项目和日常任务继续工作。 了解圆点如何帮助您在工作中保持控制",
+      "translated": true
     },
     {
       "title": "How we will do better for Australia",
@@ -1050,9 +1050,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "2ab1a4c4abfa58",
-      "title_zh": "How we will do better for Australia",
-      "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "translated": false
+      "title_zh": "我们将如何为澳大利亚做得更好",
+      "summary_zh": "OpenAI对涉及澳大利亚政府网站的事件表示道歉，并概述了加强澳大利亚网络防御的更强有力的保障措施和支持。",
+      "translated": true
     },
     {
       "title": "Towards safety cases for frontier AI training",
@@ -1065,9 +1065,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "1943219e5d610a",
-      "title_zh": "Towards safety cases for frontier AI training",
-      "summary_zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "translated": false
+      "title_zh": "面向前沿人工智能培训的安全案例",
+      "summary_zh": "我们针对前沿人工智能培训中的安全案例的早期指南涵盖了技术保障措施、运营实践和调查错位事件",
+      "translated": true
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -1080,9 +1080,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "0194c37ea5ed33",
-      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "translated": false
+      "title_zh": "观看Future Vision XPRIZE的获奖预告片《The Gifted》。",
+      "summary_zh": "观看Future Vision XPRIZE的获奖预告片《The Gifted》。",
+      "translated": true
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -1095,9 +1095,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "ee24db5ff7af8f",
-      "title_zh": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary_zh": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering supp",
-      "translated": false
+      "title_zh": "Lenfest研究所通过扩大OpenAI支持来发展具有里程碑意义的计划",
+      "summary_zh": "OpenAI正在扩大Lenfest AI协作和奖学金计划，提供$ 500万的资金和高达$ 500万的软件学分和工程支持",
+      "translated": true
     },
     {
       "title": "Are you a Codex Original?",
@@ -1830,9 +1830,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "af49e3c3dc08c3",
-      "title_zh": "通过搜索为下一场大型竞赛做好准备的3种方法",
-      "summary_zh": "蓝色背景的彩色跑步鞋插图，放大镜和双子座火花叠加",
-      "translated": true
+      "title_zh": "3 ways to prep for your next big race with Search",
+      "summary_zh": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "translated": false
     },
     {
       "title": "Now everyone can put data to work",
@@ -1935,9 +1935,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "a9f600d4cc6b7c",
-      "title_zh": "使用搜索中的新足球功能为比赛做好准备",
-      "summary_zh": "以充满活力的绿色背景为背景的插图图案，以美式足球元素为特色，包括金奖杯、蓝色头盔、银色哨子、",
-      "translated": true
+      "title_zh": "Get ready for the game with new football features in Search",
+      "summary_zh": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a ",
+      "translated": false
     },
     {
       "title": "Recreating a 70-year love story frame by frame",
@@ -1950,9 +1950,9 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "796c75b2cc069f",
-      "title_zh": "逐帧重现70年的爱情故事",
-      "summary_zh": "一对老夫妇坐在电影院里。 叠加“Teulluride电影节”和“爱，渲染”",
-      "translated": true
+      "title_zh": "Recreating a 70-year love story frame by frame",
+      "summary_zh": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "translated": false
     },
     {
       "title": "The AI policy window is open. We need to act.",
@@ -2070,9 +2070,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "b16c0706a11e62",
-      "title_zh": "为人工智能和青少年发展的新研究提供资助",
-      "summary_zh": "立即申请OpenAI的500万$资助计划，以支持关于生成式人工智能如何影响青少年发展的独立研究",
-      "translated": true
+      "title_zh": "Funding grants for new research into AI and teen development",
+      "summary_zh": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "translated": false
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
