@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T04:51:55.829150+00:00",
-  "updated_label": "2026-10-17 04:51 UTC",
+  "generated_at": "2026-10-18T04:59:14.429910+00:00",
+  "updated_label": "2026-10-18 04:59 UTC",
   "sources": [
     {
       "id": "openai",
@@ -35,18 +35,93 @@
   ],
   "items": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "image": "",
-      "published": "2026-10-16T21:22:28+00:00",
+      "published": "2026-10-17T21:31:32+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "1ca4f006dcd25a",
+      "title_zh": "Meta删除了引起抓取和人工智能培训问题的语言",
+      "summary_zh": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。",
+      "translated": true
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "image": "",
+      "published": "2026-10-17T20:21:19+00:00",
       "category": "industry",
       "source_id": "techcrunch",
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "0d51e4aeb1326e",
-      "title_zh": "首席执行官表示， Replit不再与Anthropic合作",
-      "summary_zh": "马萨德说，做出这一决定有许多不同的原因，包括成本。 Replit于8月宣布与OpenAI建立合作伙伴关系，但从未",
+      "id": "748d5706a00b31",
+      "title_zh": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间",
+      "summary_zh": "在过去的一年中， Anthropic的员工构成和工作类型发生了显着变化。",
+      "translated": true
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "image": "",
+      "published": "2026-10-17T18:48:08+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "c1cf554c0d585a",
+      "title_zh": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
+      "summary_zh": "上周末， Masad澄清说， OpenAI将取代Anthropic作为其默认模型提供商。 Claude仍可供平台上的客户使用",
+      "translated": true
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-17T11:08:35-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "2bd08887312229",
+      "title_zh": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
+      "summary_zh": "Meta的新条款似乎允许其抓取和抓取与使用其平台的企业（包括在线发布商） “相关”的网站",
+      "translated": true
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-17T11:04:36-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "29327c433d3080",
+      "title_zh": "Meta删除了可能允许其抓取新闻网站的语言",
+      "summary_zh": "在强烈反对之后， Meta再次更新其条款，以删除暗示它可以从包括新闻网站在内的网站上抓取内容以训练其AI的语言。Sp",
+      "translated": true
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-16T18:31:39-04:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "0e0b131e30e9c0",
+      "title_zh": "网站正在向人工智能代理敞开大门",
+      "summary_zh": "自主智能体是人工智能中最热门的东西。 OpenAI、Meta、Google、Instinct和其他人承诺他们的代理可以代表您浏览互联网，",
       "translated": true
     },
     {
@@ -185,21 +260,6 @@
       "translated": true
     },
     {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-16T11:22:13-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "2bd08887312229",
-      "title_zh": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
-      "summary_zh": "Meta的新条款似乎允许其抓取和抓取与使用其平台的企业（包括在线发布商） “相关”的网站",
-      "translated": true
-    },
-    {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
@@ -242,6 +302,21 @@
       "id": "7192b9df3763e9",
       "title_zh": "Replit首席执行官表示，工作的未来是“自动驾驶公司”",
       "summary_zh": "Replit首席执行官Amjad Masad设想了“自动驾驶公司”的未来，人工智能代理处理日常任务，人们专注于更高层次的决策。",
+      "translated": true
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "image": "",
+      "published": "2026-10-16T00:00:00+00:00",
+      "category": "industry",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "bb4e9376d303e7",
+      "title_zh": "Benefit Street Partners通过Codex更快地回答问题",
+      "summary_zh": "Anant Kumar使用Codex进行代码审查和更快的跟进，构建用于比较贷款估值和分析信贷协议的工具。",
       "translated": true
     },
     {
@@ -365,21 +440,6 @@
       "translated": true
     },
     {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-15T15:20:49-04:00",
-      "category": "research",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "40920d24841d3d",
-      "title_zh": "好友不会让好友将他们的数据馈送给人工智能代理",
-      "summary_zh": "消费科技领域有一个日益增长的趋势：小工具旨在监视您周围的一切和每个人，无论是否有其他人",
-      "translated": true
-    },
-    {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
       "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
@@ -392,21 +452,6 @@
       "id": "64669bcb131970",
       "title_zh": "Anthropic让METR研究人员通过员工级别的访问权限查看引擎盖下方",
       "summary_zh": "METR将发布自己对Anthropic的风险、事件和实践的评估，前沿AI模型制造商已放弃阻止这些风险、事件和实践的权利。",
-      "translated": true
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-15T15:09:23-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "f99cedff61da39",
-      "title_zh": "Windows如何针对Nvidia的RTX Spark笔记本电脑进行优化",
-      "summary_zh": "微软和英伟达上周在旧金山举行了第一批RTX Spark笔记本电脑的发布会，在那里，新一波的人工智能个人电脑在",
       "translated": true
     },
     {
@@ -527,36 +572,6 @@
       "id": "745a5ef08b6e4a",
       "title_zh": "教导学生通过问题进行思考和学习",
       "summary_zh": "用巴西葡萄牙语的AI for Educators庆祝教师节，并了解学习模式如何帮助教师支持积极、循序渐进的学习。",
-      "translated": true
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "image": "",
-      "published": "2026-10-15T12:00:00+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "c22481da7648ed",
-      "title_zh": "亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75",
-      "summary_zh": "亚马逊旗下的Bee自收购以来推出了首批新的人工智能设备，包括更新的可穿戴设备和信用卡大小的录音机，",
-      "translated": true
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "image": "",
-      "published": "2026-10-15T04:30:00+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "d09e4ddecf934b",
-      "title_zh": "Figma宣布推出新功能，以定义客服代表在其平台上的工作方式",
-      "summary_zh": "Figma还在公开测试版中发布其代码层功能。",
       "translated": true
     },
     {
@@ -725,21 +740,6 @@
       "translated": true
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "image": "",
-      "published": "2026-10-09T07:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "6fff02faecfac1",
-      "title_zh": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%",
-      "summary_zh": "了解Sophos如何利用OpenAI的Daybreak将网络威胁调查时间缩短96% ，并自动化52%的MDR案例，同时保持人为监督。",
-      "translated": true
-    },
-    {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
@@ -752,6 +752,21 @@
       "id": "5dad683c6992bd",
       "title_zh": "Asana使用GPT-6.1 Sol将浏览器测试中的模型成本降低了76倍",
       "summary_zh": "Asana在Codex中使用GPT-6 Astra ，使其浏览器代理的测试成本降低了76倍，测试速度提高了5倍，从而为客户提供更强大的模型。",
+      "translated": true
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "image": "",
+      "published": "2026-10-09T07:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "6fff02faecfac1",
+      "title_zh": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%",
+      "summary_zh": "了解Sophos如何利用OpenAI的Daybreak将网络威胁调查时间缩短96% ，并自动化52%的MDR案例，同时保持人为监督。",
       "translated": true
     },
     {
@@ -1110,9 +1125,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "9ae20accacb7af",
-      "title_zh": "永恒的补充",
-      "summary_zh": "高级人工智能对于突破性创意背后的日常工作可能最为重要。 探索为什么执行可以塑造下一个经济和进步的步伐。",
-      "translated": true
+      "title_zh": "The eternal complement",
+      "summary_zh": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "translated": false
     },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -1125,9 +1140,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "35e3d2da780e48",
-      "title_zh": "Albertsons Companies如何从内到外重新构想零售业",
-      "summary_zh": "Albertsons Cos.正在使用ChatGPT Enterprise和OpenAI API来帮助团队更快地工作，让数百万客户更轻松地购物。",
-      "translated": true
+      "title_zh": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary_zh": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "translated": false
     },
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -1175,21 +1190,6 @@
       "translated": false
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "image": "",
-      "published": "2026-09-29T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "3914cacde78a7b",
-      "title_zh": "Introducing GPT-6.1 Sol",
-      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "translated": false
-    },
-    {
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -1202,6 +1202,21 @@
       "id": "4c288fab1a4073",
       "title_zh": "DevDay 2026 Recap",
       "summary_zh": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "translated": false
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "image": "",
+      "published": "2026-09-29T10:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "3914cacde78a7b",
+      "title_zh": "Introducing GPT-6.1 Sol",
+      "summary_zh": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "translated": false
     },
     {
@@ -1280,21 +1295,6 @@
       "translated": false
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "image": "",
-      "published": "2026-09-28T00:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "5f934345b37ac8",
-      "title_zh": "Are you a Codex Original?",
-      "summary_zh": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the nex",
-      "translated": false
-    },
-    {
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
@@ -1307,6 +1307,21 @@
       "id": "431970d1cf4876",
       "title_zh": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "summary_zh": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-worl",
+      "translated": false
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "image": "",
+      "published": "2026-09-28T00:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "5f934345b37ac8",
+      "title_zh": "Are you a Codex Original?",
+      "summary_zh": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the nex",
       "translated": false
     },
     {
@@ -1400,18 +1415,18 @@
       "translated": false
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "image": "",
       "published": "2026-09-23T12:00:00+00:00",
-      "category": "products",
+      "category": "policy",
       "source_id": "openai",
       "source": "OpenAI",
       "site": "https://openai.com/news",
-      "id": "644efc1dac226b",
-      "title_zh": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary_zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "id": "4a0f120489425c",
+      "title_zh": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary_zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "translated": false
     },
     {
@@ -1445,18 +1460,18 @@
       "translated": false
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "image": "",
       "published": "2026-09-23T12:00:00+00:00",
-      "category": "policy",
+      "category": "products",
       "source_id": "openai",
       "source": "OpenAI",
       "site": "https://openai.com/news",
-      "id": "4a0f120489425c",
-      "title_zh": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary_zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "id": "644efc1dac226b",
+      "title_zh": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary_zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "translated": false
     },
     {
@@ -2042,21 +2057,6 @@
       "id": "fe33095789e7e0",
       "title_zh": "Introducing ChatGPT for Financial Services",
       "summary_zh": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "translated": false
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "image": "",
-      "published": "2026-09-10T07:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "575694583547dd",
-      "title_zh": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary_zh": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "translated": false
     },
     {
