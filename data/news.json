@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T04:59:14.429910+00:00",
-  "updated_label": "2026-10-18 04:59 UTC",
+  "generated_at": "2026-10-19T05:06:45.927263+00:00",
+  "updated_label": "2026-10-19 05:06 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,51 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "image": "",
+      "published": "2026-10-18T20:37:40+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "b29e46ffce2226",
+      "title_zh": "Anthropic表示，它将把5%的股份投入“公益基金”",
+      "summary_zh": "Anthropic表示，它将向该基金承诺其5%的股份。",
+      "translated": true
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-18T14:28:10-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "1537a72243349b",
+      "title_zh": "一名女子因拦截派送机器人而在费城被捕",
+      "summary_zh": "Carolyn Marvin因阻挡优步派送机器人的路径并拒绝让路而被捕，并被指控行为不检。Marvin tol",
+      "translated": true
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "image": "",
+      "published": "2026-10-18T16:30:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "b32d658bb414fc",
+      "title_zh": "迪士尼同意雇用Character.AI的大部分员工",
+      "summary_zh": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。 然而，这是一个跟踪马出价，所以",
+      "translated": true
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -485,21 +530,6 @@
       "translated": true
     },
     {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-15T14:15:36-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "59d3bf7088587f",
-      "title_zh": "Meta和Apple合作，使Muse AI模型在Mac上更好地运行",
-      "summary_zh": "Meta今天宣布推出Muse Spark Open AI模型，声称它是“迄今为止最强大的美国开放重量模型”。 但该公司也表示，这是“",
-      "translated": true
-    },
-    {
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
       "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
       "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
@@ -527,36 +557,6 @@
       "id": "a142d1caddc8f3",
       "title_zh": "人工智能特工来到Rivian的车上",
       "summary_zh": "我们可能会在公司即将于12月举行的“人工智能和自治日”活动中了解更多有关其工作原理的信息。",
-      "translated": true
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "image": "",
-      "published": "2026-10-15T14:29:33+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "e870167fbe19f7",
-      "title_zh": "谷歌通用购物车购物工具在美国推出",
-      "summary_zh": "新的购物工具可在美国的Google搜索和Gemini应用程序中使用。",
-      "translated": true
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "image": "",
-      "published": "2026-10-15T14:00:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "5ff75a6b48b3f4",
-      "title_zh": "TechCrunch Disrupt 2026 ：最后一天",
-      "summary_zh": "最后一天是TechCrunch Disrupt 2026的一部分。 加入1万多名技术领导者的行列，享受一天的交流和见解之旅。 立即使用通行证可享75%的优惠。",
       "translated": true
     },
     {
@@ -1035,9 +1035,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "0d0e49e5bd0c4a",
-      "title_zh": "为人们使用人工智能的方式构建广告",
-      "summary_zh": "OpenAI在ChatGPT中引入了一种新的视觉广告格式，并扩展了衡量工具、归因合作伙伴关系和广告客户的品牌适用性。",
-      "translated": true
+      "title_zh": "Building advertising for the way people use AI",
+      "summary_zh": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "translated": false
     },
     {
       "title": "People really hate AI, so why can’t they get enough?",
@@ -1050,9 +1050,9 @@
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "333b8f0544b51b",
-      "title_zh": "人们真的很讨厌人工智能，为什么他们得不到足够的呢？",
-      "summary_zh": "在整个夏天，我与Springboards的首席执行官进行了交谈， Springboards是一家建立LLM的初创公司，旨在提出比其主流更广泛的响应",
-      "translated": true
+      "title_zh": "People really hate AI, so why can’t they get enough?",
+      "summary_zh": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream ",
+      "translated": false
     },
     {
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -1065,9 +1065,9 @@
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "8c080fa45fdc33",
-      "title_zh": "EmTech Future 2026 ：当人工智能遇到一切",
-      "summary_zh": "Google研究副总裁兼负责人Yossi Matias探讨了人工智能如何开始重塑生物学、基础设施、制造业和科学，以及为什么",
-      "translated": true
+      "title_zh": "EmTech Future 2026: When AI Meets Everything",
+      "summary_zh": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its",
+      "translated": false
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -1080,9 +1080,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "58ff3863e6fbe7",
-      "title_zh": "GPT-6系列的模型指南",
-      "summary_zh": "了解初创公司如何选择GPT-6模型、调整推理工作、改进提示和技能、协调工具以及准备生产工作流程。",
-      "translated": true
+      "title_zh": "A model guide for the GPT-6 family",
+      "summary_zh": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "translated": false
     },
     {
       "title": "The latest AI news we announced in September 2026",
@@ -1095,9 +1095,9 @@
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "289456d4a12a2d",
-      "title_zh": "我们在2026年9月宣布的最新人工智能新闻",
-      "summary_zh": "一段显示9月份人工智能更新的视频",
-      "translated": true
+      "title_zh": "The latest AI news we announced in September 2026",
+      "summary_zh": "A video showing the September AI updates",
+      "translated": false
     },
     {
       "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -1110,9 +1110,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "95a45ca8451d8d",
-      "title_zh": "Chatham通过OpenAI扩展其资本市场专业知识",
-      "summary_zh": "Chatham Financial使用Codex和GPT-5.6来构建技术和重新设计工作流程，将交易验证从30分钟缩短到4分钟以下。",
-      "translated": true
+      "title_zh": "Chatham scales its capital markets expertise with OpenAI",
+      "summary_zh": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "translated": false
     },
     {
       "title": "The eternal complement",
@@ -1235,21 +1235,6 @@
       "translated": false
     },
     {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "image": "",
-      "published": "2026-09-28T19:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "1943219e5d610a",
-      "title_zh": "Towards safety cases for frontier AI training",
-      "summary_zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "translated": false
-    },
-    {
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
@@ -1262,6 +1247,21 @@
       "id": "2ab1a4c4abfa58",
       "title_zh": "How we will do better for Australia",
       "summary_zh": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "translated": false
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "image": "",
+      "published": "2026-09-28T19:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "1943219e5d610a",
+      "title_zh": "Towards safety cases for frontier AI training",
+      "summary_zh": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "translated": false
     },
     {
@@ -1295,21 +1295,6 @@
       "translated": false
     },
     {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "image": "",
-      "published": "2026-09-28T00:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "431970d1cf4876",
-      "title_zh": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary_zh": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-worl",
-      "translated": false
-    },
-    {
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
       "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
@@ -1322,6 +1307,21 @@
       "id": "5f934345b37ac8",
       "title_zh": "Are you a Codex Original?",
       "summary_zh": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the nex",
+      "translated": false
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "image": "",
+      "published": "2026-09-28T00:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "431970d1cf4876",
+      "title_zh": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary_zh": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-worl",
       "translated": false
     },
     {
@@ -1415,33 +1415,18 @@
       "translated": false
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "image": "",
       "published": "2026-09-23T12:00:00+00:00",
-      "category": "policy",
+      "category": "products",
       "source_id": "openai",
       "source": "OpenAI",
       "site": "https://openai.com/news",
-      "id": "4a0f120489425c",
-      "title_zh": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary_zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "translated": false
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "image": "",
-      "published": "2026-09-23T12:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "f725fbe2b56720",
-      "title_zh": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary_zh": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "id": "644efc1dac226b",
+      "title_zh": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary_zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "translated": false
     },
     {
@@ -1460,18 +1445,33 @@
       "translated": false
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "image": "",
       "published": "2026-09-23T12:00:00+00:00",
-      "category": "products",
+      "category": "research",
       "source_id": "openai",
       "source": "OpenAI",
       "site": "https://openai.com/news",
-      "id": "644efc1dac226b",
-      "title_zh": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary_zh": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "id": "f725fbe2b56720",
+      "title_zh": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary_zh": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "translated": false
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "image": "",
+      "published": "2026-09-23T12:00:00+00:00",
+      "category": "policy",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "4a0f120489425c",
+      "title_zh": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary_zh": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "translated": false
     },
     {
