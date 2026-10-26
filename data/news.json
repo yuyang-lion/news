@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T05:07:37.114611+00:00",
-  "updated_label": "2026-10-25 05:07 UTC",
+  "generated_at": "2026-10-26T05:09:54.529256+00:00",
+  "updated_label": "2026-10-26 05:09 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,66 @@
     }
   ],
   "items": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "image": "",
+      "published": "2026-10-25T21:31:16+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "1462ad7f71d154",
+      "title_zh": "Grok发布其人工智能生成的“奥德赛”的前七分钟",
+      "summary_zh": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。",
+      "translated": true
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "image": "",
+      "published": "2026-10-25T16:57:32+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "faf247bfb72a1e",
+      "title_zh": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”",
+      "summary_zh": "“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为美国企业带来了零财务回报。",
+      "translated": true
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "image": "",
+      "published": "2026-10-25T14:10:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "d691f9b7db496c",
+      "title_zh": "您应该了解的最热门的AI可穿戴设备和小工具",
+      "summary_zh": "我们编制了所有最热门的AI可穿戴设备列表，包括Muse Charm、Bee、Friend、Plaud等。",
+      "translated": true
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-25T09:52:12-04:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "5ab388c5f2637a",
+      "title_zh": "r/opensource刚刚禁止了人工智能、非英语人士等",
+      "summary_zh": "R/opensource的mod发布了新的提交规则，其中包括禁止使用人工智能的项目。 周六晚上发布的帖子开头说： “如果",
+      "translated": true
+    },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -167,6 +227,21 @@
       "id": "fc7edbeed43fd4",
       "title_zh": "OpenAI现在在没有互联网接入的情况下训练其前沿人工智能模型",
       "summary_zh": "在一系列流氓黑客事件发生后， OpenAI现在正在训练其最先进的人工智能模型，而无需访问互联网。 在周五的一篇博客文章中， OpenAI表示",
+      "translated": true
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-10-23T16:42:34-04:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "3ee06560ce2b70",
+      "title_zh": "谷歌的人工智能搜索变革颠覆了在线发布",
+      "summary_zh": "The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。 有关AI对网络影响的更多信息，请关注Emma Roth。The St",
       "translated": true
     },
     {
@@ -350,21 +425,6 @@
       "translated": true
     },
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-22T17:53:22-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "b4f457e9f53697",
-      "title_zh": "Canva的首个AI图像模型在生成设计之前对其进行规划",
-      "summary_zh": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在深入研究AI。该模型",
-      "translated": true
-    },
-    {
       "title": "Designing an AI serving harness built to last",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances",
@@ -376,22 +436,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "f7b50c5529e127",
       "title_zh": "设计一款经久耐用的AI服务线束",
-      "summary_zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。 这是一个重要的转变。 法律专家表示，",
-      "translated": true
-    },
-    {
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-22T16:32:05-04:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "3f6b2f221ba7db",
-      "title_zh": "Meta的人工智能仍然可以抓取新闻网站",
-      "summary_zh": "Meta已调整其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示",
+      "summary_zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。 这是一个重要的转变。对于",
       "translated": true
     },
     {
@@ -425,21 +470,6 @@
       "translated": true
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "image": "",
-      "published": "2026-10-22T19:00:00+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "f8c8189af8460a",
-      "title_zh": "Canva发布首个图像生成模型",
-      "summary_zh": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
-      "translated": true
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
@@ -452,6 +482,21 @@
       "id": "755d36e67efbf6",
       "title_zh": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
       "summary_zh": "OpenAI正在向全世界推出其决策模型。 它能与原来的Jev竞争吗？",
+      "translated": true
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "image": "",
+      "published": "2026-10-22T19:00:00+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "f8c8189af8460a",
+      "title_zh": "Canva发布首个图像生成模型",
+      "summary_zh": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
       "translated": true
     },
     {
@@ -527,51 +572,6 @@
       "id": "937531ebc3022f",
       "title_zh": "Spotify目前的人工智能赌注是成为代理商选择的音乐服务",
       "summary_zh": "Spotify联合首席执行官Gustav Söderström解释了为什么人工智能代理的崛起可能是音乐服务的好消息。",
-      "translated": true
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "image": "",
-      "published": "2026-10-22T13:53:26+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "0fb3ef39958042",
-      "title_zh": "Claude Duet应用程序是Anthropic对代理商的押注",
-      "summary_zh": "Claude Duet可通过等候名单提供给Pro和Max计划用户。",
-      "translated": true
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "image": "",
-      "published": "2026-10-22T13:26:52+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "20b29d043c05c4",
-      "title_zh": "Nirva筹集了$ 3300万只听你的吊坠",
-      "summary_zh": "Nirva将在今年年底前推出价值249 $的环境人工智能吊坠。",
-      "translated": true
-    },
-    {
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "image": "",
-      "published": "2026-10-22T13:11:13+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "3cdc6a1f6a2197",
-      "title_zh": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
-      "summary_zh": "据报道， DeepSeek在中国最大的一轮融资中筹集了150亿美元$ ，就在美国命令联邦机构删除其技术",
       "translated": true
     },
     {
