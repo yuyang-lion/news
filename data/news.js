@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-10-31T06:08:26.592470+00:00",
-  "updated_label": "2026-10-31 06:08 UTC",
+  "generated_at": "2026-11-01T06:39:10.657795+00:00",
+  "updated_label": "2026-11-01 06:39 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,81 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "image": "",
+      "published": "2026-10-31T21:41:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "8146766e2fe304",
+      "title_zh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "summary_zh": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+      "translated": true
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "image": "",
+      "published": "2026-10-31T21:36:07+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "8a347a015b55d3",
+      "title_zh": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "summary_zh": "11月4日，在波士顿的SoWa发电站，准备好一整天，充满有意义的网络机会、可操作的见解和",
+      "translated": true
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "image": "",
+      "published": "2026-10-31T21:17:03+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "9bc42f467e47a1",
+      "title_zh": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "summary_zh": "全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。",
+      "translated": true
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "image": "",
+      "published": "2026-10-31T16:12:55+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "3a089515b89a2b",
+      "title_zh": "据报道， OpenAI降低了新一轮融资目标",
+      "summary_zh": "OpenAI的最新一轮融资似乎没有达到预期。",
+      "translated": true
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255",
+      "published": "2026-10-31T12:09:02-04:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "12d670388d9c72",
+      "title_zh": "在Meta之前，我构建了一个人工智能Tamagotchi",
+      "summary_zh": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来如此臭气熏天的可爱，给它一张柔软的小脸-而这个假日季节，他想向你出售一件Muse Charm ，这样你就可以",
+      "translated": true
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -245,21 +320,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-10-30T12:08:56-04:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "eff718c49cc331",
-      "title_zh": "维基百科的运营商表示，糟糕的人工智能版权裁决可能会威胁到开放的网络",
-      "summary_zh": "维基媒体基金会正在一组具有里程碑意义的人工智能版权案件中寻找中间立场，推动法院在法律上保护大型语言模型（ LLM ）",
-      "translated": true
-    },
-    {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
@@ -467,66 +527,6 @@ window.AI_NEWS = {
       "id": "e567909d7644f2",
       "title_zh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
       "summary_zh": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
-      "translated": true
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "image": "",
-      "published": "2026-10-29T20:05:47+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "b08c326edc15c2",
-      "title_zh": "Rivian扩大与大众的合资企业，包括人工智能助手",
-      "summary_zh": "Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。",
-      "translated": true
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "image": "",
-      "published": "2026-10-29T19:56:19+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "039a01e042facc",
-      "title_zh": "OpenAI支持的Thrive Holdings收购ADT",
-      "summary_zh": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
-      "translated": true
-    },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "image": "",
-      "published": "2026-10-29T19:14:36+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "49647923dbb36e",
-      "title_zh": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
-      "summary_zh": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或者您可以通过拍摄照片、快速录制",
-      "translated": true
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "image": "",
-      "published": "2026-10-29T17:54:38+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "f105487691f4b1",
-      "title_zh": "Granola推出听写功能，与Wispr展开竞争",
-      "summary_zh": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。 语音AI大战正在引起人们的兴趣",
       "translated": true
     },
     {
@@ -1310,21 +1310,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "image": "",
-      "published": "2026-10-16T00:00:00+00:00",
-      "category": "tools",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "7c852ccc0407f8",
-      "title_zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "translated": false
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
@@ -1337,6 +1322,21 @@ window.AI_NEWS = {
       "id": "bb4e9376d303e7",
       "title_zh": "Benefit Street Partners answers questions faster with Codex",
       "summary_zh": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "translated": false
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "image": "",
+      "published": "2026-10-16T00:00:00+00:00",
+      "category": "tools",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "7c852ccc0407f8",
+      "title_zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary_zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "translated": false
     },
     {
