@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-11-01T06:39:10.657795+00:00",
-  "updated_label": "2026-11-01 06:39 UTC",
+  "generated_at": "2026-11-02T06:38:35.173258+00:00",
+  "updated_label": "2026-11-02 06:38 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,36 @@ window.AI_NEWS = {
     }
   ],
   "items": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": "",
+      "published": "2026-11-01T21:55:23+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "9ac358383fa557",
+      "title_zh": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
+      "summary_zh": "数据中心非常不受欢迎。 但是，如果我们称之为其他东西呢？",
+      "translated": true
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "image": "",
+      "published": "2026-11-01T20:57:58+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "02c2e313b20e58",
+      "title_zh": "人工智能可以让科技CEO的生活更轻松。 其他人呢？",
+      "summary_zh": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+      "translated": true
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -497,36 +527,6 @@ window.AI_NEWS = {
       "id": "a8df554e767186",
       "title_zh": "合理使用对每个人都有好处",
       "summary_zh": "OpenAI分享创作者、学者、无障碍倡导者和法律专家等关于合理使用如何支持人工智能培训的法庭简报摘录",
-      "translated": true
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "image": "",
-      "published": "2026-10-29T23:42:22+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "28b2e8f728db47",
-      "title_zh": "Jassy说， AWS将是一个$ 1T的业务—但首先，它将花费大量",
-      "summary_zh": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。 但要做到这一点，它必须继续其资本支出。",
-      "translated": true
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "image": "",
-      "published": "2026-10-29T20:08:31+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "e567909d7644f2",
-      "title_zh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
-      "summary_zh": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
       "translated": true
     },
     {
@@ -1140,9 +1140,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "bb1d37c905edac",
-      "title_zh": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary_zh": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "translated": false
+      "title_zh": "我们如何构建ChatGPT的新型广告堆栈，以获得用户的信任和相关性",
+      "summary_zh": "了解OpenAI如何构建ChatGPT基于LLM的广告堆栈，以了解对话意图，将广告与答案分开，并大规模投放相关广告。",
+      "translated": true
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
@@ -1155,9 +1155,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "cfa7c01253e449",
-      "title_zh": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary_zh": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "translated": false
+      "title_zh": "使用成千上万的人工智能代理来发现生物数据中的新线索",
+      "summary_zh": "了解OpenAI、PerturbAI和Scripps Research如何使用分布式人工智能代理，从数百万个脑细胞的数据中发现有前途的研究线索。",
+      "translated": true
     },
     {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
