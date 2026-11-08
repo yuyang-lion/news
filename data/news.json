@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T06:26:23.896925+00:00",
-  "updated_label": "2026-11-07 06:26 UTC",
+  "generated_at": "2026-11-08T06:32:31.118054+00:00",
+  "updated_label": "2026-11-08 06:32 UTC",
   "sources": [
     {
       "id": "openai",
@@ -34,6 +34,81 @@
     }
   ],
   "items": [
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "image": "",
+      "published": "2026-11-07T22:07:22+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "458c414069dfb4",
+      "title_zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕",
+      "summary_zh": "在股票方面，我们揭示了期中考试对科技行业的意义。",
+      "translated": true
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "image": "",
+      "published": "2026-11-07T21:17:08+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "4a2cea44648825",
+      "title_zh": "根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官",
+      "summary_zh": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
+      "translated": true
+    },
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-07T10:47:15-05:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "a2b96d26785e99",
+      "title_zh": "纽约时报烹饪的AI助手拯救了我的工作夜鸡，但几乎毁了我的蛋糕",
+      "summary_zh": "每个工作日晚上7点左右，我发现自己站在冰箱前，试图选择一些不会让我丈夫抱怨的晚餐， “",
+      "translated": true
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-07T10:43:45-05:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "eff89a4351c610",
+      "title_zh": "美国允许英伟达向中国一间空置办公室出售芯片",
+      "summary_zh": "有人担心，商务部和英伟达在审查获准处理的中国公司时都没有进行尽职调查。",
+      "translated": true
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-07T00:43:11-05:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "a27a2f8c18f293",
+      "title_zh": "人工智能打破了网络安全的世界。下一步是什么？",
+      "summary_zh": "今天，我正在与Cognition首席安全官兼长期网络安全专家Alex Stamos谈论网络安全目前的混乱局面。",
+      "translated": true
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -107,6 +182,21 @@
       "id": "342c57f1f6008a",
       "title_zh": "人工智能是新的约会交易破坏者",
       "summary_zh": "去年Irene搬到旧金山时，她开始使用约会应用程序结识新朋友，了解她的新城市，并与",
+      "translated": true
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigati",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-06T16:48:06-05:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "5355ba81f5b95a",
+      "title_zh": "为什么关于人类自动化人工智能开发的新报告让研究人员感到震惊",
+      "summary_zh": "Anthropic正在使用AI来构建更强大的AI。 而且它似乎工作得非常好，公司的模型改进的速度大约是",
       "translated": true
     },
     {
@@ -215,21 +305,6 @@
       "translated": true
     },
     {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-06T11:34:39-05:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "3d5416f72068dc",
-      "title_zh": "Akai和Moog如何拥抱氛围编码模式",
-      "summary_zh": "akai、Moog、Native Instruments等公司的母公司inMusic决定拥抱改装社区。 在接受The Verge采访时， inMusic C",
-      "translated": true
-    },
-    {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
@@ -260,21 +335,6 @@
       "translated": true
     },
     {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-06T08:56:32-05:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "b07676bcdd9999",
-      "title_zh": "亚马逊将允许您向Alexa发送购物清单短信",
-      "summary_zh": "亚马逊正在为Alexa for Shopping添加一项新功能，允许客户通过发送短信给AI购物助手来购买商品。 用户可以描述生产",
-      "translated": true
-    },
-    {
       "title": "Underdog shows off a 32MB speech model in new demo",
       "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
       "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
@@ -302,21 +362,6 @@
       "id": "30e106365a7c8c",
       "title_zh": "Physicl筹集了$ 1000万，使数字世界对机器人来说足够真实",
       "summary_zh": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
-      "translated": true
-    },
-    {
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, wit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-06T07:01:25-05:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "44a740d80b30d4",
-      "title_zh": "抗议者闯入阿姆斯特丹的微软数据中心",
-      "summary_zh": "今天早上，抗议者闯入了阿姆斯特丹一个新的微软数据中心的建筑工地。 Geef Tegengas集团的成员帮助组织了",
       "translated": true
     },
     {
@@ -362,21 +407,6 @@
       "id": "af12c382bf0d99",
       "title_zh": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
       "summary_zh": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
-      "translated": true
-    },
-    {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-05T19:37:56-05:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "427e7747d9be32",
-      "title_zh": "OpenAI正在退出数据中心项目的保密协议",
-      "summary_zh": "在本周的中期选举中，选民强烈反对数据中心扩张， OpenAI今天宣布了对社区的新承诺",
       "translated": true
     },
     {
@@ -542,36 +572,6 @@
       "id": "b44187b4eedc3c",
       "title_zh": "Axiom Math希望将AI SLOP排除在数学之外",
       "summary_zh": "随着人工智能用未经检查的证明充斥数学，公理数学押注于验证。 这家初创公司的人工智能代理刚刚正式验证了Stacks项目，该项目是",
-      "translated": true
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "image": "",
-      "published": "2026-11-05T15:19:05+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "d48019f08289b9",
-      "title_zh": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
-      "summary_zh": "这笔交易预计将支持DBX Agent Cloud的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
-      "translated": true
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "image": "",
-      "published": "2026-11-05T14:42:00+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "e51f5c8ef63f8c",
-      "title_zh": "Aina的智能戒指有屏幕、操纵杆和麦克风，因此您可以与人工智能代理交谈",
-      "summary_zh": "Aina的戒指还可以接听电话，并帮助您在Mac上口述笔记。",
       "translated": true
     },
     {
@@ -1065,9 +1065,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "eb2085c1348fdc",
-      "title_zh": "更新的模型规格，以实现更强大、更有益的人工智能",
-      "summary_zh": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。",
-      "translated": true
+      "title_zh": "An updated Model Spec for more capable and beneficial AI",
+      "summary_zh": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "translated": false
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -1080,9 +1080,9 @@
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "32c179afe19933",
-      "title_zh": "我们迫切需要实时监控AI代理的行为",
-      "summary_zh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。 他们突破了测试环境，成功入侵了Hugging Face ，",
-      "translated": true
+      "title_zh": "We urgently need to monitor AI agents’ actions in real time",
+      "summary_zh": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a ",
+      "translated": false
     },
     {
       "title": "How we detect frontier model misalignment",
@@ -1095,9 +1095,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "c527a397e2774a",
-      "title_zh": "我们如何检测前沿模型错位",
-      "summary_zh": "OpenAI使用分层监控来检测前沿模型不对齐和未经授权的代理行为，以便响应者可以在事件升级之前进行干预。",
-      "translated": true
+      "title_zh": "How we detect frontier model misalignment",
+      "summary_zh": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "translated": false
     },
     {
       "title": "How Ropes & Gray is developing AI for transactional diligence",
@@ -1110,9 +1110,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3f5de5054bb29b",
-      "title_zh": "Ropes & Gray如何开发用于交易尽职调查的人工智能",
-      "summary_zh": "Ropes & Gray正在与OpenAI合作开发用于交易尽职调查的人工智能。 律师在为客户提供建议之前，会审查分组文件、摘要和报告。",
-      "translated": true
+      "title_zh": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary_zh": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "translated": false
     },
     {
       "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
@@ -1125,9 +1125,9 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a040dd44ecfc9d",
-      "title_zh": "Credit Saison在ChatGPT Enterprise试点项目中实现954%的投资回报率",
-      "summary_zh": "Credit Saison的ChatGPT Enterprise试点项目实现了954%的投资回报率。 了解领导者和员工如何帮助将结果转化为全公司采用的结果。",
-      "translated": true
+      "title_zh": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary_zh": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "translated": false
     },
     {
       "title": "Creating AI value with enterprise context",
@@ -1140,9 +1140,9 @@
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "8b8b156a992e54",
-      "title_zh": "利用企业环境创造人工智能价值",
-      "summary_zh": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作，例如，人工智能驱动的客户平台、会话辅助工具",
-      "translated": true
+      "title_zh": "Creating AI value with enterprise context",
+      "summary_zh": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assis",
+      "translated": false
     },
     {
       "title": "Evernote turns AI-driven discovery into paid subscriptions",
