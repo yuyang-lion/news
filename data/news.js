@@ -1,6 +1,6 @@
 window.AI_NEWS = {
-  "generated_at": "2026-11-13T07:05:11.375760+00:00",
-  "updated_label": "2026-11-13 07:05 UTC",
+  "generated_at": "2026-11-14T06:54:06.305185+00:00",
+  "updated_label": "2026-11-14 06:54 UTC",
   "sources": [
     {
       "id": "openai",
@@ -35,18 +35,243 @@ window.AI_NEWS = {
   ],
   "items": [
     {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T19:45:25-05:00",
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T23:51:44-05:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "c5a9549e3e1943",
+      "title_zh": "黄仁勋丑闻远未结束",
+      "summary_zh": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会呢？他把自己置于不可或缺的地位。",
+      "translated": true
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T18:49:11-05:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "a6032f9287673a",
+      "title_zh": "亚马逊计划为全球的线上购物数据编制索引",
+      "summary_zh": "亚马逊计划建立一个数据库，储存互联网上所有地方销售的每一种产品的数据，即使是亚马逊不销售的产品，并将这些信息公之于众。",
+      "translated": true
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "image": "",
+      "published": "2026-11-13T22:43:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "33807e7289d1e2",
+      "title_zh": "风险投资人和创始人表示，黄仁勋的离任在人工智能初创企业的融资方面留下了巨大的缺口",
+      "summary_zh": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。",
+      "translated": true
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T15:45:10-05:00",
       "category": "products",
       "source_id": "the-verge",
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "2e36320dd5932e",
-      "title_zh": "英伟达首席执行官黄仁勋已辞职。接下来会发生什么？",
-      "summary_zh": "身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有染后，他的公司最初……",
+      "id": "c535e6b975a60c",
+      "title_zh": "ChatGPT钱包让OpenAI的Dots代理为您代为购物",
+      "summary_zh": "在今年早些时候推出Dots AI代理平台后，OpenAI将为这些代理推出一个钱包。ChatGPT钱包从今天开始面向ChatGPT用户推出。",
+      "translated": true
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "image": "",
+      "published": "2026-11-13T19:37:57+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "b7f5aacdece750",
+      "title_zh": "AI代理初创公司LangChain估值达30亿美元",
+      "summary_zh": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7000名客户。",
+      "translated": true
+    },
+    {
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T14:17:15-05:00",
+      "category": "industry",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "a22da049bf5708",
+      "title_zh": "黄仁勋传奇背后的真正利害关系",
+      "summary_zh": "围绕英伟达首席执行官黄仁勋的传奇故事在上周四落下了一幕，当时黄仁勋辞去了这家人工智能领域最重要公司最高领导的职位。但是",
+      "translated": true
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T14:07:12-05:00",
+      "category": "products",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "05a9c2b5b0ce31",
+      "title_zh": "我们来谈谈黄仁勋的众多绯闻吧！",
+      "summary_zh": "通常，我们会主动回答您关于某则新闻事件的问题，但坦白说，对于Nvidia到底发生了什么，我们真的没有任何答案。",
+      "translated": true
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "image": "",
+      "published": "2026-11-13T18:40:30+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "6198b832fe9777",
+      "title_zh": "被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的支撑——哎呀，Jensen！",
+      "summary_zh": "一项新研究表明，中国最先进的人工智能模型是在被禁用的英伟达芯片上训练的。",
+      "translated": true
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "image": "",
+      "published": "2026-11-13T16:00:12+00:00",
+      "category": "research",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "698d0a412ca6b6",
+      "title_zh": "ChatGPT 的新钱包让 AI 代理为您购物并结账",
+      "summary_zh": "ChatGPT钱包让AI代理能够代表用户购物并结账，该功能首先将限量推出，面向美国Pro版订阅用户。",
+      "translated": true
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "image": "",
+      "published": "2026-11-13T15:58:00+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "dc9987a4d07e83",
+      "title_zh": "正在发酵的黄仁勋丑闻：时间线",
+      "summary_zh": "黄仁勋因婚外情丑闻已从英伟达辞职，鉴于美国和中国正在竞相开发最先进的人工智能技术，此事可能对国家安全产生影响。",
+      "translated": true
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "image": "",
+      "published": "2026-11-13T15:00:00+00:00",
+      "category": "products",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "7dce532af50a38",
+      "title_zh": "隆重推出 ChatGPT 钱包",
+      "summary_zh": "隆重推出ChatGPT钱包，这是ChatGPT Work、Codex和dots中的代理在获得用户批准并享有现有银行卡保护的情况下完成购买的安全方式。",
+      "translated": true
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "image": "",
+      "published": "2026-11-13T14:44:48+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "31d4b112cca32b",
+      "title_zh": "ElevenLabs 的新应用程序将会议笔记记录和听写功能相结合，面向团队使用",
+      "summary_zh": "ElevenAI 是一款面向团队和企业的新型会议记录和听写应用程序。",
+      "translated": true
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "image": "",
+      "published": "2026-11-13T12:52:19+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "fcd741bd271fbf",
+      "title_zh": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
+      "summary_zh": "鉴于英伟达在人工智能领域的稳固地位及其在以色列的重要性，该国初创企业生态系统中的许多人都对他的离职所带来的影响感到担忧。",
+      "translated": true
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "image": "",
+      "published": "2026-11-13T12:28:23+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "f6a06e9b566454",
+      "title_zh": "据报道，黄仁勋对他的继任者没有表现出信心",
+      "summary_zh": "黄仁勋在夏季的一次会议上将Kress形容为“被车灯照到的鹿”。",
+      "translated": true
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "image": "",
+      "published": "2026-11-13T08:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "3ed12875bc5823",
+      "title_zh": "Shield 利用 OpenAI 帮助技术人员移交旧版门户的工作",
+      "summary_zh": "Shield 使用 OpenAI 来帮助 IT 技术人员移交旧版门户中的工作。其 Forge 代理负责浏览系统，以便技术人员能够专注于需要他们专业知识的问题。",
+      "translated": true
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-12T19:23:32-05:00",
+      "category": "research",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "f8acec63306995",
+      "title_zh": "Claude 的 Duet 智能体有点神经质，但出人意料地有用",
+      "summary_zh": "通常情况下，我测试的产品不会主动提出帮我撰写使用体验。Duet 与众不同。Claude Duet 是 Anthropic 面向消费者的 AI 代理，",
       "translated": true
     },
     {
@@ -60,8 +285,8 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "c962cdd7112ac2",
-      "title_zh": "民主党人对英伟达发起调查，并就黄仁勋与特朗普的“勾当”撰写措辞严厉的信函",
-      "summary_zh": "这是自所谓间谍事件曝出以来，国会对英伟达在中国销售情况及其与特朗普往来进行的第二次调查。",
+      "title_zh": "民主党人对英伟达发起调查，并撰写措辞严厉的信函，指责黄仁勋与特朗普的“勾当”",
+      "summary_zh": "这是自所谓间谍事件的消息曝出以来，国会对英伟达在中国销售情况及其与特朗普的往来进行的第二次调查。",
       "translated": true
     },
     {
@@ -75,7 +300,7 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "25c88025c9b052",
-      "title_zh": "Muse现在可以向美国企业拨打电话——如果您愿意付费的话",
+      "title_zh": "Muse现在可以向美国企业拨打电话——只要您付费",
       "summary_zh": "Muse 的人工智能现在可以向美国企业拨打外拨电话，但这项服务并非免费。",
       "translated": true
     },
@@ -95,21 +320,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": "",
-      "published": "2026-11-12T21:35:00+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "dc9987a4d07e83",
-      "title_zh": "正在发酵的黄仁勋丑闻：时间线",
-      "summary_zh": "在曝出婚外情丑闻后，Jensen Huang已从英伟达辞职，鉴于美国和中国正在竞相开发最先进的人工智能技术，此事可能对国家安全产生影响。",
-      "translated": true
-    },
-    {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
@@ -120,23 +330,8 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "d6e7e473eb9f63",
-      "title_zh": "Nebius 计划斥资 400 亿美元测试新云战略",
-      "summary_zh": "Nebius计划通过客户预付款和贷款为其400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了疑问。",
-      "translated": true
-    },
-    {
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T15:55:42-05:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "00ccba191547e3",
-      "title_zh": "我评测了Apple HomeView，欢迎提问",
-      "summary_zh": "大家好！我是Jen Tuohy，The Verge的资深智能家居评测员。我测试过亚马逊和谷歌有史以来生产的每一款智能显示屏，过去一周我一直在测试",
+      "title_zh": "Nebius计划斥资400亿美元测试新云战略",
+      "summary_zh": "Nebius计划通过客户预付款和贷款为其400亿美元的AI基础设施扩张提供资金，尽管微软数据中心的延迟引发了质疑。",
       "translated": true
     },
     {
@@ -151,7 +346,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "f93daa6b3b80de",
       "title_zh": "路透社报道称，黄仁勋有第三段婚外情",
-      "summary_zh": "路透社未透露与黄仁勋有染的新员工的姓名，但表示她是英伟达的员工。",
+      "summary_zh": "路透社没有透露与黄仁勋有染的新员工的姓名，但表示她是英伟达的员工。",
       "translated": true
     },
     {
@@ -165,8 +360,8 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "7b0f6f0b710560",
-      "title_zh": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。",
-      "summary_zh": "英伟达的代表告诉伊利诺伊州众议员比尔·福斯特，从技术上来说，实施所要求的反走私措施是可行的。",
+      "title_zh": "英伟达私下确认其能够追踪芯片以打击走私，尽管业内公开质疑其可行性。",
+      "summary_zh": "英伟达的代表告诉伊利诺伊州众议员比尔·福斯特，从技术上来说，实施他所呼吁的反走私措施是可行的。",
       "translated": true
     },
     {
@@ -181,7 +376,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "b79dbf148f52ca",
       "title_zh": "Amplitude如何借助OpenAI在1–2天内推出产品改进",
-      "summary_zh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，能够识别需要构建的内容，帮助团队通过编码代理交付变更，并进行衡量。",
+      "summary_zh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队使用编码代理交付变更，并进行衡量。",
       "translated": true
     },
     {
@@ -196,7 +391,7 @@ window.AI_NEWS = {
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "c9266232e65dbd",
       "title_zh": "不，AI 代理并未发现此前未知的玛雅遗址",
-      "summary_zh": "本周早些时候，Google 研究员 Pietro Miotti 宣称，在人工智能代理团队的协助下，他发现了墨西哥一处可能未被标绘的玛雅遗址。",
+      "summary_zh": "本周早些时候，Google 研究员 Pietro Miotti 宣称，在人工智能代理团队的帮助下，他发现了墨西哥一处可能未被标绘的玛雅遗址。",
       "translated": true
     },
     {
@@ -211,22 +406,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "29820f8b20de65",
       "title_zh": "Google 最新搜索升级承诺为您最复杂的问题提供更好的答案",
-      "summary_zh": "在Gemini 4 Hydrogen的加持下，Google的AI模式在理解复杂查询、显示相关链接以及提供更丰富的可视化回复方面正变得越来越出色。",
-      "translated": true
-    },
-    {
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T14:16:51-05:00",
-      "category": "industry",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "c5a9549e3e1943",
-      "title_zh": "黄仁勋丑闻远未结束",
-      "summary_zh": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会呢？他把自己置于不可或缺的地位。",
+      "summary_zh": "在 Gemini 4 Hydrogen 的支持下，Google 的 AI 模式在理解复杂查询、显示相关链接以及提供更丰富的可视化回复方面正变得越来越出色。",
       "translated": true
     },
     {
@@ -240,8 +420,8 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "482c6c4ad592a9",
-      "title_zh": "Nectar推出一款AI代理，为品牌方自动化创作者发现和联系工作",
-      "summary_zh": "Nectar 的新 AI 代理实现了网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果。",
+      "title_zh": "Nectar推出AI代理，为品牌方实现创作者发现和联系的自动化",
+      "summary_zh": "Nectar 的新 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理外联和合作关系，并跟踪活动成效。",
       "translated": true
     },
     {
@@ -256,7 +436,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "2a3c2f0a780a2d",
       "title_zh": "黄仁勋的离职使英伟达对开源的支持受到质疑",
-      "summary_zh": "Jensen Huang的辞职引发了人们对英伟达对开源人工智能承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及相关倡导。",
+      "summary_zh": "Jensen Huang的辞职引发了人们对Nvidia对开源人工智能承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及相关倡导。",
       "translated": true
     },
     {
@@ -270,8 +450,8 @@ window.AI_NEWS = {
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "5fbbac9806717e",
-      "title_zh": "研究发现，人工智能聊天机器人正在推荐虚假的零售网站",
-      "summary_zh": "一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他有风险的网站。该研究……",
+      "title_zh": "研究发现，AI聊天机器人正在推荐虚假零售网站",
+      "summary_zh": "一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被引导至冒牌网站和其他存在风险的网站。该研究……",
       "translated": true
     },
     {
@@ -286,7 +466,7 @@ window.AI_NEWS = {
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "64fb4a3ee419a0",
       "title_zh": "哦，Palantir现在是“进步”的了，是吗？",
-      "summary_zh": "我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置。上周的选举是",
+      "summary_zh": "我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将那些事情搁置。上周的选举是",
       "translated": true
     },
     {
@@ -300,8 +480,8 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "d1b30ddd6cfb60",
-      "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 实现重大升级",
-      "summary_zh": "带有“Gemini 4 Hydrogen”、“现已上线 Google 搜索”字样的卡片轮播，以及来自 Google 搜索用户界面的示例",
+      "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 迎来重大升级",
+      "summary_zh": "带有“Gemini 4 Hydrogen”、“现已上线 Google 搜索”字样的卡片轮播，以及 Google 搜索用户界面的示例",
       "translated": true
     },
     {
@@ -316,22 +496,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "08a1c9cc822883",
       "title_zh": "Hugging Face首席执行官誓言在Jensen Huang退出后继续为开源人工智能而战",
-      "summary_zh": "Hugging Face的首席执行官承诺，在黄仁勋退出后将继续为开源人工智能而战，这引发了人们对英伟达129亿美元收购的质疑。",
-      "translated": true
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T12:24:09-05:00",
-      "category": "tools",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "6e867683df48e4",
-      "title_zh": "越来越多的游戏开发者开始使用生成式人工智能",
-      "summary_zh": "根据GDC游戏节最新的年度行业调查，与去年相比，有更多视频游戏开发者在工作中使用了生成式AI工具。",
+      "summary_zh": "Hugging Face的首席执行官承诺，在黄仁勋退出后将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
       "translated": true
     },
     {
@@ -345,8 +510,8 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "209b35d1505bf2",
-      "title_zh": "美联航以网络安全风险为由，禁止人工智能代理预订航班",
-      "summary_zh": "该航空公司表示，将不允许顾客使用AI代理预订航班和管理预订。",
+      "title_zh": "美联航以网络安全风险为由，禁止AI代理预订航班",
+      "summary_zh": "该航空公司表示，将不允许客户使用人工智能代理预订航班和管理预订。",
       "translated": true
     },
     {
@@ -360,7 +525,7 @@ window.AI_NEWS = {
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "bb2d8996b6caa9",
-      "title_zh": "软银的数十亿美元亏损可能为人工智能的天然气雄心画上了句号",
+      "title_zh": "软银数十亿美元的损失可能限制了人工智能的天然气雄心",
       "summary_zh": "软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔亏损对电力市场的意义。",
       "translated": true
     },
@@ -376,22 +541,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "ff52a8d6443bcb",
       "title_zh": "Phota Labs利用人工智能将日常照片转变为专业水准的照片",
-      "summary_zh": "Phota Labs的目标不是再给消费者提供一款照片编辑工具，而是利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地……",
-      "translated": true
-    },
-    {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T11:59:00-05:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "41135abeabf60c",
-      "title_zh": "黄仁勋出局了。中国想要他做什么？",
-      "summary_zh": "今天，我们要谈的是英伟达的黄仁勋丑闻。此事进展如此之快，以至于我们不得不在这段开场白开始前几分钟紧急更新内容。",
+      "summary_zh": "Phota Labs并不打算再为消费者提供一款照片编辑工具，而是希望利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地……",
       "translated": true
     },
     {
@@ -406,112 +556,7 @@ window.AI_NEWS = {
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "46dc827985e8b1",
       "title_zh": "黄仁勋同意在国会作证",
-      "summary_zh": "有报道称，黄仁勋与一名涉嫌为中国从事间谍活动的女性有染，随后他被罢免了首席执行官职务。在几位高管",
-      "translated": true
-    },
-    {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "image": "",
-      "published": "2026-11-12T16:32:33+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "5a9b33792b99e8",
-      "title_zh": "黄仁勋被逐出英伟达可能对人工智能行业造成损害的五种方式",
-      "summary_zh": "英伟达被罢免的首席执行官黄仁勋的垮台不仅仅是一桩司空见惯的亿万富豪桃色性丑闻。他正利用自己的影响力推动人工智能行业的发展。",
-      "translated": true
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "image": "",
-      "published": "2026-11-12T16:12:44+00:00",
-      "category": "products",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "aef059c1322ec7",
-      "title_zh": "特朗普提名苹果公司董事长蒂姆·库克为黄仁勋的继任者",
-      "summary_zh": "特朗普总统在Truth Social上发帖称，只有一个人可以接替黄仁勋担任英伟达的掌门人：蒂姆·库克。",
-      "translated": true
-    },
-    {
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignatio",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T11:11:59-05:00",
-      "category": "policy",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "4cad7bd1dcd11d",
-      "title_zh": "阅读英伟达在首席执行官人事变动之际关于“极其艰难时期”的内部电子邮件",
-      "summary_zh": "今天上午，黄仁勋辞去了英伟达首席执行官的职务，而他于1993年与他人共同创立了这家公司。这一决定是在公司董事会启动调查之后作出的。",
-      "translated": true
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "image": "",
-      "published": "2026-11-12T15:37:29+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "8268b6083464e8",
-      "title_zh": "黄仁勋离开英伟达——谁是他的临时继任者科莱特·克雷斯？",
-      "summary_zh": "英伟达首席财务官科莱特·克雷斯（Colette Kress）将接替深陷丑闻的长期首席执行官黄仁勋（Jensen Huang），担任临时替代者。",
-      "translated": true
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "summary": "This is the investment firm's largest fund to date.",
-      "image": "",
-      "published": "2026-11-12T15:18:14+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "3fa5df331b546a",
-      "title_zh": "Norwest设立40亿美元新基金，进一步进军人工智能领域",
-      "summary_zh": "这是该投资公司迄今为止规模最大的基金。",
-      "translated": true
-    },
-    {
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "image": "",
-      "published": "2026-11-12T15:02:28+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "ba4f4d65416d8a",
-      "title_zh": "Fireworks AI遭受网络攻击，黑客得以访问Notion客户的聊天记录",
-      "summary_zh": "这是Fireworks在短短几个月内发生的第二次数据泄露事件。",
-      "translated": true
-    },
-    {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "image": "",
-      "published": "2026-11-12T13:26:25+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "6908b90675066f",
-      "title_zh": "九家韩国初创企业争夺Disrupt 2027“初创企业战场200强”大赛的名额",
-      "summary_zh": "这些初创企业活跃于深科技领域，包括医疗保健、金融科技、能源、半导体和人工智能。这九家公司都希望进入美国市场。",
+      "summary_zh": "在有报道称黄仁勋与一名涉嫌为中国从事间谍活动的女性有染后，他被免去首席执行官职务。在几位高管之后，他于周三同意作证。",
       "translated": true
     },
     {
@@ -545,21 +590,6 @@ window.AI_NEWS = {
       "translated": true
     },
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "image": "",
-      "published": "2026-11-12T03:13:10+00:00",
-      "category": "industry",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "cdf4f7f66285f5",
-      "title_zh": "谁能接替黄仁勋？一份极不科学的可能继任者名单",
-      "summary_zh": "英伟达没有继任计划，且首席执行官正深陷困境，因此我们拟定了一份候选人名单。",
-      "translated": true
-    },
-    {
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
@@ -585,8 +615,8 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "d1587157932330",
-      "title_zh": "Gilbert + Tobin借助人工智能重新思考法律业务",
-      "summary_zh": "与 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话。",
+      "title_zh": "Gilbert + Tobin利用人工智能重新思考法律业务",
+      "summary_zh": "与Gilbert + Tobin合伙人兼首席执行官Sam Nickless的对话。",
       "translated": true
     },
     {
@@ -601,7 +631,7 @@ window.AI_NEWS = {
       "site": "https://blog.google/technology/ai/",
       "id": "6177c95d4df419",
       "title_zh": "Gemini Decisions API：快速、经过校准的多模态决策",
-      "summary_zh": "隆重推出 Gemini Decisions API，该 API 由我们最先进的模型 Gemini Decision 提供支持，可实现快速、经过校准的多模态决策。",
+      "summary_zh": "隆重推出 Gemini Decisions API，该 API 由我们最先进的模型 Gemini Decision 提供支持，可快速做出经过校准的多模态决策。",
       "translated": true
     },
     {
@@ -615,8 +645,8 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "abd7ac13a4a1f4",
-      "title_zh": "试试 Tabletop：可定制的协作空间，供团队共同规划、娱乐和开展更多活动。",
-      "summary_zh": "Tabletop 是 Google Labs 推出的全新团队协作实验项目。与您的团队一起创建互动式行程、投票和对阵表。加入候补名单。",
+      "title_zh": "试用 Tabletop：可定制的协作空间，供团队共同规划、娱乐和开展更多活动。",
+      "summary_zh": "Tabletop 是 Google Labs 的一项全新实验，旨在实现团队协作。与您的团队一起创建互动式行程、投票和对阵表。加入候补名单。",
       "translated": true
     },
     {
@@ -631,7 +661,7 @@ window.AI_NEWS = {
       "site": "https://blog.google/technology/ai/",
       "id": "32f34547dcf652",
       "title_zh": "体验 Esther Mahlangu 博士的艺术和传承",
-      "summary_zh": "Nontobeko Ntombela博士肖像，维特沃特斯兰大学维茨艺术学院策展、公共与视觉文化系高级讲师",
+      "summary_zh": "Nontobeko Ntombela博士的肖像，她是威特沃特斯兰大学威茨艺术学院策展、公共与视觉文化系的高级讲师",
       "translated": true
     },
     {
@@ -646,7 +676,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "904fe7d78f3eb2",
       "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
-      "summary_zh": "超过20,000名退伍军人和即将退役的现役军人已领取了一年的免费ChatGPT Plus。了解他们如何利用它为平民职业做好准备。",
+      "summary_zh": "超过 2 万名退伍军人和即将退役的现役军人已领取了一年的免费 ChatGPT Plus。了解他们如何利用它为平民职业做好准备。",
       "translated": true
     },
     {
@@ -661,7 +691,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "a067f8ea946a5d",
       "title_zh": "JioStar首席架构师谈论5亿用户规模下的AI发现",
-      "summary_zh": "JioStar的Vijay Seshadri阐述了5亿用户规模下的AI发现。阅读他关于评估、防护措施以及将人工智能投入生产的经验教训。",
+      "summary_zh": "JioStar 的 Vijay Seshadri 阐述了在 5 亿用户规模下的人工智能发现。阅读他关于评估、防护措施以及将人工智能投入生产的经验教训。",
       "translated": true
     },
     {
@@ -675,7 +705,7 @@ window.AI_NEWS = {
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "059cb4ad238423",
-      "title_zh": "Gemini智能：新功能，更多设备",
+      "title_zh": "Gemini Intelligence：新功能，更多设备",
       "summary_zh": "一名男子对着手机说话。屏幕上的文字显示“Gemini智能”",
       "translated": true
     },
@@ -706,7 +736,7 @@ window.AI_NEWS = {
       "site": "https://blog.google/technology/ai/",
       "id": "693aafde05233a",
       "title_zh": "Google Cloud 推出面向医疗保健行业的 Gemini。",
-      "summary_zh": "Google Cloud 推出面向医疗保健行业的 Gemini，旨在统一临床数据并实现工作流程自动化。减轻行政事务的倦怠感。了解其运作方式。",
+      "summary_zh": "Google Cloud 推出面向医疗保健行业的 Gemini，以统一临床数据并实现工作流程自动化。减轻行政事务导致的倦怠。了解其运作方式。",
       "translated": true
     },
     {
@@ -721,7 +751,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "2f3a94aca13f54",
       "title_zh": "帮助照护者在日常生活中使用人工智能",
-      "summary_zh": "OpenAI Academy 将在美国五个城市为照护者举办免费的 ChatGPT 实践工作坊，帮助他们掌握适用于日常生活的实用人工智能技能。",
+      "summary_zh": "OpenAI Academy 正在美国五个城市为照护者举办免费的 ChatGPT 实践工作坊，帮助他们掌握适用于日常生活的实用人工智能技能。",
       "translated": true
     },
     {
@@ -781,7 +811,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "1196fe7a83e415",
       "title_zh": "前沿工作：人工智能对自由职业工作的影响",
-      "summary_zh": "OpenAI 和 Upwork 的最新研究发现，自由职业工作的需求正在发生变化，出现了新的技能组合，并且人工智能相关项目的预算和工作时长都有所增加。",
+      "summary_zh": "OpenAI 和 Upwork 的最新研究发现，自由职业工作的需求正在发生变化，出现了新的技能组合，并且人工智能相关项目的预算增加，工作时长也延长了。",
       "translated": true
     },
     {
@@ -826,7 +856,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "ec059f62aa95fa",
       "title_zh": "ChatGPT Enterprise现已在AWS Marketplace上线",
-      "summary_zh": "ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和计费关系简化采购流程。",
+      "summary_zh": "ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和账单关系简化采购流程。",
       "translated": true
     },
     {
@@ -841,7 +871,7 @@ window.AI_NEWS = {
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "32886f28a22913",
       "title_zh": "南希·佩洛西的继任者已准备好监管人工智能",
-      "summary_zh": "作为加利福尼亚州参议员，斯科特·韦纳（Scott Wiener）起草了一项旨在遏制先进人工智能风险的立法。现在，在经过一场激烈的国会竞选后，他赢得了……",
+      "summary_zh": "作为加利福尼亚州参议员，斯科特·韦纳起草了一项旨在遏制先进人工智能风险的法案。现在，在经过一场激烈的国会竞选后，他赢得了……",
       "translated": true
     },
     {
@@ -856,7 +886,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "bb2a1c743e38f8",
       "title_zh": "控制室：一个中央系统，用于跟踪和停止我们整个研究基础设施中的模型工作负载",
-      "summary_zh": "了解OpenAI的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全或安保问题时迅速停止这些工作负载。",
+      "summary_zh": "了解OpenAI的控制室如何跟踪我们整个研究基础设施中的模型工作负载，并在出现安全或安保问题时迅速停止这些工作负载。",
       "translated": true
     },
     {
@@ -871,7 +901,7 @@ window.AI_NEWS = {
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "c69b25fce40540",
       "title_zh": "在特种化学品行业利用人工智能进行创新",
-      "summary_zh": "随着企业希望通过人工智能、云计算和高级建模来加速创新，主要挑战是如何将新技术连接起来。",
+      "summary_zh": "随着企业希望通过人工智能、云计算和高级建模来加速创新，主要挑战是如何将新技术与现有系统和流程相结合。",
       "translated": true
     },
     {
@@ -900,7 +930,7 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3ab9de8689b492",
-      "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+      "title_zh": "Kuken Industries在几分钟内搜索70年的图纸",
       "summary_zh": "Kuken Industries 使用 OpenAI API 搜索 70 年的冷却塔图纸。工程师可以在 4.5 分钟内找到维修图纸，而此前需要的时间接近",
       "translated": true
     },
@@ -931,7 +961,7 @@ window.AI_NEWS = {
       "site": "https://openai.com/news",
       "id": "257caa3ac6cb69",
       "title_zh": "与Hacktron合作，寻找OpenAI系统中的漏洞",
-      "summary_zh": "OpenAI 正与 Hacktron 合作，以发现漏洞、测试与第三方服务的连接，并利用前沿人工智能加强防御。",
+      "summary_zh": "OpenAI正与Hacktron合作，以发现漏洞、测试与第三方服务的连接，并利用前沿人工智能加强防御。",
       "translated": true
     },
     {
@@ -945,7 +975,7 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "085ef46e57ced8",
-      "title_zh": "衡量人工智能代理如何处理日常湿式实验室科学工作",
+      "title_zh": "衡量人工智能体如何处理日常湿实验室科学工作",
       "summary_zh": "OpenAI 推出了 BioBasicsBench，这是一个包含 100 项任务的基准测试，用于衡量 AI 代理解释原始实验数据和处理日常湿实验室科学工作的能力。",
       "translated": true
     },
@@ -960,8 +990,8 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "0a6870b8d17e65",
-      "title_zh": "Cult.fit 借助 Codex 增强运营能力",
-      "summary_zh": "Cult.fit 正在使用 Codex 来帮助跨职能团队构建工具、更快地推进工作并改变工作方式。",
+      "title_zh": "Cult.fit 借助 Codex 增强运营实力",
+      "summary_zh": "Cult.fit 正在使用 Codex 来帮助跨职能团队构建工具、加快工作进度并改变工作方式。",
       "translated": true
     },
     {
@@ -975,7 +1005,7 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "41e4767ebf4c9a",
-      "title_zh": "澳大利亚大学正在培养精通人工智能的毕业生",
+      "title_zh": "澳大利亚的大学正在培养精通人工智能的毕业生",
       "summary_zh": "澳大利亚的大学正在扩大对 ChatGPT 的使用，并将人工智能引入教学和学习，以帮助学生为加入人工智能赋能的劳动力队伍做好准备。",
       "translated": true
     },
@@ -991,7 +1021,7 @@ window.AI_NEWS = {
       "site": "https://blog.google/technology/ai/",
       "id": "60ac80f8d14d25",
       "title_zh": "Gemini Omni 1.2 Flash：快速且经济高效，支持更长的片段",
-      "summary_zh": "文字“Gemini隆重推出Gemini Omni 1.2 Flash”，周围环绕着蜂巢、正在交谈的动物、一只鱿鱼和一位在街上行走的女士的图像",
+      "summary_zh": "文字“Gemini隆重推出Gemini Omni 1.2 Flash” ，周围环绕着蜂巢、正在交谈的动物、一只鱿鱼和一位在街上行走的女士的图像",
       "translated": true
     },
     {
@@ -1080,9 +1110,9 @@ window.AI_NEWS = {
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "400584f806d71d",
-      "title_zh": "德克萨斯州曾是人工智能数据中心建设的新中心。这可能已经玩完了。",
-      "summary_zh": "德克萨斯州是美国增长最快的数据中心市场，也是科技巨头最大规模人工智能建设的起点。但席卷“孤星州”的民主党浪潮",
-      "translated": true
+      "title_zh": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary_zh": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State ",
+      "translated": false
     },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -1095,9 +1125,9 @@ window.AI_NEWS = {
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "82e84fac8be86a",
-      "title_zh": "OpenAI将收购Pierre Computer Company, Inc.",
-      "summary_zh": "OpenAI将收购Pierre Computer Company，以扩展Codex用于构建、理解和审查代码的工具。",
-      "translated": true
+      "title_zh": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "translated": false
     },
     {
       "title": "Securing the agentic enterprise with data lineage",
@@ -1265,21 +1295,6 @@ window.AI_NEWS = {
       "translated": false
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "image": "",
-      "published": "2026-11-02T18:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "697e01cc2b73f2",
-      "title_zh": "Preparing our next security sprint to harden OpenAI",
-      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "translated": false
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
@@ -1292,6 +1307,21 @@ window.AI_NEWS = {
       "id": "07b815563f2d3a",
       "title_zh": "Rewarding defenders with bigger bug bounties",
       "summary_zh": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "translated": false
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "image": "",
+      "published": "2026-11-02T18:00:00+00:00",
+      "category": "research",
+      "source_id": "openai",
+      "source": "OpenAI",
+      "site": "https://openai.com/news",
+      "id": "697e01cc2b73f2",
+      "title_zh": "Preparing our next security sprint to harden OpenAI",
+      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "translated": false
     },
     {
@@ -1967,36 +1997,6 @@ window.AI_NEWS = {
       "id": "5d22a28ccf723d",
       "title_zh": "Cloudflare links vulnerability discovery to defense with OpenAI",
       "summary_zh": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "translated": false
-    },
-    {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "image": "",
-      "published": "2026-10-21T00:00:00+00:00",
-      "category": "research",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "494354aeb3338f",
-      "title_zh": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary_zh": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutio",
-      "translated": false
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "image": "",
-      "published": "2026-10-20T10:00:00+00:00",
-      "category": "products",
-      "source_id": "openai",
-      "source": "OpenAI",
-      "site": "https://openai.com/news",
-      "id": "77b925394adc9c",
-      "title_zh": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary_zh": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "translated": false
     },
     {
