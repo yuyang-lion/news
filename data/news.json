@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T06:54:06.305185+00:00",
-  "updated_label": "2026-11-14 06:54 UTC",
+  "generated_at": "2026-11-15T06:59:33.501351+00:00",
+  "updated_label": "2026-11-15 06:59 UTC",
   "sources": [
     {
       "id": "openai",
@@ -35,18 +35,93 @@
   ],
   "items": [
     {
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-13T23:51:44-05:00",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly",
+      "image": "",
+      "published": "2026-11-15T00:08:07+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "e17df7d07ef3c0",
+      "title_zh": "Nvidia 的安全团队在哪里？",
+      "summary_zh": "英伟达的安全主管于8月悄然离职，而现在，首席执行官黄仁勋因其人际关系（包括与一家公司的某位高管的关系）而辞职。",
+      "translated": true
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "",
+      "published": "2026-11-14T21:41:22+00:00",
+      "category": "industry",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "2e9af7c902edf2",
+      "title_zh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职务",
+      "summary_zh": "截至周六下午，该请愿书已获得超过11.5万个签名。",
+      "translated": true
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": "",
+      "published": "2026-11-14T17:30:00+00:00",
+      "category": "products",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "703591c615ad28",
+      "title_zh": "人工智能的坟场：一份不断更新的失败项目和初创公司名单",
+      "summary_zh": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的各种人工智能项目。",
+      "translated": true
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "image": "",
+      "published": "2026-11-14T16:34:15+00:00",
+      "category": "policy",
+      "source_id": "techcrunch",
+      "source": "TechCrunch AI",
+      "site": "https://techcrunch.com/category/artificial-intelligence/",
+      "id": "909a67c98169e2",
+      "title_zh": "亚洲各国政府对英伟达首席执行官黄仁勋离职一事做出反应",
+      "summary_zh": "一些政府已采取行动确认芯片供应承诺，而另一些政府则在监测对本地项目的影响或处理正在进行的调查。",
+      "translated": true
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-14T10:12:19-05:00",
       "category": "industry",
       "source_id": "the-verge",
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "c5a9549e3e1943",
-      "title_zh": "黄仁勋丑闻远未结束",
-      "summary_zh": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会呢？他把自己置于不可或缺的地位。",
+      "id": "2614bd2f0085d6",
+      "title_zh": "黄仁勋与富有远见的表演型创始人兼首席执行官的没落",
+      "summary_zh": "2025年1月6日，英伟达首席执行官黄仁勋终于迎来了他的摇滚明星时刻。他胜利地大步走上舞台，高举着手，伴随着掌声和欢呼声。",
+      "translated": true
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "published": "2026-11-13T19:06:40-05:00",
+      "category": "policy",
+      "source_id": "the-verge",
+      "source": "The Verge AI",
+      "site": "https://www.theverge.com/ai-artificial-intelligence",
+      "id": "14f2acf3df6561",
+      "title_zh": "解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官",
+      "summary_zh": "今天，我将与乔治敦大学安全与新兴技术中心执行主任Helen Toner进行对话。本期节目是第二部分。",
       "translated": true
     },
     {
@@ -60,8 +135,8 @@
       "source": "The Verge AI",
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "a6032f9287673a",
-      "title_zh": "亚马逊计划为全球的线上购物数据编制索引",
-      "summary_zh": "亚马逊计划建立一个数据库，储存互联网上所有地方销售的每一种产品的数据，即使是亚马逊不销售的产品，并将这些信息公之于众。",
+      "title_zh": "亚马逊计划为全球在线购物数据编制索引",
+      "summary_zh": "亚马逊计划建立一个数据库，储存互联网上任何地方销售的每种产品的数据，即使是亚马逊不销售的产品，并将这些信息公之于众。",
       "translated": true
     },
     {
@@ -76,7 +151,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "33807e7289d1e2",
       "title_zh": "风险投资人和创始人表示，黄仁勋的离任在人工智能初创企业的融资方面留下了巨大的缺口",
-      "summary_zh": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。",
+      "summary_zh": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正准备迎接更少的投资和更低的估值。",
       "translated": true
     },
     {
@@ -105,8 +180,8 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "b7f5aacdece750",
-      "title_zh": "AI代理初创公司LangChain估值达30亿美元",
-      "summary_zh": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7000名客户。",
+      "title_zh": "AI 代理初创公司 LangChain 估值达 30 亿美元",
+      "summary_zh": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7,000名客户。",
       "translated": true
     },
     {
@@ -121,7 +196,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "a22da049bf5708",
       "title_zh": "黄仁勋传奇背后的真正利害关系",
-      "summary_zh": "围绕英伟达首席执行官黄仁勋的传奇故事在上周四落下了一幕，当时黄仁勋辞去了这家人工智能领域最重要公司最高领导的职位。但是",
+      "summary_zh": "围绕英伟达首席执行官黄仁勋的传奇故事在上周四落下了一幕，当时黄仁勋辞去了这家人工智能领域最重要公司的最高职位。但是",
       "translated": true
     },
     {
@@ -136,7 +211,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "05a9c2b5b0ce31",
       "title_zh": "我们来谈谈黄仁勋的众多绯闻吧！",
-      "summary_zh": "通常，我们会主动回答您关于某则新闻事件的问题，但坦白说，对于Nvidia到底发生了什么，我们真的没有任何答案。",
+      "summary_zh": "通常，我们会主动回答您关于新闻事件的问题，但坦白说，我们对Nvidia到底发生了什么事，真的没有什么答案。",
       "translated": true
     },
     {
@@ -150,8 +225,8 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "6198b832fe9777",
-      "title_zh": "被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的支撑——哎呀，Jensen！",
-      "summary_zh": "一项新研究表明，中国最先进的人工智能模型是在被禁用的英伟达芯片上训练的。",
+      "title_zh": "被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的功臣——哎呀，Jensen！",
+      "summary_zh": "最新研究表明，中国最先进的人工智能模型是在被禁用的Nvidia芯片上训练的。",
       "translated": true
     },
     {
@@ -166,7 +241,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "698d0a412ca6b6",
       "title_zh": "ChatGPT 的新钱包让 AI 代理为您购物并结账",
-      "summary_zh": "ChatGPT钱包让AI代理能够代表用户购物并结账，该功能首先将限量推出，面向美国Pro版订阅用户。",
+      "summary_zh": "ChatGPT钱包让AI代理能够代用户购物并结账，该功能首先将限量推出，面向美国Pro版订阅用户。",
       "translated": true
     },
     {
@@ -181,7 +256,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "dc9987a4d07e83",
       "title_zh": "正在发酵的黄仁勋丑闻：时间线",
-      "summary_zh": "黄仁勋因婚外情丑闻已从英伟达辞职，鉴于美国和中国正在竞相开发最先进的人工智能技术，此事可能对国家安全产生影响。",
+      "summary_zh": "在曝出婚外情丑闻后，Jensen Huang已从Nvidia辞职。鉴于美国和中国正在竞相开发最先进的……，此事可能对国家安全产生影响。",
       "translated": true
     },
     {
@@ -195,7 +270,7 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "7dce532af50a38",
-      "title_zh": "隆重推出 ChatGPT 钱包",
+      "title_zh": "隆重推出ChatGPT钱包",
       "summary_zh": "隆重推出ChatGPT钱包，这是ChatGPT Work、Codex和dots中的代理在获得用户批准并享有现有银行卡保护的情况下完成购买的安全方式。",
       "translated": true
     },
@@ -210,7 +285,7 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "31d4b112cca32b",
-      "title_zh": "ElevenLabs 的新应用程序将会议笔记记录和听写功能相结合，面向团队使用",
+      "title_zh": "ElevenLabs的新应用将会议笔记和听写功能合二为一，面向团队使用",
       "summary_zh": "ElevenAI 是一款面向团队和企业的新型会议记录和听写应用程序。",
       "translated": true
     },
@@ -241,7 +316,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "f6a06e9b566454",
       "title_zh": "据报道，黄仁勋对他的继任者没有表现出信心",
-      "summary_zh": "黄仁勋在夏季的一次会议上将Kress形容为“被车灯照到的鹿”。",
+      "summary_zh": "黄仁勋在夏季的一次会议上将克雷斯形容为“被车灯照住的鹿”。",
       "translated": true
     },
     {
@@ -285,8 +360,8 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "c962cdd7112ac2",
-      "title_zh": "民主党人对英伟达发起调查，并撰写措辞严厉的信函，指责黄仁勋与特朗普的“勾当”",
-      "summary_zh": "这是自所谓间谍事件的消息曝出以来，国会对英伟达在中国销售情况及其与特朗普的往来进行的第二次调查。",
+      "title_zh": "民主党人对英伟达发起调查，并就黄仁勋与特朗普的“勾当”撰写措辞严厉的信函",
+      "summary_zh": "这是自所谓间谍事件曝出以来，国会对英伟达在中国销售情况及其与特朗普的往来进行的第二次调查。",
       "translated": true
     },
     {
@@ -301,7 +376,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "25c88025c9b052",
       "title_zh": "Muse现在可以向美国企业拨打电话——只要您付费",
-      "summary_zh": "Muse 的人工智能现在可以向美国企业拨打外拨电话，但这项服务并非免费。",
+      "summary_zh": "Muse 的人工智能现在可以向美国企业拨打外拨电话，但这不是免费的。",
       "translated": true
     },
     {
@@ -346,7 +421,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "f93daa6b3b80de",
       "title_zh": "路透社报道称，黄仁勋有第三段婚外情",
-      "summary_zh": "路透社没有透露与黄仁勋有染的新员工的姓名，但表示她是英伟达的员工。",
+      "summary_zh": "路透社未透露与黄仁勋有染的新员工的姓名，但表示她是英伟达的员工。",
       "translated": true
     },
     {
@@ -376,7 +451,7 @@
       "site": "https://openai.com/news",
       "id": "b79dbf148f52ca",
       "title_zh": "Amplitude如何借助OpenAI在1–2天内推出产品改进",
-      "summary_zh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队使用编码代理交付变更，并进行衡量。",
+      "summary_zh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，能够识别需要构建的内容，帮助团队通过编码代理交付变更，并进行衡量。",
       "translated": true
     },
     {
@@ -406,7 +481,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "29820f8b20de65",
       "title_zh": "Google 最新搜索升级承诺为您最复杂的问题提供更好的答案",
-      "summary_zh": "在 Gemini 4 Hydrogen 的支持下，Google 的 AI 模式在理解复杂查询、显示相关链接以及提供更丰富的可视化回复方面正变得越来越出色。",
+      "summary_zh": "在 Gemini 4 Hydrogen 的支持下，Google 的 AI 模式在理解复杂查询、显示相关链接以及提供更丰富的视觉回复方面正变得越来越出色。",
       "translated": true
     },
     {
@@ -421,7 +496,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "482c6c4ad592a9",
       "title_zh": "Nectar推出AI代理，为品牌方实现创作者发现和联系的自动化",
-      "summary_zh": "Nectar 的新 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理外联和合作关系，并跟踪活动成效。",
+      "summary_zh": "Nectar 的新 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪活动成效。",
       "translated": true
     },
     {
@@ -435,23 +510,8 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "2a3c2f0a780a2d",
-      "title_zh": "黄仁勋的离职使英伟达对开源的支持受到质疑",
-      "summary_zh": "Jensen Huang的辞职引发了人们对Nvidia对开源人工智能承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及相关倡导。",
-      "translated": true
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a sele",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "published": "2026-11-12T13:35:54-05:00",
-      "category": "products",
-      "source_id": "the-verge",
-      "source": "The Verge AI",
-      "site": "https://www.theverge.com/ai-artificial-intelligence",
-      "id": "5fbbac9806717e",
-      "title_zh": "研究发现，AI聊天机器人正在推荐虚假零售网站",
-      "summary_zh": "一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被引导至冒牌网站和其他存在风险的网站。该研究……",
+      "title_zh": "Jensen Huang的离职使人们对Nvidia对开源的支持产生疑问",
+      "summary_zh": "黄仁勋的辞职引发了人们对英伟达对开源人工智能承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及相关倡导。",
       "translated": true
     },
     {
@@ -466,7 +526,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "id": "64fb4a3ee419a0",
       "title_zh": "哦，Palantir现在是“进步”的了，是吗？",
-      "summary_zh": "我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将那些事情搁置。上周的选举是",
+      "summary_zh": "我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能把那些事情搁置一边。上周的选举是",
       "translated": true
     },
     {
@@ -495,68 +555,8 @@
       "source": "TechCrunch AI",
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "id": "08a1c9cc822883",
-      "title_zh": "Hugging Face首席执行官誓言在Jensen Huang退出后继续为开源人工智能而战",
-      "summary_zh": "Hugging Face的首席执行官承诺，在黄仁勋退出后将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
-      "translated": true
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "image": "",
-      "published": "2026-11-12T17:17:58+00:00",
-      "category": "research",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "209b35d1505bf2",
-      "title_zh": "美联航以网络安全风险为由，禁止AI代理预订航班",
-      "summary_zh": "该航空公司表示，将不允许客户使用人工智能代理预订航班和管理预订。",
-      "translated": true
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "image": "",
-      "published": "2026-11-12T17:00:52+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "bb2d8996b6caa9",
-      "title_zh": "软银数十亿美元的损失可能限制了人工智能的天然气雄心",
-      "summary_zh": "软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔亏损对电力市场的意义。",
-      "translated": true
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "image": "",
-      "published": "2026-11-12T17:00:00+00:00",
-      "category": "tools",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "ff52a8d6443bcb",
-      "title_zh": "Phota Labs利用人工智能将日常照片转变为专业水准的照片",
-      "summary_zh": "Phota Labs并不打算再为消费者提供一款照片编辑工具，而是希望利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地……",
-      "translated": true
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "image": "",
-      "published": "2026-11-12T16:36:37+00:00",
-      "category": "policy",
-      "source_id": "techcrunch",
-      "source": "TechCrunch AI",
-      "site": "https://techcrunch.com/category/artificial-intelligence/",
-      "id": "46dc827985e8b1",
-      "title_zh": "黄仁勋同意在国会作证",
-      "summary_zh": "在有报道称黄仁勋与一名涉嫌为中国从事间谍活动的女性有染后，他被免去首席执行官职务。在几位高管之后，他于周三同意作证。",
+      "title_zh": "Hugging Face首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
+      "summary_zh": "Hugging Face的首席执行官承诺，在黄仁勋退出后将继续为开源人工智能而战，这引发了人们对英伟达129亿美元收购的质疑。",
       "translated": true
     },
     {
@@ -615,7 +615,7 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "d1587157932330",
-      "title_zh": "Gilbert + Tobin利用人工智能重新思考法律业务",
+      "title_zh": "Gilbert + Tobin借助人工智能重新思考法律业务",
       "summary_zh": "与Gilbert + Tobin合伙人兼首席执行官Sam Nickless的对话。",
       "translated": true
     },
@@ -645,8 +645,8 @@
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "abd7ac13a4a1f4",
-      "title_zh": "试用 Tabletop：可定制的协作空间，供团队共同规划、娱乐和开展更多活动。",
-      "summary_zh": "Tabletop 是 Google Labs 的一项全新实验，旨在实现团队协作。与您的团队一起创建互动式行程、投票和对阵表。加入候补名单。",
+      "title_zh": "试用 Tabletop：可定制的协作空间，供团队共同规划、游玩并开展更多活动。",
+      "summary_zh": "Tabletop 是 Google Labs 的一项全新实验，旨在促进团队协作。与您的团队一起创建互动式行程、投票和对阵表。加入候补名单。",
       "translated": true
     },
     {
@@ -661,7 +661,7 @@
       "site": "https://blog.google/technology/ai/",
       "id": "32f34547dcf652",
       "title_zh": "体验 Esther Mahlangu 博士的艺术和传承",
-      "summary_zh": "Nontobeko Ntombela博士的肖像，她是威特沃特斯兰大学威茨艺术学院策展、公共与视觉文化系的高级讲师",
+      "summary_zh": "Nontobeko Ntombela博士肖像，她是威特沃特斯兰大学威茨艺术学院策展、公共与视觉文化系的高级讲师",
       "translated": true
     },
     {
@@ -676,7 +676,7 @@
       "site": "https://openai.com/news",
       "id": "904fe7d78f3eb2",
       "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
-      "summary_zh": "超过 2 万名退伍军人和即将退役的现役军人已领取了一年的免费 ChatGPT Plus。了解他们如何利用它为平民职业做好准备。",
+      "summary_zh": "超过20,000名退伍军人和即将退役的现役军人已领取了一年免费的ChatGPT Plus。了解他们如何利用该服务为平民职业做好准备。",
       "translated": true
     },
     {
@@ -690,8 +690,8 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "a067f8ea946a5d",
-      "title_zh": "JioStar首席架构师谈论5亿用户规模下的AI发现",
-      "summary_zh": "JioStar 的 Vijay Seshadri 阐述了在 5 亿用户规模下的人工智能发现。阅读他关于评估、防护措施以及将人工智能投入生产的经验教训。",
+      "title_zh": "JioStar首席架构师谈5亿用户规模下的AI发现",
+      "summary_zh": "JioStar的Vijay Seshadri阐述了5亿用户规模下的AI发现。阅读他关于评估、防护措施以及将人工智能投入生产的经验。",
       "translated": true
     },
     {
@@ -705,7 +705,7 @@
       "source": "Google AI",
       "site": "https://blog.google/technology/ai/",
       "id": "059cb4ad238423",
-      "title_zh": "Gemini Intelligence：新功能，更多设备",
+      "title_zh": "Gemini智能：新功能，更多设备",
       "summary_zh": "一名男子对着手机说话。屏幕上的文字显示“Gemini智能”",
       "translated": true
     },
@@ -721,7 +721,7 @@
       "site": "https://blog.google/technology/ai/",
       "id": "551ce822f91f42",
       "title_zh": "我们将 Adobe 的创意和办公工具与您日常使用的 Google 应用更加紧密地结合在一起。",
-      "summary_zh": "Google 和 Adobe 正在整合创意和办公工具。在云端硬盘中编辑 PDF，并在 Gemini 中使用 Adobe AI。了解此次合作的新动态。",
+      "summary_zh": "Google 和 Adobe 正在整合创意和办公工具。在云盘中编辑 PDF，并在 Gemini 中使用 Adobe AI。了解此次合作的新动态。",
       "translated": true
     },
     {
@@ -766,7 +766,7 @@
       "site": "https://openai.com/news",
       "id": "a79b7fe10185c8",
       "title_zh": "在 ChatGPT 中推出企业功能",
-      "summary_zh": "在 ChatGPT 中管理您的业务信息，了解您的业务如何展示，并将兴趣转化为行动。",
+      "summary_zh": "在 ChatGPT 中管理您的业务信息，深入了解您的业务展示方式，并将兴趣转化为行动。",
       "translated": true
     },
     {
@@ -811,7 +811,7 @@
       "site": "https://openai.com/news",
       "id": "1196fe7a83e415",
       "title_zh": "前沿工作：人工智能对自由职业工作的影响",
-      "summary_zh": "OpenAI 和 Upwork 的最新研究发现，自由职业工作的需求正在发生变化，出现了新的技能组合，并且人工智能相关项目的预算增加，工作时长也延长了。",
+      "summary_zh": "OpenAI 和 Upwork 的最新研究发现，自由职业工作的需求正在发生变化，出现了新的技能组合，并且人工智能相关项目的预算和工作时长都有所增加。",
       "translated": true
     },
     {
@@ -826,7 +826,7 @@
       "site": "https://openai.com/news",
       "id": "0bbdba2a01a448",
       "title_zh": "Cogent和OpenAI为企业打造网络防御工厂",
-      "summary_zh": "Cogent将OpenAI模型与企业背景相结合，帮助通过代理自动修复漏洞。",
+      "summary_zh": "Cogent 将 OpenAI 模型与企业背景相结合，帮助通过代理自动修复漏洞。",
       "translated": true
     },
     {
@@ -840,8 +840,8 @@
       "source": "MIT Tech Review",
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "c217a1813dc91e",
-      "title_zh": "对数据中心的抵制可能实际上只是针对电力问题",
-      "summary_zh": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在您的收件箱中收到此类文章，请在此处订阅。当选民前往……时",
+      "title_zh": "对数据中心的抵制可能实际上只是针对用电问题",
+      "summary_zh": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在收件箱中收到此类资讯，请在此处订阅。当选民前往……时",
       "translated": true
     },
     {
@@ -871,7 +871,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "32886f28a22913",
       "title_zh": "南希·佩洛西的继任者已准备好监管人工智能",
-      "summary_zh": "作为加利福尼亚州参议员，斯科特·韦纳起草了一项旨在遏制先进人工智能风险的法案。现在，在经过一场激烈的国会竞选后，他赢得了……",
+      "summary_zh": "作为加利福尼亚州参议员，斯科特·韦纳（Scott Wiener）起草了一项旨在遏制先进人工智能风险的立法。现在，在经过一场激烈的国会竞选后，他赢得了……",
       "translated": true
     },
     {
@@ -946,7 +946,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "id": "75b8342c126b94",
       "title_zh": "我看着一个人形机器人打扫我的公寓。这感觉就像是体验了一把未来。",
-      "summary_zh": "我不是那种通常会花钱请家政清洁工的人。我太节俭了，而且我有点喜欢边听播客边用百洁布把浴缸擦得干干净净。",
+      "summary_zh": "我不是那种通常会花钱请家政清洁工的人。我太节俭了，而且我有点喜欢边听播客边用百洁布使劲擦浴缸。",
       "translated": true
     },
     {
@@ -961,7 +961,7 @@
       "site": "https://openai.com/news",
       "id": "257caa3ac6cb69",
       "title_zh": "与Hacktron合作，寻找OpenAI系统中的漏洞",
-      "summary_zh": "OpenAI正与Hacktron合作，以发现漏洞、测试与第三方服务的连接，并利用前沿人工智能加强防御。",
+      "summary_zh": "OpenAI正在与Hacktron合作，以发现漏洞、测试与第三方服务的连接，并利用尖端人工智能加强防御。",
       "translated": true
     },
     {
@@ -975,8 +975,8 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "085ef46e57ced8",
-      "title_zh": "衡量人工智能体如何处理日常湿实验室科学工作",
-      "summary_zh": "OpenAI 推出了 BioBasicsBench，这是一个包含 100 项任务的基准测试，用于衡量 AI 代理解释原始实验数据和处理日常湿实验室科学工作的能力。",
+      "title_zh": "衡量人工智能代理如何处理日常湿实验室科学工作",
+      "summary_zh": "OpenAI 推出了 BioBasicsBench，这是一个包含 100 项任务的基准测试，用于衡量人工智能代理解释原始实验数据和处理日常湿实验室科学工作的能力。",
       "translated": true
     },
     {
@@ -1005,8 +1005,8 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "41e4767ebf4c9a",
-      "title_zh": "澳大利亚的大学正在培养精通人工智能的毕业生",
-      "summary_zh": "澳大利亚的大学正在扩大对 ChatGPT 的使用，并将人工智能引入教学和学习，以帮助学生为加入人工智能赋能的劳动力队伍做好准备。",
+      "title_zh": "澳大利亚大学正在培养精通人工智能的毕业生",
+      "summary_zh": "澳大利亚的大学正在扩大对 ChatGPT 的使用，并将人工智能引入教学和学习，以帮助学生为人工智能赋能的职场做好准备。",
       "translated": true
     },
     {
@@ -1021,7 +1021,7 @@
       "site": "https://blog.google/technology/ai/",
       "id": "60ac80f8d14d25",
       "title_zh": "Gemini Omni 1.2 Flash：快速且经济高效，支持更长的片段",
-      "summary_zh": "文字“Gemini隆重推出Gemini Omni 1.2 Flash” ，周围环绕着蜂巢、正在交谈的动物、一只鱿鱼和一位在街上行走的女士的图像",
+      "summary_zh": "文字“Gemini隆重推出Gemini Omni 1.2 Flash”，周围环绕着蜂巢、正在交谈的动物、一只鱿鱼和一位在街上行走的女性的图像",
       "translated": true
     },
     {
@@ -1035,7 +1035,7 @@
       "source": "OpenAI",
       "site": "https://openai.com/news",
       "id": "3357a20868cb4d",
-      "title_zh": "GPT‑6 Cyber：推进对齐型网络安全代理的前沿技术",
+      "title_zh": "GPT‑6 Cyber：推进对齐型网络安全代理的尖端技术",
       "summary_zh": "隆重推出GPT‑6 Cyber，这是OpenAI的网络安全模型，用于发现可被利用的漏洞并开发补丁，经过训练，能够始终保持在授权范围内。",
       "translated": true
     },
@@ -1051,7 +1051,7 @@
       "site": "https://openai.com/news",
       "id": "9b8a8b94d9d1c1",
       "title_zh": "Merge利用OpenAI技术构建产品和业务工具",
-      "summary_zh": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审核产品代码并为营销提供支持。其团队还使用人工智能来规划高管晚宴和准备销售更新。",
+      "summary_zh": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审核产品代码并支持营销工作。其团队还使用人工智能来规划高管晚宴和准备销售更新。",
       "translated": true
     },
     {
@@ -1081,7 +1081,7 @@
       "site": "https://openai.com/news",
       "id": "16c9a7d3571076",
       "title_zh": "Flipsnack 通过转化率优化增加产品注册量",
-      "summary_zh": "Flipsnack 将 ChatGPT 广告活动的重点放在吸引人们试用其产品上，在增加注册量的同时降低每次注册的成本。",
+      "summary_zh": "Flipsnack 将 ChatGPT 广告活动的重点放在吸引人们试用其产品上，从而增加注册量，同时降低每次注册的成本。",
       "translated": true
     },
     {
